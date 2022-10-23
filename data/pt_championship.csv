@@ -1,0 +1,251 @@
+,date,home,result,away,phase
+0,2022-08-05,Benfica,4-0,FC Arouca,J1
+1,2022-08-06,Rio Ave,0-1,FC Vizela,J1
+2,2022-08-06,Estoril Praia,2-0,FC Famalicão,J1
+3,2022-08-06,FC Porto,5-1,Marítimo,J1
+4,2022-08-07,Santa Clara,0-0,Casa Pia,J1
+5,2022-08-07,SC Braga,3-3,Sporting,J1
+6,2022-08-07,GD Chaves,0-1,Vitória SC,J1
+7,2022-08-07,Portimonense,0-1,Boavista,J1
+8,2022-08-08,Gil Vicente,1-0,Paços de Ferreira,J1
+9,2022-08-12,FC Famalicão,0-3,SC Braga,J2
+10,2022-08-13,Casa Pia,0-1,Benfica,J2
+11,2022-08-13,Sporting,3-0,Rio Ave,J2
+12,2022-08-14,Boavista,2-1,Santa Clara,J2
+13,2022-08-14,FC Vizela,0-1,FC Porto,J2
+14,2022-08-14,Vitória SC,1-0,Estoril Praia,J2
+15,2022-08-15,Marítimo,1-2,GD Chaves,J2
+16,2022-08-15,FC Arouca,1-0,Gil Vicente,J2
+17,2022-08-15,Paços de Ferreira,0-3,Portimonense,J2
+18,2022-08-19,Estoril Praia,2-2,Rio Ave,J3
+19,2022-08-20,Santa Clara,1-2,FC Arouca,J3
+20,2022-08-20,GD Chaves,1-1,FC Vizela,J3
+21,2022-08-20,FC Porto,3-0,Sporting,J3
+22,2022-08-21,Casa Pia,2-0,Boavista,J3
+23,2022-08-21,SC Braga,5-0,Marítimo,J3
+24,2022-08-21,Portimonense,2-1,Vitória SC,J3
+25,2022-08-22,Gil Vicente,0-0,FC Famalicão,J3
+26,2022-08-26,Paços de Ferreira,0-3,Estoril Praia,J4
+27,2022-08-27,Marítimo,0-1,Portimonense,J4
+28,2022-08-27,Boavista,0-3,Benfica,J4
+29,2022-08-27,Sporting,0-2,GD Chaves,J4
+30,2022-08-28,FC Famalicão,1-0,Santa Clara,J4
+31,2022-08-28,FC Arouca,0-6,SC Braga,J4
+32,2022-08-28,Rio Ave,3-1,FC Porto,J4
+33,2022-08-29,Vitória SC,0-1,Casa Pia,J4
+34,2022-08-29,FC Vizela,2-2,Gil Vicente,J4
+35,2022-08-30,Benfica,3-2,Paços de Ferreira,J3
+36,2022-09-02,Benfica,2-1,FC Vizela,J5
+37,2022-09-02,Estoril Praia,0-2,Sporting,J5
+38,2022-09-03,SC Braga,1-0,Vitória SC,J5
+39,2022-09-03,Gil Vicente,0-2,FC Porto,J5
+40,2022-09-04,Casa Pia,0-0,FC Arouca,J5
+41,2022-09-04,Santa Clara,2-1,Marítimo,J5
+42,2022-09-04,Portimonense,1-0,FC Famalicão,J5
+43,2022-09-05,Boavista,1-0,Paços de Ferreira,J5
+44,2022-09-05,GD Chaves,1-1,Rio Ave,J5
+45,2022-09-09,Vitória SC,1-0,Santa Clara,J6
+46,2022-09-10,FC Famalicão,0-1,Benfica,J6
+47,2022-09-10,Sporting,4-0,Portimonense,J6
+48,2022-09-10,FC Porto,3-0,GD Chaves,J6
+49,2022-09-11,Paços de Ferreira,2-3,Casa Pia,J6
+50,2022-09-11,FC Arouca,1-2,Boavista,J6
+51,2022-09-11,Marítimo,1-2,Gil Vicente,J6
+52,2022-09-11,Rio Ave,2-3,SC Braga,J6
+53,2022-09-12,FC Vizela,0-1,Estoril Praia,J6
+54,2022-09-16,Portimonense,1-0,GD Chaves,J7
+55,2022-09-17,Gil Vicente,2-2,Rio Ave,J7
+56,2022-09-17,Santa Clara,1-1,Paços de Ferreira,J7
+57,2022-09-17,Estoril Praia,1-1,FC Porto,J7
+58,2022-09-17,Boavista,2-1,Sporting,J7
+59,2022-09-18,FC Arouca,2-2,Vitória SC,J7
+60,2022-09-18,Casa Pia,1-0,FC Famalicão,J7
+61,2022-09-18,Benfica,5-0,Marítimo,J7
+62,2022-09-18,SC Braga,2-0,FC Vizela,J7
+63,2022-09-30,Sporting,3-1,Gil Vicente,J8
+64,2022-09-30,FC Porto,4-1,SC Braga,J8
+65,2022-10-01,FC Vizela,1-0,Portimonense,J8
+66,2022-10-01,GD Chaves,1-1,Estoril Praia,J8
+67,2022-10-01,Vitória SC,0-0,Benfica,J8
+68,2022-10-02,Rio Ave,1-0,Santa Clara,J8
+69,2022-10-02,Paços de Ferreira,1-1,FC Arouca,J8
+70,2022-10-02,FC Famalicão,4-0,Boavista,J8
+71,2022-10-03,Marítimo,1-2,Casa Pia,J8
+72,2022-10-07,Gil Vicente,0-1,Estoril Praia,J9
+73,2022-10-08,Santa Clara,1-2,Sporting,J9
+74,2022-10-08,Portimonense,0-2,FC Porto,J9
+75,2022-10-08,Benfica,4-2,Rio Ave,J9
+76,2022-10-08,Paços de Ferreira,0-1,Vitória SC,J9
+77,2022-10-09,Boavista,1-1,Marítimo,J9
+78,2022-10-09,Casa Pia,0-1,FC Vizela,J9
+79,2022-10-09,SC Braga,0-1,GD Chaves,J9
+80,2022-10-10,FC Arouca,4-1,FC Famalicão,J9
+81,2022-10-21,FC Porto,0-1,Benfica,J10
+82,2022-10-22,FC Famalicão,2-1,Paços de Ferreira,J10
+83,2022-10-22,Estoril Praia,0-2,SC Braga,J10
+84,2022-10-22,Sporting,3-1,Casa Pia,J10
+85,2022-10-23,FC Vizela,0-1,Santa Clara,J10
+86,2022-10-23,Marítimo,1-1,FC Arouca,J10
+87,2022-10-23,GD Chaves,vs,Gil Vicente,J10
+88,2022-10-23,Vitória SC,vs,Boavista,J10
+89,2022-10-24,Rio Ave,vs,Portimonense,J10
+90,2022-10-28,Paços de Ferreira,vs,Marítimo,J11
+91,2022-10-29,Santa Clara,vs,FC Porto,J11
+92,2022-10-29,Benfica,vs,GD Chaves,J11
+93,2022-10-29,FC Arouca,vs,Sporting,J11
+94,2022-10-30,Portimonense,vs,Estoril Praia,J11
+95,2022-10-30,Boavista,vs,FC Vizela,J11
+96,2022-10-30,Casa Pia,vs,Rio Ave,J11
+97,2022-10-30,Gil Vicente,vs,SC Braga,J11
+98,2022-10-31,Vitória SC,vs,FC Famalicão,J11
+99,2022-11-04,Gil Vicente,vs,Portimonense,J12
+100,2022-11-05,FC Vizela,vs,FC Arouca,J12
+101,2022-11-05,FC Porto,vs,Paços de Ferreira,J12
+102,2022-11-05,Sporting,vs,Vitória SC,J12
+103,2022-11-06,Rio Ave,vs,Boavista,J12
+104,2022-11-06,Marítimo,vs,FC Famalicão,J12
+105,2022-11-06,SC Braga,vs,Casa Pia,J12
+106,2022-11-06,Estoril Praia,vs,Benfica,J12
+107,2022-11-07,GD Chaves,vs,Santa Clara,J12
+108,2022-11-12,FC Arouca,vs,Rio Ave,J13
+109,2022-11-12,Boavista,vs,FC Porto,J13
+110,2022-11-13,Casa Pia,vs,GD Chaves,J13
+111,2022-11-13,Vitória SC,vs,Marítimo,J13
+112,2022-11-13,Paços de Ferreira,vs,FC Vizela,J13
+113,2022-11-13,Portimonense,vs,SC Braga,J13
+114,2022-11-13,Benfica,vs,Gil Vicente,J13
+115,2022-11-13,FC Famalicão,vs,Sporting,J13
+116,2022-11-14,Santa Clara,vs,Estoril Praia,J13
+117,2022-12-28,Estoril Praia,vs,Boavista,J14
+118,2022-12-28,Portimonense,vs,Casa Pia,J14
+119,2022-12-28,Sporting,vs,Paços de Ferreira,J14
+120,2022-12-28,FC Vizela,vs,Vitória SC,J14
+121,2022-12-28,Gil Vicente,vs,Santa Clara,J14
+122,2022-12-28,Rio Ave,vs,Marítimo,J14
+123,2022-12-28,GD Chaves,vs,FC Famalicão,J14
+124,2022-12-28,SC Braga,vs,Benfica,J14
+125,2022-12-28,FC Porto,vs,FC Arouca,J14
+126,2023-01-08,Marítimo,vs,Sporting,J15
+127,2023-01-08,Vitória SC,vs,Rio Ave,J15
+128,2023-01-08,Santa Clara,vs,SC Braga,J15
+129,2023-01-08,Paços de Ferreira,vs,GD Chaves,J15
+130,2023-01-08,FC Famalicão,vs,FC Vizela,J15
+131,2023-01-08,Benfica,vs,Portimonense,J15
+132,2023-01-08,Casa Pia,vs,FC Porto,J15
+133,2023-01-08,FC Arouca,vs,Estoril Praia,J15
+134,2023-01-08,Boavista,vs,Gil Vicente,J15
+135,2023-01-15,FC Porto,vs,FC Famalicão,J16
+136,2023-01-15,FC Vizela,vs,Marítimo,J16
+137,2023-01-15,Rio Ave,vs,Paços de Ferreira,J16
+138,2023-01-15,Estoril Praia,vs,Casa Pia,J16
+139,2023-01-15,Gil Vicente,vs,Vitória SC,J16
+140,2023-01-15,Portimonense,vs,Santa Clara,J16
+141,2023-01-15,GD Chaves,vs,FC Arouca,J16
+142,2023-01-15,Benfica,vs,Sporting,J16
+143,2023-01-15,SC Braga,vs,Boavista,J16
+144,2023-01-21,Vitória SC,vs,FC Porto,J17
+145,2023-01-21,Paços de Ferreira,vs,SC Braga,J17
+146,2023-01-21,Marítimo,vs,Estoril Praia,J17
+147,2023-01-21,Sporting,vs,FC Vizela,J17
+148,2023-01-21,Santa Clara,vs,Benfica,J17
+149,2023-01-21,FC Famalicão,vs,Rio Ave,J17
+150,2023-01-21,FC Arouca,vs,Portimonense,J17
+151,2023-01-21,Casa Pia,vs,Gil Vicente,J17
+152,2023-01-21,Boavista,vs,GD Chaves,J17
+153,2023-01-29,FC Vizela,vs,Rio Ave,J18
+154,2023-01-29,Paços de Ferreira,vs,Gil Vicente,J18
+155,2023-01-29,FC Famalicão,vs,Estoril Praia,J18
+156,2023-01-29,FC Arouca,vs,Benfica,J18
+157,2023-01-29,Marítimo,vs,FC Porto,J18
+158,2023-01-29,Sporting,vs,SC Braga,J18
+159,2023-01-29,Casa Pia,vs,Santa Clara,J18
+160,2023-01-29,Vitória SC,vs,GD Chaves,J18
+161,2023-01-29,Boavista,vs,Portimonense,J18
+162,2023-02-05,Gil Vicente,vs,FC Arouca,J19
+163,2023-02-05,Estoril Praia,vs,Vitória SC,J19
+164,2023-02-05,FC Porto,vs,FC Vizela,J19
+165,2023-02-05,Rio Ave,vs,Sporting,J19
+166,2023-02-05,GD Chaves,vs,Marítimo,J19
+167,2023-02-05,SC Braga,vs,FC Famalicão,J19
+168,2023-02-05,Portimonense,vs,Paços de Ferreira,J19
+169,2023-02-05,Benfica,vs,Casa Pia,J19
+170,2023-02-05,Santa Clara,vs,Boavista,J19
+171,2023-02-12,FC Arouca,vs,Santa Clara,J20
+172,2023-02-12,FC Vizela,vs,GD Chaves,J20
+173,2023-02-12,Marítimo,vs,SC Braga,J20
+174,2023-02-12,Paços de Ferreira,vs,Benfica,J20
+175,2023-02-12,Rio Ave,vs,Estoril Praia,J20
+176,2023-02-12,Sporting,vs,FC Porto,J20
+177,2023-02-12,FC Famalicão,vs,Gil Vicente,J20
+178,2023-02-12,Boavista,vs,Casa Pia,J20
+179,2023-02-12,Vitória SC,vs,Portimonense,J20
+180,2023-02-19,GD Chaves,vs,Sporting,J21
+181,2023-02-19,Casa Pia,vs,Vitória SC,J21
+182,2023-02-19,Estoril Praia,vs,Paços de Ferreira,J21
+183,2023-02-19,Gil Vicente,vs,FC Vizela,J21
+184,2023-02-19,Santa Clara,vs,FC Famalicão,J21
+185,2023-02-19,Benfica,vs,Boavista,J21
+186,2023-02-19,SC Braga,vs,FC Arouca,J21
+187,2023-02-19,Portimonense,vs,Marítimo,J21
+188,2023-02-19,FC Porto,vs,Rio Ave,J21
+189,2023-02-26,FC Vizela,vs,Benfica,J22
+190,2023-02-26,Sporting,vs,Estoril Praia,J22
+191,2023-02-26,FC Porto,vs,Gil Vicente,J22
+192,2023-02-26,FC Arouca,vs,Casa Pia,J22
+193,2023-02-26,Rio Ave,vs,GD Chaves,J22
+194,2023-02-26,Marítimo,vs,Santa Clara,J22
+195,2023-02-26,Paços de Ferreira,vs,Boavista,J22
+196,2023-02-26,Vitória SC,vs,SC Braga,J22
+197,2023-02-26,FC Famalicão,vs,Portimonense,J22
+198,2023-03-05,GD Chaves,vs,FC Porto,J23
+199,2023-03-05,Casa Pia,vs,Paços de Ferreira,J23
+200,2023-03-05,Estoril Praia,vs,FC Vizela,J23
+201,2023-03-05,Gil Vicente,vs,Marítimo,J23
+202,2023-03-05,Santa Clara,vs,Vitória SC,J23
+203,2023-03-05,Portimonense,vs,Sporting,J23
+204,2023-03-05,Boavista,vs,FC Arouca,J23
+205,2023-03-05,Benfica,vs,FC Famalicão,J23
+206,2023-03-05,SC Braga,vs,Rio Ave,J23
+207,2023-03-12,FC Famalicão,vs,Casa Pia,J24
+208,2023-03-12,Rio Ave,vs,Gil Vicente,J24
+209,2023-03-12,Paços de Ferreira,vs,Santa Clara,J24
+210,2023-03-12,FC Porto,vs,Estoril Praia,J24
+211,2023-03-12,Marítimo,vs,Benfica,J24
+212,2023-03-12,GD Chaves,vs,Portimonense,J24
+213,2023-03-12,Vitória SC,vs,FC Arouca,J24
+214,2023-03-12,Sporting,vs,Boavista,J24
+215,2023-03-12,FC Vizela,vs,SC Braga,J24
+216,2023-03-19,Estoril Praia,vs,GD Chaves,J25
+217,2023-03-19,Santa Clara,vs,Rio Ave,J25
+218,2023-03-19,Casa Pia,vs,Marítimo,J25
+219,2023-03-19,Gil Vicente,vs,Sporting,J25
+220,2023-03-19,SC Braga,vs,FC Porto,J25
+221,2023-03-19,Portimonense,vs,FC Vizela,J25
+222,2023-03-19,FC Arouca,vs,Paços de Ferreira,J25
+223,2023-03-19,Benfica,vs,Vitória SC,J25
+224,2023-03-19,Boavista,vs,FC Famalicão,J25
+225,2023-04-02,FC Vizela,vs,Casa Pia,J26
+226,2023-04-02,FC Porto,vs,Portimonense,J26
+227,2023-04-02,Sporting,vs,Santa Clara,J26
+228,2023-04-02,Estoril Praia,vs,Gil Vicente,J26
+229,2023-04-02,Rio Ave,vs,Benfica,J26
+230,2023-04-02,Vitória SC,vs,Paços de Ferreira,J26
+231,2023-04-02,FC Famalicão,vs,FC Arouca,J26
+232,2023-04-02,Marítimo,vs,Boavista,J26
+233,2023-04-02,GD Chaves,vs,SC Braga,J26
+234,2023-04-08,SC Braga,vs,Estoril Praia,J27
+235,2023-04-08,Santa Clara,vs,FC Vizela,J27
+236,2023-04-08,Casa Pia,vs,Sporting,J27
+237,2023-04-08,Portimonense,vs,Rio Ave,J27
+238,2023-04-08,Benfica,vs,FC Porto,J27
+239,2023-04-08,Boavista,vs,Vitória SC,J27
+240,2023-04-08,Paços de Ferreira,vs,FC Famalicão,J27
+241,2023-04-08,Gil Vicente,vs,GD Chaves,J27
+242,2023-04-08,FC Arouca,vs,Marítimo,J27
+243,2023-04-16,SC Braga,vs,Gil Vicente,J28
+244,2023-04-16,Estoril Praia,vs,Portimonense,J28
+245,2023-04-16,FC Famalicão,vs,Vitória SC,J28
+246,2023-04-16,Rio Ave,vs,Casa Pia,J28
+247,2023-04-16,Marítimo,vs,Paços de Ferreira,J28
+248,2023-04-16,FC Porto,vs,Santa Clara,J28
+249,2023-04-16,Sporting,vs,FC Arouca,J28
