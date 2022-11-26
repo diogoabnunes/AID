@@ -1,0 +1,1493 @@
+,ID,Category,Date,Name,Active
+99,0,Football,2022-10-24,Rio Ave - Portimonense,False
+101,1,Football,2022-10-28,Paços - Marítimo,False
+102,2,Football,2022-10-29,Santa Clara - Porto,False
+103,3,Football,2022-10-29,Benfica - Chaves,False
+104,4,Football,2022-10-29,Arouca - Sporting CP,False
+105,5,Football,2022-10-30,Portimonense - Estoril,False
+106,6,Football,2022-10-30,Boavista - FC Vizela,False
+107,7,Football,2022-10-30,Casa Pia AC - Rio Ave,False
+108,8,Football,2022-10-30,Gil Vicente FC - Braga,False
+109,9,Football,2022-10-31,Vitória - Famalicão,False
+111,10,Football,2022-11-06,Chaves - Santa Clara,False
+112,11,Football,2022-11-06,Braga - Casa Pia AC,False
+113,12,Football,2022-11-06,Rio Ave - Boavista,False
+114,13,Football,2022-11-06,Gil Vicente FC - Portimonense,False
+115,14,Football,2022-11-06,Estoril - Benfica,False
+116,15,Football,2022-11-06,Sporting CP - Vitória,False
+117,16,Football,2022-11-06,Marítimo - Famalicão,False
+118,17,Football,2022-11-06,Porto - Paços,False
+119,18,Football,2022-11-06,FC Vizela - Arouca,False
+121,19,Football,2022-11-13,Portimonense - Braga,False
+122,20,Football,2022-11-13,Vitória - Marítimo,False
+123,21,Football,2022-11-13,Santa Clara - Estoril,False
+124,22,Football,2022-11-13,Boavista - Porto,False
+125,23,Football,2022-11-13,Benfica - Gil Vicente FC,False
+126,24,Football,2022-11-13,Casa Pia AC - Chaves,False
+127,25,Football,2022-11-13,Famalicão - Sporting CP,False
+128,26,Football,2022-11-13,Arouca - Rio Ave,False
+129,27,Football,2022-11-13,Paços - FC Vizela,False
+131,28,Football,2022-12-28,FC Vizela - Vitória,True
+132,29,Football,2022-12-28,Rio Ave - Marítimo,True
+133,30,Football,2022-12-28,Sporting CP - Paços,True
+134,31,Football,2022-12-28,Gil Vicente FC - Santa Clara,True
+135,32,Football,2022-12-28,Braga - Benfica,True
+136,33,Football,2022-12-28,Chaves - Famalicão,True
+137,34,Football,2022-12-28,Estoril - Boavista,True
+138,35,Football,2022-12-28,Portimonense - Casa Pia AC,True
+139,36,Football,2022-12-28,Porto - Arouca,True
+141,37,Football,2023-01-08,Casa Pia AC - Porto,True
+142,38,Football,2023-01-08,Benfica - Portimonense,True
+143,39,Football,2023-01-08,Santa Clara - Braga,True
+144,40,Football,2023-01-08,Marítimo - Sporting CP,True
+145,41,Football,2023-01-08,Arouca - Estoril,True
+146,42,Football,2023-01-08,Boavista - Gil Vicente FC,True
+147,43,Football,2023-01-08,Famalicão - FC Vizela,True
+148,44,Football,2023-01-08,Paços - Chaves,True
+149,45,Football,2023-01-08,Vitória - Rio Ave,True
+151,46,Football,2023-01-15,Rio Ave - Paços,True
+152,47,Football,2023-01-15,Braga - Boavista,True
+153,48,Football,2023-01-15,Gil Vicente FC - Vitória,True
+154,49,Football,2023-01-15,Porto - Famalicão,True
+155,50,Football,2023-01-15,Portimonense - Santa Clara,True
+156,51,Football,2023-01-15,Estoril - Casa Pia AC,True
+157,52,Football,2023-01-15,Chaves - Arouca,True
+158,53,Football,2023-01-15,FC Vizela - Marítimo,True
+159,54,Football,2023-01-15,Benfica - Sporting CP,True
+161,55,Football,2023-01-21,Vitória - Porto,True
+162,56,Football,2023-01-21,Casa Pia AC - Gil Vicente FC,True
+163,57,Football,2023-01-21,Marítimo - Estoril,True
+164,58,Football,2023-01-21,Paços - Braga,True
+165,59,Football,2023-01-21,Arouca - Portimonense,True
+166,60,Football,2023-01-21,Santa Clara - Benfica,True
+167,61,Football,2023-01-21,Boavista - Chaves,True
+168,62,Football,2023-01-21,Famalicão - Rio Ave,True
+169,63,Football,2023-01-21,Sporting CP - FC Vizela,True
+171,64,Football,2023-01-29,Vitória - Chaves,True
+172,65,Football,2023-01-29,Marítimo - Porto,True
+173,66,Football,2023-01-29,Arouca - Benfica,True
+174,67,Football,2023-01-29,Boavista - Portimonense,True
+175,68,Football,2023-01-29,Paços - Gil Vicente FC,True
+176,69,Football,2023-01-29,Sporting CP - Braga,True
+177,70,Football,2023-01-29,FC Vizela - Rio Ave,True
+178,71,Football,2023-01-29,Famalicão - Estoril,True
+179,72,Football,2023-01-29,Casa Pia AC - Santa Clara,True
+181,73,Football,2023-02-05,Portimonense - Paços,True
+182,74,Football,2023-02-05,Chaves - Marítimo,True
+183,75,Football,2023-02-05,Porto - FC Vizela,True
+184,76,Football,2023-02-05,Braga - Famalicão,True
+185,77,Football,2023-02-05,Rio Ave - Sporting CP,True
+186,78,Football,2023-02-05,Santa Clara - Boavista,True
+187,79,Football,2023-02-05,Gil Vicente FC - Arouca,True
+188,80,Football,2023-02-05,Estoril - Vitória,True
+189,81,Football,2023-02-05,Benfica - Casa Pia AC,True
+191,82,Football,2023-02-12,FC Vizela - Chaves,True
+192,83,Football,2023-02-12,Marítimo - Braga,True
+193,84,Football,2023-02-12,Famalicão - Gil Vicente FC,True
+194,85,Football,2023-02-12,Vitória - Portimonense,True
+195,86,Football,2023-02-12,Boavista - Casa Pia AC,True
+196,87,Football,2023-02-12,Rio Ave - Estoril,True
+197,88,Football,2023-02-12,Arouca - Santa Clara,True
+198,89,Football,2023-02-12,Paços - Benfica,True
+199,90,Football,2023-02-12,Sporting CP - Porto,True
+201,91,Football,2023-02-19,Benfica - Boavista,True
+202,92,Football,2023-02-19,Estoril - Paços,True
+203,93,Football,2023-02-19,Portimonense - Marítimo,True
+204,94,Football,2023-02-19,Porto - Rio Ave,True
+205,95,Football,2023-02-19,Chaves - Sporting CP,True
+206,96,Football,2023-02-19,Santa Clara - Famalicão,True
+207,97,Football,2023-02-19,Gil Vicente FC - FC Vizela,True
+208,98,Football,2023-02-19,Braga - Arouca,True
+209,99,Football,2023-02-19,Casa Pia AC - Vitória,True
+211,100,Football,2023-02-26,Sporting CP - Estoril,True
+212,101,Football,2023-02-26,Paços - Boavista,True
+213,102,Football,2023-02-26,FC Vizela - Benfica,True
+214,103,Football,2023-02-26,Marítimo - Santa Clara,True
+215,104,Football,2023-02-26,Famalicão - Portimonense,True
+216,105,Football,2023-02-26,Vitória - Braga,True
+217,106,Football,2023-02-26,Arouca - Casa Pia AC,True
+218,107,Football,2023-02-26,Rio Ave - Chaves,True
+219,108,Football,2023-02-26,Porto - Gil Vicente FC,True
+221,109,Football,2023-03-05,Gil Vicente FC - Marítimo,True
+222,110,Football,2023-03-05,Casa Pia AC - Paços,True
+223,111,Football,2023-03-05,Benfica - Famalicão,True
+224,112,Football,2023-03-05,Boavista - Arouca,True
+225,113,Football,2023-03-05,Braga - Rio Ave,True
+226,114,Football,2023-03-05,Chaves - Porto,True
+227,115,Football,2023-03-05,Santa Clara - Vitória,True
+228,116,Football,2023-03-05,Estoril - FC Vizela,True
+229,117,Football,2023-03-05,Portimonense - Sporting CP,True
+231,118,Football,2023-03-12,Chaves - Portimonense,True
+232,119,Football,2023-03-12,Paços - Santa Clara,True
+233,120,Football,2023-03-12,Sporting CP - Boavista,True
+234,121,Football,2023-03-12,FC Vizela - Braga,True
+235,122,Football,2023-03-12,Marítimo - Benfica,True
+236,123,Football,2023-03-12,Porto - Estoril,True
+237,124,Football,2023-03-12,Famalicão - Casa Pia AC,True
+238,125,Football,2023-03-12,Vitória - Arouca,True
+239,126,Football,2023-03-12,Rio Ave - Gil Vicente FC,True
+241,127,Football,2023-03-19,Boavista - Famalicão,True
+242,128,Football,2023-03-19,Santa Clara - Rio Ave,True
+243,129,Football,2023-03-19,Arouca - Paços,True
+244,130,Football,2023-03-19,Gil Vicente FC - Sporting CP,True
+245,131,Football,2023-03-19,Portimonense - FC Vizela,True
+246,132,Football,2023-03-19,Casa Pia AC - Marítimo,True
+247,133,Football,2023-03-19,Estoril - Chaves,True
+248,134,Football,2023-03-19,Benfica - Vitória,True
+249,135,Football,2023-03-19,Braga - Porto,True
+251,136,Football,2023-04-02,Chaves - Braga,True
+252,137,Football,2023-04-02,Vitória - Paços,True
+253,138,Football,2023-04-02,Sporting CP - Santa Clara,True
+254,139,Football,2023-04-02,Porto - Portimonense,True
+255,140,Football,2023-04-02,Famalicão - Arouca,True
+256,141,Football,2023-04-02,Rio Ave - Benfica,True
+257,142,Football,2023-04-02,FC Vizela - Casa Pia AC,True
+258,143,Football,2023-04-02,Estoril - Gil Vicente FC,True
+259,144,Football,2023-04-02,Marítimo - Boavista,True
+261,145,Football,2023-04-09,Arouca - Marítimo,True
+262,146,Football,2023-04-09,Santa Clara - FC Vizela,True
+263,147,Football,2023-04-09,Benfica - Porto,True
+264,148,Football,2023-04-09,Casa Pia AC - Sporting CP,True
+265,149,Football,2023-04-09,Boavista - Vitória,True
+266,150,Football,2023-04-09,Portimonense - Rio Ave,True
+267,151,Football,2023-04-09,Gil Vicente FC - Chaves,True
+268,152,Football,2023-04-09,Braga - Estoril,True
+269,153,Football,2023-04-09,Paços - Famalicão,True
+271,154,Football,2023-04-16,Famalicão - Vitória,True
+272,155,Football,2023-04-16,Estoril - Portimonense,True
+273,156,Football,2023-04-16,Porto - Santa Clara,True
+274,157,Football,2023-04-16,Marítimo - Paços,True
+275,158,Football,2023-04-16,Chaves - Benfica,True
+276,159,Football,2023-04-16,Sporting CP - Arouca,True
+277,160,Football,2023-04-16,Rio Ave - Casa Pia AC,True
+278,161,Football,2023-04-16,FC Vizela - Boavista,True
+279,162,Football,2023-04-16,Braga - Gil Vicente FC,True
+281,163,Football,2023-04-23,Vitória - Sporting CP,True
+282,164,Football,2023-04-23,Famalicão - Marítimo,True
+283,165,Football,2023-04-23,Casa Pia AC - Braga,True
+284,166,Football,2023-04-23,Paços - Porto,True
+285,167,Football,2023-04-23,Boavista - Rio Ave,True
+286,168,Football,2023-04-23,Benfica - Estoril,True
+287,169,Football,2023-04-23,Santa Clara - Chaves,True
+288,170,Football,2023-04-23,Arouca - FC Vizela,True
+289,171,Football,2023-04-23,Portimonense - Gil Vicente FC,True
+291,172,Football,2023-04-30,Braga - Portimonense,True
+292,173,Football,2023-04-30,Rio Ave - Arouca,True
+293,174,Football,2023-04-30,Marítimo - Vitória,True
+294,175,Football,2023-04-30,Porto - Boavista,True
+295,176,Football,2023-04-30,Estoril - Santa Clara,True
+296,177,Football,2023-04-30,Chaves - Casa Pia AC,True
+297,178,Football,2023-04-30,Sporting CP - Famalicão,True
+298,179,Football,2023-04-30,Gil Vicente FC - Benfica,True
+299,180,Football,2023-04-30,FC Vizela - Paços,True
+301,181,Football,2023-05-07,Famalicão - Chaves,True
+302,182,Football,2023-05-07,Marítimo - Rio Ave,True
+303,183,Football,2023-05-07,Vitória - FC Vizela,True
+304,184,Football,2023-05-07,Casa Pia AC - Portimonense,True
+305,185,Football,2023-05-07,Santa Clara - Gil Vicente FC,True
+306,186,Football,2023-05-07,Boavista - Estoril,True
+307,187,Football,2023-05-07,Arouca - Porto,True
+308,188,Football,2023-05-07,Benfica - Braga,True
+309,189,Football,2023-05-07,Paços - Sporting CP,True
+311,190,Football,2023-05-14,Sporting CP - Marítimo,True
+312,191,Football,2023-05-14,Porto - Casa Pia AC,True
+313,192,Football,2023-05-14,Estoril - Arouca,True
+314,193,Football,2023-05-14,Rio Ave - Vitória,True
+315,194,Football,2023-05-14,Gil Vicente FC - Boavista,True
+316,195,Football,2023-05-14,Portimonense - Benfica,True
+317,196,Football,2023-05-14,FC Vizela - Famalicão,True
+318,197,Football,2023-05-14,Chaves - Paços,True
+319,198,Football,2023-05-14,Braga - Santa Clara,True
+321,199,Football,2023-05-21,Marítimo - FC Vizela,True
+322,200,Football,2023-05-21,Famalicão - Porto,True
+323,201,Football,2023-05-21,Arouca - Chaves,True
+324,202,Football,2023-05-21,Boavista - Braga,True
+325,203,Football,2023-05-21,Santa Clara - Portimonense,True
+326,204,Football,2023-05-21,Casa Pia AC - Estoril,True
+327,205,Football,2023-05-21,Paços - Rio Ave,True
+328,206,Football,2023-05-21,Vitória - Gil Vicente FC,True
+329,207,Football,2023-05-21,Sporting CP - Benfica,True
+331,208,Football,2023-05-28,Portimonense - Arouca,True
+332,209,Football,2023-05-28,Benfica - Santa Clara,True
+333,210,Football,2023-05-28,Rio Ave - Famalicão,True
+334,211,Football,2023-05-28,FC Vizela - Sporting CP,True
+335,212,Football,2023-05-28,Estoril - Marítimo,True
+336,213,Football,2023-05-28,Porto - Vitória,True
+337,214,Football,2023-05-28,Chaves - Boavista,True
+338,215,Football,2023-05-28,Braga - Paços,True
+339,216,Football,2023-05-28,Gil Vicente FC - Casa Pia AC,True
+110,217,Football,2022-10-28,Werder Bremen - Hertha BSC,False
+111,218,Football,2022-10-29,Bayern Munich - Mainz 05,False
+112,219,Football,2022-10-29,Stuttgart - Augsburg,False
+113,220,Football,2022-10-29,RB Leipzig - Leverkusen,False
+114,221,Football,2022-10-29,Wolfsburg - Bochum,False
+115,222,Football,2022-10-29,Eint Frankfurt - Dortmund,False
+116,223,Football,2022-10-30,Union Berlin - M'Gladbach,False
+117,224,Football,2022-10-30,Schalke 04 - Freiburg,False
+118,225,Football,2022-10-30,Köln - Hoffenheim,False
+120,226,Football,2022-11-04,M'Gladbach - Stuttgart,False
+121,227,Football,2022-11-05,Hoffenheim - RB Leipzig,False
+122,228,Football,2022-11-05,Augsburg - Eint Frankfurt,False
+123,229,Football,2022-11-05,Hertha BSC - Bayern Munich,False
+124,230,Football,2022-11-05,Dortmund - Bochum,False
+125,231,Football,2022-11-05,Mainz 05 - Wolfsburg,False
+126,232,Football,2022-11-05,Werder Bremen - Schalke 04,False
+127,233,Football,2022-11-06,Leverkusen - Union Berlin,False
+128,234,Football,2022-11-06,Freiburg - Köln,False
+130,235,Football,2022-11-08,Wolfsburg - Dortmund,False
+131,236,Football,2022-11-08,Stuttgart - Hertha BSC,False
+132,237,Football,2022-11-08,Bochum - M'Gladbach,False
+133,238,Football,2022-11-08,Bayern Munich - Werder Bremen,False
+134,239,Football,2022-11-09,Köln - Leverkusen,False
+135,240,Football,2022-11-09,Eint Frankfurt - Hoffenheim,False
+136,241,Football,2022-11-09,Union Berlin - Augsburg,False
+137,242,Football,2022-11-09,Schalke 04 - Mainz 05,False
+138,243,Football,2022-11-09,RB Leipzig - Freiburg,False
+140,244,Football,2022-11-11,M'Gladbach - Dortmund,False
+141,245,Football,2022-11-12,Leverkusen - Stuttgart,False
+142,246,Football,2022-11-12,Werder Bremen - RB Leipzig,False
+143,247,Football,2022-11-12,Hoffenheim - Wolfsburg,False
+144,248,Football,2022-11-12,Augsburg - Bochum,False
+145,249,Football,2022-11-12,Hertha BSC - Köln,False
+146,250,Football,2022-11-12,Schalke 04 - Bayern Munich,False
+147,251,Football,2022-11-13,Mainz 05 - Eint Frankfurt,False
+148,252,Football,2022-11-13,Freiburg - Union Berlin,False
+150,253,Football,2023-01-20,RB Leipzig - Bayern Munich,True
+151,254,Football,2023-01-21,Wolfsburg - Freiburg,True
+152,255,Football,2023-01-21,Stuttgart - Mainz 05,True
+153,256,Football,2023-01-21,Eint Frankfurt - Schalke 04,True
+154,257,Football,2023-01-21,Bochum - Hertha BSC,True
+155,258,Football,2023-01-21,Union Berlin - Hoffenheim,True
+156,259,Football,2023-01-21,Köln - Werder Bremen,True
+157,260,Football,2023-01-22,Dortmund - Augsburg,True
+158,261,Football,2023-01-22,M'Gladbach - Leverkusen,True
+160,262,Football,2023-01-24,Freiburg - Eint Frankfurt,True
+161,263,Football,2023-01-24,Bayern Munich - Köln,True
+162,264,Football,2023-01-24,Hoffenheim - Stuttgart,True
+163,265,Football,2023-01-24,Schalke 04 - RB Leipzig,True
+164,266,Football,2023-01-24,Leverkusen - Bochum,True
+165,267,Football,2023-01-24,Mainz 05 - Dortmund,True
+166,268,Football,2023-01-24,Werder Bremen - Union Berlin,True
+167,269,Football,2023-01-24,Hertha BSC - Wolfsburg,True
+168,270,Football,2023-01-24,Augsburg - M'Gladbach,True
+170,271,Football,2023-01-28,RB Leipzig - Stuttgart,True
+171,272,Football,2023-01-28,Werder Bremen - Wolfsburg,True
+172,273,Football,2023-01-28,Freiburg - Augsburg,True
+173,274,Football,2023-01-28,Hoffenheim - M'Gladbach,True
+174,275,Football,2023-01-28,Leverkusen - Dortmund,True
+175,276,Football,2023-01-28,Schalke 04 - Köln,True
+176,277,Football,2023-01-28,Mainz 05 - Bochum,True
+177,278,Football,2023-01-28,Hertha BSC - Union Berlin,True
+178,279,Football,2023-01-28,Bayern Munich - Eint Frankfurt,True
+180,280,Football,2023-02-04,Union Berlin - Mainz 05,True
+181,281,Football,2023-02-04,M'Gladbach - Schalke 04,True
+182,282,Football,2023-02-04,Augsburg - Leverkusen,True
+183,283,Football,2023-02-04,Bochum - Hoffenheim,True
+184,284,Football,2023-02-04,Eint Frankfurt - Hertha BSC,True
+185,285,Football,2023-02-04,Wolfsburg - Bayern Munich,True
+186,286,Football,2023-02-04,Köln - RB Leipzig,True
+187,287,Football,2023-02-04,Stuttgart - Werder Bremen,True
+188,288,Football,2023-02-04,Dortmund - Freiburg,True
+190,289,Football,2023-02-11,Freiburg - Stuttgart,True
+191,290,Football,2023-02-11,Schalke 04 - Wolfsburg,True
+192,291,Football,2023-02-11,Bayern Munich - Bochum,True
+193,292,Football,2023-02-11,Mainz 05 - Augsburg,True
+194,293,Football,2023-02-11,Hoffenheim - Leverkusen,True
+195,294,Football,2023-02-11,Köln - Eint Frankfurt,True
+196,295,Football,2023-02-11,RB Leipzig - Union Berlin,True
+197,296,Football,2023-02-11,Werder Bremen - Dortmund,True
+198,297,Football,2023-02-11,Hertha BSC - M'Gladbach,True
+200,298,Football,2023-02-18,M'Gladbach - Bayern Munich,True
+201,299,Football,2023-02-18,Eint Frankfurt - Werder Bremen,True
+202,300,Football,2023-02-18,Union Berlin - Schalke 04,True
+203,301,Football,2023-02-18,Bochum - Freiburg,True
+204,302,Football,2023-02-18,Leverkusen - Mainz 05,True
+205,303,Football,2023-02-18,Augsburg - Hoffenheim,True
+206,304,Football,2023-02-18,Wolfsburg - RB Leipzig,True
+207,305,Football,2023-02-18,Dortmund - Hertha BSC,True
+208,306,Football,2023-02-18,Stuttgart - Köln,True
+210,307,Football,2023-02-25,Schalke 04 - Stuttgart,True
+211,308,Football,2023-02-25,Mainz 05 - M'Gladbach,True
+212,309,Football,2023-02-25,Freiburg - Leverkusen,True
+213,310,Football,2023-02-25,Bayern Munich - Union Berlin,True
+214,311,Football,2023-02-25,RB Leipzig - Eint Frankfurt,True
+215,312,Football,2023-02-25,Köln - Wolfsburg,True
+216,313,Football,2023-02-25,Hertha BSC - Augsburg,True
+217,314,Football,2023-02-25,Hoffenheim - Dortmund,True
+218,315,Football,2023-02-25,Werder Bremen - Bochum,True
+220,316,Football,2023-03-04,M'Gladbach - Freiburg,True
+221,317,Football,2023-03-04,Dortmund - RB Leipzig,True
+222,318,Football,2023-03-04,Bochum - Schalke 04,True
+223,319,Football,2023-03-04,Augsburg - Werder Bremen,True
+224,320,Football,2023-03-04,Leverkusen - Hertha BSC,True
+225,321,Football,2023-03-04,Stuttgart - Bayern Munich,True
+226,322,Football,2023-03-04,Mainz 05 - Hoffenheim,True
+227,323,Football,2023-03-04,Wolfsburg - Eint Frankfurt,True
+228,324,Football,2023-03-04,Union Berlin - Köln,True
+230,325,Football,2023-03-11,Bayern Munich - Augsburg,True
+231,326,Football,2023-03-11,Hertha BSC - Mainz 05,True
+232,327,Football,2023-03-11,Wolfsburg - Union Berlin,True
+233,328,Football,2023-03-11,Eint Frankfurt - Stuttgart,True
+234,329,Football,2023-03-11,RB Leipzig - M'Gladbach,True
+235,330,Football,2023-03-11,Werder Bremen - Leverkusen,True
+236,331,Football,2023-03-11,Schalke 04 - Dortmund,True
+237,332,Football,2023-03-11,Freiburg - Hoffenheim,True
+238,333,Football,2023-03-11,Köln - Bochum,True
+240,334,Football,2023-03-18,Mainz 05 - Freiburg,True
+241,335,Football,2023-03-18,Leverkusen - Bayern Munich,True
+242,336,Football,2023-03-18,Hoffenheim - Hertha BSC,True
+243,337,Football,2023-03-18,M'Gladbach - Werder Bremen,True
+244,338,Football,2023-03-18,Dortmund - Köln,True
+245,339,Football,2023-03-18,Bochum - RB Leipzig,True
+246,340,Football,2023-03-18,Stuttgart - Wolfsburg,True
+247,341,Football,2023-03-18,Union Berlin - Eint Frankfurt,True
+248,342,Football,2023-03-18,Augsburg - Schalke 04,True
+250,343,Football,2023-04-01,RB Leipzig - Mainz 05,True
+251,344,Football,2023-04-01,Eint Frankfurt - Bochum,True
+252,345,Football,2023-04-01,Schalke 04 - Leverkusen,True
+253,346,Football,2023-04-01,Köln - M'Gladbach,True
+254,347,Football,2023-04-01,Wolfsburg - Augsburg,True
+255,348,Football,2023-04-01,Union Berlin - Stuttgart,True
+256,349,Football,2023-04-01,Freiburg - Hertha BSC,True
+257,350,Football,2023-04-01,Bayern Munich - Dortmund,True
+258,351,Football,2023-04-01,Werder Bremen - Hoffenheim,True
+260,352,Football,2023-04-08,Freiburg - Bayern Munich,True
+261,353,Football,2023-04-08,M'Gladbach - Wolfsburg,True
+262,354,Football,2023-04-08,Hertha BSC - RB Leipzig,True
+263,355,Football,2023-04-08,Leverkusen - Eint Frankfurt,True
+264,356,Football,2023-04-08,Bochum - Stuttgart,True
+265,357,Football,2023-04-08,Hoffenheim - Schalke 04,True
+266,358,Football,2023-04-08,Dortmund - Union Berlin,True
+267,359,Football,2023-04-08,Mainz 05 - Werder Bremen,True
+268,360,Football,2023-04-08,Augsburg - Köln,True
+270,361,Football,2023-04-15,Union Berlin - Bochum,True
+271,362,Football,2023-04-15,RB Leipzig - Augsburg,True
+272,363,Football,2023-04-15,Stuttgart - Dortmund,True
+273,364,Football,2023-04-15,Werder Bremen - Freiburg,True
+274,365,Football,2023-04-15,Eint Frankfurt - M'Gladbach,True
+275,366,Football,2023-04-15,Köln - Mainz 05,True
+276,367,Football,2023-04-15,Wolfsburg - Leverkusen,True
+277,368,Football,2023-04-15,Schalke 04 - Hertha BSC,True
+278,369,Football,2023-04-15,Bayern Munich - Hoffenheim,True
+280,370,Football,2023-04-22,Freiburg - Schalke 04,True
+281,371,Football,2023-04-22,M'Gladbach - Union Berlin,True
+282,372,Football,2023-04-22,Bochum - Wolfsburg,True
+283,373,Football,2023-04-22,Augsburg - Stuttgart,True
+284,374,Football,2023-04-22,Leverkusen - RB Leipzig,True
+285,375,Football,2023-04-22,Dortmund - Eint Frankfurt,True
+286,376,Football,2023-04-22,Mainz 05 - Bayern Munich,True
+287,377,Football,2023-04-22,Hertha BSC - Werder Bremen,True
+288,378,Football,2023-04-22,Hoffenheim - Köln,True
+290,379,Football,2023-04-29,Schalke 04 - Werder Bremen,True
+291,380,Football,2023-04-29,Eint Frankfurt - Augsburg,True
+292,381,Football,2023-04-29,Köln - Freiburg,True
+293,382,Football,2023-04-29,Bayern Munich - Hertha BSC,True
+294,383,Football,2023-04-29,RB Leipzig - Hoffenheim,True
+295,384,Football,2023-04-29,Union Berlin - Leverkusen,True
+296,385,Football,2023-04-29,Bochum - Dortmund,True
+297,386,Football,2023-04-29,Wolfsburg - Mainz 05,True
+298,387,Football,2023-04-29,Stuttgart - M'Gladbach,True
+300,388,Football,2023-05-06,Dortmund - Wolfsburg,True
+301,389,Football,2023-05-06,Hoffenheim - Eint Frankfurt,True
+302,390,Football,2023-05-06,Augsburg - Union Berlin,True
+303,391,Football,2023-05-06,Freiburg - RB Leipzig,True
+304,392,Football,2023-05-06,Leverkusen - Köln,True
+305,393,Football,2023-05-06,Werder Bremen - Bayern Munich,True
+306,394,Football,2023-05-06,Mainz 05 - Schalke 04,True
+307,395,Football,2023-05-06,Hertha BSC - Stuttgart,True
+308,396,Football,2023-05-06,M'Gladbach - Bochum,True
+310,397,Football,2023-05-13,Köln - Hertha BSC,True
+311,398,Football,2023-05-13,Bayern Munich - Schalke 04,True
+312,399,Football,2023-05-13,Bochum - Augsburg,True
+313,400,Football,2023-05-13,Stuttgart - Leverkusen,True
+314,401,Football,2023-05-13,Wolfsburg - Hoffenheim,True
+315,402,Football,2023-05-13,Union Berlin - Freiburg,True
+316,403,Football,2023-05-13,Dortmund - M'Gladbach,True
+317,404,Football,2023-05-13,RB Leipzig - Werder Bremen,True
+318,405,Football,2023-05-13,Eint Frankfurt - Mainz 05,True
+320,406,Football,2023-05-20,Freiburg - Wolfsburg,True
+321,407,Football,2023-05-20,Mainz 05 - Stuttgart,True
+322,408,Football,2023-05-20,Leverkusen - M'Gladbach,True
+323,409,Football,2023-05-20,Schalke 04 - Eint Frankfurt,True
+324,410,Football,2023-05-20,Werder Bremen - Köln,True
+325,411,Football,2023-05-20,Augsburg - Dortmund,True
+326,412,Football,2023-05-20,Bayern Munich - RB Leipzig,True
+327,413,Football,2023-05-20,Hoffenheim - Union Berlin,True
+328,414,Football,2023-05-20,Hertha BSC - Bochum,True
+330,415,Football,2023-05-27,Union Berlin - Werder Bremen,True
+331,416,Football,2023-05-27,Köln - Bayern Munich,True
+332,417,Football,2023-05-27,M'Gladbach - Augsburg,True
+333,418,Football,2023-05-27,Bochum - Leverkusen,True
+334,419,Football,2023-05-27,Eint Frankfurt - Freiburg,True
+335,420,Football,2023-05-27,RB Leipzig - Schalke 04,True
+336,421,Football,2023-05-27,Dortmund - Mainz 05,True
+337,422,Football,2023-05-27,Stuttgart - Hoffenheim,True
+338,423,Football,2023-05-27,Wolfsburg - Hertha BSC,True
+66,424,Football,2022-09-10,Fulham - Chelsea,False
+67,425,Football,2022-09-10,Liverpool - Wolves,False
+68,426,Football,2022-09-10,Southampton - Brentford,False
+69,427,Football,2022-09-10,Bournemouth - Brighton,False
+70,428,Football,2022-09-10,Leicester City - Aston Villa,False
+71,429,Football,2022-09-10,Manchester City - Tottenham,False
+72,430,Football,2022-09-11,Arsenal - Everton,False
+73,431,Football,2022-09-11,West Ham - Newcastle Utd,False
+74,432,Football,2022-09-11,Crystal Palace - Manchester Utd,False
+75,433,Football,2022-09-12,Leeds United - Nott'ham Forest,False
+81,434,Football,2022-09-17,Brighton - Crystal Palace,False
+84,435,Football,2022-09-18,Manchester Utd - Leeds United,False
+86,436,Football,2022-09-18,Chelsea - Liverpool,False
+127,437,Football,2022-10-19,Arsenal - Manchester City,False
+141,438,Football,2022-10-24,West Ham - Bournemouth,False
+143,439,Football,2022-10-29,Leicester City - Manchester City,False
+144,440,Football,2022-10-29,Brighton - Chelsea,False
+145,441,Football,2022-10-29,Crystal Palace - Southampton,False
+146,442,Football,2022-10-29,Newcastle Utd - Aston Villa,False
+147,443,Football,2022-10-29,Bournemouth - Tottenham,False
+148,444,Football,2022-10-29,Brentford - Wolves,False
+149,445,Football,2022-10-29,Fulham - Everton,False
+150,446,Football,2022-10-29,Liverpool - Leeds United,False
+151,447,Football,2022-10-30,Arsenal - Nott'ham Forest,False
+152,448,Football,2022-10-30,Manchester Utd - West Ham,False
+154,449,Football,2022-11-05,Manchester City - Fulham,False
+155,450,Football,2022-11-05,Nott'ham Forest - Brentford,False
+156,451,Football,2022-11-05,Wolves - Brighton,False
+157,452,Football,2022-11-05,Leeds United - Bournemouth,False
+158,453,Football,2022-11-05,Everton - Leicester City,False
+159,454,Football,2022-11-06,Chelsea - Arsenal,False
+160,455,Football,2022-11-06,Southampton - Newcastle Utd,False
+161,456,Football,2022-11-06,Aston Villa - Manchester Utd,False
+162,457,Football,2022-11-06,West Ham - Crystal Palace,False
+163,458,Football,2022-11-06,Tottenham - Liverpool,False
+165,459,Football,2022-11-12,Manchester City - Brentford,False
+166,460,Football,2022-11-12,Nott'ham Forest - Crystal Palace,False
+167,461,Football,2022-11-12,West Ham - Leicester City,False
+168,462,Football,2022-11-12,Tottenham - Leeds United,False
+169,463,Football,2022-11-12,Liverpool - Southampton,False
+170,464,Football,2022-11-12,Bournemouth - Everton,False
+171,465,Football,2022-11-12,Newcastle Utd - Chelsea,False
+172,466,Football,2022-11-12,Wolves - Arsenal,False
+173,467,Football,2022-11-13,Brighton - Aston Villa,False
+174,468,Football,2022-11-13,Fulham - Manchester Utd,False
+176,469,Football,2022-12-26,Everton - Wolves,True
+177,470,Football,2022-12-26,Southampton - Brighton,True
+178,471,Football,2022-12-26,Arsenal - West Ham,True
+179,472,Football,2022-12-26,Brentford - Tottenham,True
+180,473,Football,2022-12-26,Leeds United - Manchester City,True
+181,474,Football,2022-12-26,Chelsea - Bournemouth,True
+182,475,Football,2022-12-26,Crystal Palace - Fulham,True
+183,476,Football,2022-12-26,Manchester Utd - Nott'ham Forest,True
+184,477,Football,2022-12-26,Aston Villa - Liverpool,True
+185,478,Football,2022-12-26,Leicester City - Newcastle Utd,True
+187,479,Football,2022-12-31,Brighton - Arsenal,True
+188,480,Football,2022-12-31,Tottenham - Aston Villa,True
+189,481,Football,2022-12-31,Wolves - Manchester Utd,True
+190,482,Football,2022-12-31,Liverpool - Leicester City,True
+191,483,Football,2022-12-31,Nott'ham Forest - Chelsea,True
+192,484,Football,2022-12-31,Newcastle Utd - Leeds United,True
+193,485,Football,2022-12-31,Fulham - Southampton,True
+194,486,Football,2022-12-31,Bournemouth - Crystal Palace,True
+195,487,Football,2022-12-31,Manchester City - Everton,True
+196,488,Football,2022-12-31,West Ham - Brentford,True
+198,489,Football,2023-01-02,Manchester Utd - Bournemouth,True
+199,490,Football,2023-01-02,Aston Villa - Wolves,True
+200,491,Football,2023-01-02,Chelsea - Manchester City,True
+201,492,Football,2023-01-02,Brentford - Liverpool,True
+202,493,Football,2023-01-02,Leicester City - Fulham,True
+203,494,Football,2023-01-02,Everton - Brighton,True
+204,495,Football,2023-01-02,Leeds United - West Ham,True
+205,496,Football,2023-01-02,Southampton - Nott'ham Forest,True
+206,497,Football,2023-01-02,Arsenal - Newcastle Utd,True
+207,498,Football,2023-01-02,Crystal Palace - Tottenham,True
+209,499,Football,2023-01-14,Manchester Utd - Manchester City,True
+210,500,Football,2023-01-14,Brighton - Liverpool,True
+211,501,Football,2023-01-14,Chelsea - Crystal Palace,True
+212,502,Football,2023-01-14,Aston Villa - Leeds United,True
+213,503,Football,2023-01-14,Nott'ham Forest - Leicester City,True
+214,504,Football,2023-01-14,Brentford - Bournemouth,True
+215,505,Football,2023-01-14,Wolves - West Ham,True
+216,506,Football,2023-01-14,Newcastle Utd - Fulham,True
+217,507,Football,2023-01-14,Everton - Southampton,True
+218,508,Football,2023-01-14,Tottenham - Arsenal,True
+220,509,Football,2023-01-21,Southampton - Aston Villa,True
+221,510,Football,2023-01-21,Crystal Palace - Newcastle Utd,True
+222,511,Football,2023-01-21,Leicester City - Brighton,True
+223,512,Football,2023-01-21,Arsenal - Manchester Utd,True
+224,513,Football,2023-01-21,Manchester City - Wolves,True
+225,514,Football,2023-01-21,Liverpool - Chelsea,True
+226,515,Football,2023-01-21,Fulham - Tottenham,True
+227,516,Football,2023-01-21,West Ham - Everton,True
+228,517,Football,2023-01-21,Leeds United - Brentford,True
+229,518,Football,2023-01-21,Bournemouth - Nott'ham Forest,True
+231,519,Football,2023-02-04,Tottenham - Manchester City,True
+232,520,Football,2023-02-04,Everton - Arsenal,True
+233,521,Football,2023-02-04,Nott'ham Forest - Leeds United,True
+234,522,Football,2023-02-04,Newcastle Utd - West Ham,True
+235,523,Football,2023-02-04,Aston Villa - Leicester City,True
+236,524,Football,2023-02-04,Brighton - Bournemouth,True
+237,525,Football,2023-02-04,Manchester Utd - Crystal Palace,True
+238,526,Football,2023-02-04,Wolves - Liverpool,True
+239,527,Football,2023-02-04,Brentford - Southampton,True
+240,528,Football,2023-02-04,Chelsea - Fulham,True
+242,529,Football,2023-02-11,Crystal Palace - Brighton,True
+243,530,Football,2023-02-11,Leeds United - Manchester Utd,True
+244,531,Football,2023-02-11,Arsenal - Brentford,True
+245,532,Football,2023-02-11,Fulham - Nott'ham Forest,True
+246,533,Football,2023-02-11,Leicester City - Tottenham,True
+247,534,Football,2023-02-11,Southampton - Wolves,True
+248,535,Football,2023-02-11,West Ham - Chelsea,True
+249,536,Football,2023-02-11,Liverpool - Everton,True
+250,537,Football,2023-02-11,Manchester City - Aston Villa,True
+251,538,Football,2023-02-11,Bournemouth - Newcastle Utd,True
+253,539,Football,2023-02-18,Aston Villa - Arsenal,True
+254,540,Football,2023-02-18,Chelsea - Southampton,True
+255,541,Football,2023-02-18,Brentford - Crystal Palace,True
+256,542,Football,2023-02-18,Brighton - Fulham,True
+257,543,Football,2023-02-18,Newcastle Utd - Liverpool,True
+258,544,Football,2023-02-18,Everton - Leeds United,True
+259,545,Football,2023-02-18,Tottenham - West Ham,True
+260,546,Football,2023-02-18,Manchester Utd - Leicester City,True
+261,547,Football,2023-02-18,Nott'ham Forest - Manchester City,True
+262,548,Football,2023-02-18,Wolves - Bournemouth,True
+264,549,Football,2023-02-25,Crystal Palace - Liverpool,True
+265,550,Football,2023-02-25,Leeds United - Southampton,True
+266,551,Football,2023-02-25,Fulham - Wolves,True
+267,552,Football,2023-02-25,Bournemouth - Manchester City,True
+268,553,Football,2023-02-25,West Ham - Nott'ham Forest,True
+269,554,Football,2023-02-25,Tottenham - Chelsea,True
+270,555,Football,2023-02-25,Leicester City - Arsenal,True
+271,556,Football,2023-02-25,Everton - Aston Villa,True
+272,557,Football,2023-02-25,Newcastle Utd - Brighton,True
+273,558,Football,2023-02-25,Manchester Utd - Brentford,True
+275,559,Football,2023-03-04,Aston Villa - Crystal Palace,True
+276,560,Football,2023-03-04,Nott'ham Forest - Everton,True
+277,561,Football,2023-03-04,Arsenal - Bournemouth,True
+278,562,Football,2023-03-04,Southampton - Leicester City,True
+279,563,Football,2023-03-04,Chelsea - Leeds United,True
+280,564,Football,2023-03-04,Liverpool - Manchester Utd,True
+281,565,Football,2023-03-04,Manchester City - Newcastle Utd,True
+282,566,Football,2023-03-04,Wolves - Tottenham,True
+283,567,Football,2023-03-04,Brighton - West Ham,True
+284,568,Football,2023-03-04,Brentford - Fulham,True
+286,569,Football,2023-03-11,Leeds United - Brighton,True
+287,570,Football,2023-03-11,Crystal Palace - Manchester City,True
+288,571,Football,2023-03-11,Bournemouth - Liverpool,True
+289,572,Football,2023-03-11,Fulham - Arsenal,True
+290,573,Football,2023-03-11,West Ham - Aston Villa,True
+291,574,Football,2023-03-11,Everton - Brentford,True
+292,575,Football,2023-03-11,Manchester Utd - Southampton,True
+293,576,Football,2023-03-11,Leicester City - Chelsea,True
+294,577,Football,2023-03-11,Newcastle Utd - Wolves,True
+295,578,Football,2023-03-11,Tottenham - Nott'ham Forest,True
+297,579,Football,2023-03-18,Brentford - Leicester City,True
+298,580,Football,2023-03-18,Southampton - Tottenham,True
+299,581,Football,2023-03-18,Liverpool - Fulham,True
+300,582,Football,2023-03-18,Nott'ham Forest - Newcastle Utd,True
+301,583,Football,2023-03-18,Wolves - Leeds United,True
+302,584,Football,2023-03-18,Arsenal - Crystal Palace,True
+303,585,Football,2023-03-18,Aston Villa - Bournemouth,True
+304,586,Football,2023-03-18,Manchester City - West Ham,True
+305,587,Football,2023-03-18,Brighton - Manchester Utd,True
+306,588,Football,2023-03-18,Chelsea - Everton,True
+308,589,Football,2023-04-01,Crystal Palace - Leicester City,True
+309,590,Football,2023-04-01,Nott'ham Forest - Wolves,True
+310,591,Football,2023-04-01,West Ham - Southampton,True
+311,592,Football,2023-04-01,Manchester City - Liverpool,True
+312,593,Football,2023-04-01,Everton - Tottenham,True
+313,594,Football,2023-04-01,Brighton - Brentford,True
+314,595,Football,2023-04-01,Arsenal - Leeds United,True
+315,596,Football,2023-04-01,Chelsea - Aston Villa,True
+316,597,Football,2023-04-01,Newcastle Utd - Manchester Utd,True
+317,598,Football,2023-04-01,Bournemouth - Fulham,True
+319,599,Football,2023-04-08,Tottenham - Brighton,True
+320,600,Football,2023-04-08,Liverpool - Arsenal,True
+321,601,Football,2023-04-08,Aston Villa - Nott'ham Forest,True
+322,602,Football,2023-04-08,Leicester City - Bournemouth,True
+323,603,Football,2023-04-08,Southampton - Manchester City,True
+324,604,Football,2023-04-08,Manchester Utd - Everton,True
+325,605,Football,2023-04-08,Wolves - Chelsea,True
+326,606,Football,2023-04-08,Brentford - Newcastle Utd,True
+327,607,Football,2023-04-08,Fulham - West Ham,True
+328,608,Football,2023-04-08,Leeds United - Crystal Palace,True
+330,609,Football,2023-04-15,Wolves - Brentford,True
+331,610,Football,2023-04-15,Aston Villa - Newcastle Utd,True
+332,611,Football,2023-04-15,Tottenham - Bournemouth,True
+333,612,Football,2023-04-15,Chelsea - Brighton,True
+334,613,Football,2023-04-15,Nott'ham Forest - Manchester Utd,True
+335,614,Football,2023-04-15,Southampton - Crystal Palace,True
+336,615,Football,2023-04-15,Leeds United - Liverpool,True
+337,616,Football,2023-04-15,Manchester City - Leicester City,True
+338,617,Football,2023-04-15,West Ham - Arsenal,True
+339,618,Football,2023-04-15,Everton - Fulham,True
+341,619,Football,2023-04-22,Manchester Utd - Chelsea,True
+342,620,Football,2023-04-22,Fulham - Leeds United,True
+343,621,Football,2023-04-22,Arsenal - Southampton,True
+344,622,Football,2023-04-22,Brentford - Aston Villa,True
+345,623,Football,2023-04-22,Crystal Palace - Everton,True
+346,624,Football,2023-04-22,Leicester City - Wolves,True
+347,625,Football,2023-04-22,Liverpool - Nott'ham Forest,True
+348,626,Football,2023-04-22,Bournemouth - West Ham,True
+349,627,Football,2023-04-22,Brighton - Manchester City,True
+350,628,Football,2023-04-22,Newcastle Utd - Tottenham,True
+352,629,Football,2023-04-25,Leeds United - Leicester City,True
+353,630,Football,2023-04-25,Nott'ham Forest - Brighton,True
+354,631,Football,2023-04-25,Wolves - Crystal Palace,True
+355,632,Football,2023-04-25,Tottenham - Manchester Utd,True
+356,633,Football,2023-04-25,West Ham - Liverpool,True
+357,634,Football,2023-04-25,Everton - Newcastle Utd,True
+358,635,Football,2023-04-25,Aston Villa - Fulham,True
+359,636,Football,2023-04-26,Chelsea - Brentford,True
+360,637,Football,2023-04-26,Southampton - Bournemouth,True
+361,638,Football,2023-04-26,Manchester City - Arsenal,True
+363,639,Football,2023-04-29,Brighton - Wolves,True
+364,640,Football,2023-04-29,Leicester City - Everton,True
+365,641,Football,2023-04-29,Liverpool - Tottenham,True
+366,642,Football,2023-04-29,Bournemouth - Leeds United,True
+367,643,Football,2023-04-29,Brentford - Nott'ham Forest,True
+368,644,Football,2023-04-29,Manchester Utd - Aston Villa,True
+369,645,Football,2023-04-29,Newcastle Utd - Southampton,True
+370,646,Football,2023-04-29,Crystal Palace - West Ham,True
+371,647,Football,2023-04-29,Arsenal - Chelsea,True
+372,648,Football,2023-04-29,Fulham - Manchester City,True
+374,649,Football,2023-05-06,Brighton - Everton,True
+375,650,Football,2023-05-06,West Ham - Manchester Utd,True
+376,651,Football,2023-05-06,Fulham - Leicester City,True
+377,652,Football,2023-05-06,Bournemouth - Chelsea,True
+378,653,Football,2023-05-06,Newcastle Utd - Arsenal,True
+379,654,Football,2023-05-06,Nott'ham Forest - Southampton,True
+380,655,Football,2023-05-06,Liverpool - Brentford,True
+381,656,Football,2023-05-06,Tottenham - Crystal Palace,True
+382,657,Football,2023-05-06,Manchester City - Leeds United,True
+383,658,Football,2023-05-06,Wolves - Aston Villa,True
+385,659,Football,2023-05-13,Arsenal - Brighton,True
+386,660,Football,2023-05-13,Leeds United - Newcastle Utd,True
+387,661,Football,2023-05-13,Crystal Palace - Bournemouth,True
+388,662,Football,2023-05-13,Brentford - West Ham,True
+389,663,Football,2023-05-13,Southampton - Fulham,True
+390,664,Football,2023-05-13,Chelsea - Nott'ham Forest,True
+391,665,Football,2023-05-13,Aston Villa - Tottenham,True
+392,666,Football,2023-05-13,Manchester Utd - Wolves,True
+393,667,Football,2023-05-13,Leicester City - Liverpool,True
+394,668,Football,2023-05-13,Everton - Manchester City,True
+396,669,Football,2023-05-20,Nott'ham Forest - Arsenal,True
+397,670,Football,2023-05-20,Bournemouth - Manchester Utd,True
+398,671,Football,2023-05-20,Brighton - Southampton,True
+399,672,Football,2023-05-20,Wolves - Everton,True
+400,673,Football,2023-05-20,West Ham - Leeds United,True
+401,674,Football,2023-05-20,Manchester City - Chelsea,True
+402,675,Football,2023-05-20,Tottenham - Brentford,True
+403,676,Football,2023-05-20,Liverpool - Aston Villa,True
+404,677,Football,2023-05-20,Newcastle Utd - Leicester City,True
+405,678,Football,2023-05-20,Fulham - Crystal Palace,True
+407,679,Football,2023-05-28,Arsenal - Wolves,True
+408,680,Football,2023-05-28,Brentford - Manchester City,True
+409,681,Football,2023-05-28,Manchester Utd - Fulham,True
+410,682,Football,2023-05-28,Aston Villa - Brighton,True
+411,683,Football,2023-05-28,Leicester City - West Ham,True
+412,684,Football,2023-05-28,Leeds United - Tottenham,True
+413,685,Football,2023-05-28,Chelsea - Newcastle Utd,True
+414,686,Football,2023-05-28,Crystal Palace - Nott'ham Forest,True
+415,687,Football,2023-05-28,Southampton - Liverpool,True
+416,688,Football,2023-05-28,Everton - Bournemouth,True
+119,689,Football,2022-10-24,Celta Vigo - Getafe,False
+121,690,Football,2022-10-28,Mallorca - Espanyol,False
+122,691,Football,2022-10-29,Almería - Celta Vigo,False
+123,692,Football,2022-10-29,Cádiz - Atlético Madrid,False
+124,693,Football,2022-10-29,Sevilla - Rayo Vallecano,False
+125,694,Football,2022-10-29,Valencia - Barcelona,False
+126,695,Football,2022-10-30,Osasuna - Valladolid,False
+127,696,Football,2022-10-30,Real Madrid - Girona,False
+128,697,Football,2022-10-30,Athletic Club - Villarreal,False
+129,698,Football,2022-10-30,Real Sociedad - Betis,False
+130,699,Football,2022-10-31,Elche - Getafe,False
+132,700,Football,2022-11-04,Girona - Athletic Club,False
+133,701,Football,2022-11-05,Getafe - Cádiz,False
+134,702,Football,2022-11-05,Valladolid - Elche,False
+135,703,Football,2022-11-05,Celta Vigo - Osasuna,False
+136,704,Football,2022-11-05,Barcelona - Almería,False
+137,705,Football,2022-11-06,Atlético Madrid - Espanyol,False
+138,706,Football,2022-11-06,Real Sociedad - Valencia,False
+139,707,Football,2022-11-06,Villarreal - Mallorca,False
+140,708,Football,2022-11-06,Betis - Sevilla,False
+141,709,Football,2022-11-07,Rayo Vallecano - Real Madrid,False
+143,710,Football,2022-11-08,Elche - Girona,False
+144,711,Football,2022-11-08,Athletic Club - Valladolid,False
+145,712,Football,2022-11-08,Osasuna - Barcelona,False
+146,713,Football,2022-11-09,Sevilla - Real Sociedad,False
+147,714,Football,2022-11-09,Almería - Getafe,False
+148,715,Football,2022-11-09,Espanyol - Villarreal,False
+149,716,Football,2022-11-09,Mallorca - Atlético Madrid,False
+150,717,Football,2022-11-10,Rayo Vallecano - Celta Vigo,False
+151,718,Football,2022-11-10,Valencia - Betis,False
+152,719,Football,2022-11-10,Real Madrid - Cádiz,False
+154,720,Football,2022-12-31,Barcelona - Espanyol,True
+155,721,Football,2022-12-31,Villarreal - Valencia,True
+156,722,Football,2022-12-31,Atlético Madrid - Elche,True
+157,723,Football,2022-12-31,Valladolid - Real Madrid,True
+158,724,Football,2022-12-31,Getafe - Mallorca,True
+159,725,Football,2022-12-31,Girona - Rayo Vallecano,True
+160,726,Football,2022-12-31,Cádiz - Almería,True
+161,727,Football,2022-12-31,Real Sociedad - Osasuna,True
+162,728,Football,2022-12-31,Celta Vigo - Sevilla,True
+163,729,Football,2022-12-31,Betis - Athletic Club,True
+165,730,Football,2023-01-08,Mallorca - Valladolid,True
+166,731,Football,2023-01-08,Atlético Madrid - Barcelona,True
+167,732,Football,2023-01-08,Elche - Celta Vigo,True
+168,733,Football,2023-01-08,Sevilla - Getafe,True
+169,734,Football,2023-01-08,Valencia - Cádiz,True
+170,735,Football,2023-01-08,Villarreal - Real Madrid,True
+171,736,Football,2023-01-08,Rayo Vallecano - Betis,True
+172,737,Football,2023-01-08,Athletic Club - Osasuna,True
+173,738,Football,2023-01-08,Espanyol - Girona,True
+174,739,Football,2023-01-08,Almería - Real Sociedad,True
+176,740,Football,2023-01-14,Real Sociedad - Athletic Club,True
+177,741,Football,2023-01-14,Betis - Barcelona,True
+178,742,Football,2023-01-14,Celta Vigo - Villarreal,True
+179,743,Football,2023-01-14,Osasuna - Mallorca,True
+180,744,Football,2023-01-14,Girona - Sevilla,True
+181,745,Football,2023-01-14,Almería - Atlético Madrid,True
+182,746,Football,2023-01-14,Real Madrid - Valencia,True
+183,747,Football,2023-01-14,Cádiz - Elche,True
+184,748,Football,2023-01-14,Getafe - Espanyol,True
+185,749,Football,2023-01-14,Valladolid - Rayo Vallecano,True
+187,750,Football,2023-01-22,Barcelona - Getafe,True
+188,751,Football,2023-01-22,Atlético Madrid - Valladolid,True
+189,752,Football,2023-01-22,Athletic Club - Real Madrid,True
+190,753,Football,2023-01-22,Espanyol - Betis,True
+191,754,Football,2023-01-22,Valencia - Almería,True
+192,755,Football,2023-01-22,Elche - Osasuna,True
+193,756,Football,2023-01-22,Rayo Vallecano - Real Sociedad,True
+194,757,Football,2023-01-22,Sevilla - Cádiz,True
+195,758,Football,2023-01-22,Villarreal - Girona,True
+196,759,Football,2023-01-22,Mallorca - Celta Vigo,True
+198,760,Football,2023-01-29,Celta Vigo - Athletic Club,True
+199,761,Football,2023-01-29,Osasuna - Atlético Madrid,True
+200,762,Football,2023-01-29,Almería - Espanyol,True
+201,763,Football,2023-01-29,Girona - Barcelona,True
+202,764,Football,2023-01-29,Cádiz - Mallorca,True
+203,765,Football,2023-01-29,Villarreal - Rayo Vallecano,True
+204,766,Football,2023-01-29,Valladolid - Valencia,True
+205,767,Football,2023-01-29,Real Madrid - Real Sociedad,True
+206,768,Football,2023-01-29,Sevilla - Elche,True
+207,769,Football,2023-01-29,Getafe - Betis,True
+209,770,Football,2023-02-05,Real Sociedad - Valladolid,True
+210,771,Football,2023-02-05,Atlético Madrid - Getafe,True
+211,772,Football,2023-02-05,Betis - Celta Vigo,True
+212,773,Football,2023-02-05,Mallorca - Real Madrid,True
+213,774,Football,2023-02-05,Barcelona - Sevilla,True
+214,775,Football,2023-02-05,Elche - Villarreal,True
+215,776,Football,2023-02-05,Espanyol - Osasuna,True
+216,777,Football,2023-02-05,Rayo Vallecano - Almería,True
+217,778,Football,2023-02-05,Girona - Valencia,True
+218,779,Football,2023-02-05,Athletic Club - Cádiz,True
+220,780,Football,2023-02-12,Villarreal - Barcelona,True
+221,781,Football,2023-02-12,Real Madrid - Elche,True
+222,782,Football,2023-02-12,Almería - Betis,True
+223,783,Football,2023-02-12,Valencia - Athletic Club,True
+224,784,Football,2023-02-12,Celta Vigo - Atlético Madrid,True
+225,785,Football,2023-02-12,Espanyol - Real Sociedad,True
+226,786,Football,2023-02-12,Cádiz - Girona,True
+227,787,Football,2023-02-12,Getafe - Rayo Vallecano,True
+228,788,Football,2023-02-12,Sevilla - Mallorca,True
+229,789,Football,2023-02-12,Valladolid - Osasuna,True
+231,790,Football,2023-02-19,Mallorca - Villarreal,True
+232,791,Football,2023-02-19,Real Sociedad - Celta Vigo,True
+233,792,Football,2023-02-19,Getafe - Valencia,True
+234,793,Football,2023-02-19,Atlético Madrid - Athletic Club,True
+235,794,Football,2023-02-19,Osasuna - Real Madrid,True
+236,795,Football,2023-02-19,Barcelona - Cádiz,True
+237,796,Football,2023-02-19,Girona - Almería,True
+238,797,Football,2023-02-19,Rayo Vallecano - Sevilla,True
+239,798,Football,2023-02-19,Elche - Espanyol,True
+240,799,Football,2023-02-19,Betis - Valladolid,True
+242,800,Football,2023-02-26,Villarreal - Getafe,True
+243,801,Football,2023-02-26,Valencia - Real Sociedad,True
+244,802,Football,2023-02-26,Celta Vigo - Valladolid,True
+245,803,Football,2023-02-26,Athletic Club - Girona,True
+246,804,Football,2023-02-26,Espanyol - Mallorca,True
+247,805,Football,2023-02-26,Almería - Barcelona,True
+248,806,Football,2023-02-26,Cádiz - Rayo Vallecano,True
+249,807,Football,2023-02-26,Sevilla - Osasuna,True
+250,808,Football,2023-02-26,Elche - Betis,True
+251,809,Football,2023-02-26,Real Madrid - Atlético Madrid,True
+253,810,Football,2023-03-05,Real Sociedad - Cádiz,True
+254,811,Football,2023-03-05,Almería - Villarreal,True
+255,812,Football,2023-03-05,Valladolid - Espanyol,True
+256,813,Football,2023-03-05,Atlético Madrid - Sevilla,True
+257,814,Football,2023-03-05,Getafe - Girona,True
+258,815,Football,2023-03-05,Mallorca - Elche,True
+259,816,Football,2023-03-05,Osasuna - Celta Vigo,True
+260,817,Football,2023-03-05,Barcelona - Valencia,True
+261,818,Football,2023-03-05,Betis - Real Madrid,True
+262,819,Football,2023-03-05,Rayo Vallecano - Athletic Club,True
+264,820,Football,2023-03-12,Athletic Club - Barcelona,True
+265,821,Football,2023-03-12,Elche - Valladolid,True
+266,822,Football,2023-03-12,Cádiz - Getafe,True
+267,823,Football,2023-03-12,Real Madrid - Espanyol,True
+268,824,Football,2023-03-12,Mallorca - Real Sociedad,True
+269,825,Football,2023-03-12,Celta Vigo - Rayo Vallecano,True
+270,826,Football,2023-03-12,Valencia - Osasuna,True
+271,827,Football,2023-03-12,Sevilla - Almería,True
+272,828,Football,2023-03-12,Villarreal - Betis,True
+273,829,Football,2023-03-12,Girona - Atlético Madrid,True
+275,830,Football,2023-03-19,Atlético Madrid - Valencia,True
+276,831,Football,2023-03-19,Barcelona - Real Madrid,True
+277,832,Football,2023-03-19,Almería - Cádiz,True
+278,833,Football,2023-03-19,Betis - Mallorca,True
+279,834,Football,2023-03-19,Real Sociedad - Elche,True
+280,835,Football,2023-03-19,Valladolid - Athletic Club,True
+281,836,Football,2023-03-19,Getafe - Sevilla,True
+282,837,Football,2023-03-19,Osasuna - Villarreal,True
+283,838,Football,2023-03-19,Espanyol - Celta Vigo,True
+284,839,Football,2023-03-19,Rayo Vallecano - Girona,True
+286,840,Football,2023-04-02,Villarreal - Real Sociedad,True
+287,841,Football,2023-04-02,Girona - Espanyol,True
+288,842,Football,2023-04-02,Celta Vigo - Almería,True
+289,843,Football,2023-04-02,Athletic Club - Getafe,True
+290,844,Football,2023-04-02,Real Madrid - Valladolid,True
+291,845,Football,2023-04-02,Atlético Madrid - Betis,True
+292,846,Football,2023-04-02,Cádiz - Sevilla,True
+293,847,Football,2023-04-02,Elche - Barcelona,True
+294,848,Football,2023-04-02,Mallorca - Osasuna,True
+295,849,Football,2023-04-02,Valencia - Rayo Vallecano,True
+297,850,Football,2023-04-09,Almería - Valencia,True
+298,851,Football,2023-04-09,Rayo Vallecano - Atlético Madrid,True
+299,852,Football,2023-04-09,Valladolid - Mallorca,True
+300,853,Football,2023-04-09,Real Sociedad - Getafe,True
+301,854,Football,2023-04-09,Barcelona - Girona,True
+302,855,Football,2023-04-09,Real Madrid - Villarreal,True
+303,856,Football,2023-04-09,Osasuna - Elche,True
+304,857,Football,2023-04-09,Betis - Cádiz,True
+305,858,Football,2023-04-09,Sevilla - Celta Vigo,True
+306,859,Football,2023-04-09,Espanyol - Athletic Club,True
+308,860,Football,2023-04-16,Cádiz - Real Madrid,True
+309,861,Football,2023-04-16,Getafe - Barcelona,True
+310,862,Football,2023-04-16,Celta Vigo - Mallorca,True
+311,863,Football,2023-04-16,Atlético Madrid - Almería,True
+312,864,Football,2023-04-16,Villarreal - Valladolid,True
+313,865,Football,2023-04-16,Betis - Espanyol,True
+314,866,Football,2023-04-16,Valencia - Sevilla,True
+315,867,Football,2023-04-16,Girona - Elche,True
+316,868,Football,2023-04-16,Rayo Vallecano - Osasuna,True
+317,869,Football,2023-04-16,Athletic Club - Real Sociedad,True
+319,870,Football,2023-04-23,Mallorca - Getafe,True
+320,871,Football,2023-04-23,Sevilla - Villarreal,True
+321,872,Football,2023-04-23,Real Sociedad - Rayo Vallecano,True
+322,873,Football,2023-04-23,Espanyol - Cádiz,True
+323,874,Football,2023-04-23,Almería - Athletic Club,True
+324,875,Football,2023-04-23,Osasuna - Betis,True
+325,876,Football,2023-04-23,Real Madrid - Celta Vigo,True
+326,877,Football,2023-04-23,Valladolid - Girona,True
+327,878,Football,2023-04-23,Barcelona - Atlético Madrid,True
+328,879,Football,2023-04-23,Elche - Valencia,True
+330,880,Football,2023-04-26,Cádiz - Osasuna,True
+331,881,Football,2023-04-26,Athletic Club - Sevilla,True
+332,882,Football,2023-04-26,Betis - Real Sociedad,True
+333,883,Football,2023-04-26,Atlético Madrid - Mallorca,True
+334,884,Football,2023-04-26,Valencia - Valladolid,True
+335,885,Football,2023-04-26,Rayo Vallecano - Barcelona,True
+336,886,Football,2023-04-26,Girona - Real Madrid,True
+337,887,Football,2023-04-26,Getafe - Almería,True
+338,888,Football,2023-04-26,Villarreal - Espanyol,True
+339,889,Football,2023-04-26,Celta Vigo - Elche,True
+341,890,Football,2023-04-30,Elche - Rayo Vallecano,True
+342,891,Football,2023-04-30,Real Madrid - Almería,True
+343,892,Football,2023-04-30,Sevilla - Girona,True
+344,893,Football,2023-04-30,Osasuna - Real Sociedad,True
+345,894,Football,2023-04-30,Villarreal - Celta Vigo,True
+346,895,Football,2023-04-30,Espanyol - Getafe,True
+347,896,Football,2023-04-30,Cádiz - Valencia,True
+348,897,Football,2023-04-30,Valladolid - Atlético Madrid,True
+349,898,Football,2023-04-30,Mallorca - Athletic Club,True
+350,899,Football,2023-04-30,Barcelona - Betis,True
+352,900,Football,2023-05-03,Barcelona - Osasuna,True
+353,901,Football,2023-05-03,Getafe - Celta Vigo,True
+354,902,Football,2023-05-03,Real Sociedad - Real Madrid,True
+355,903,Football,2023-05-03,Rayo Vallecano - Valladolid,True
+356,904,Football,2023-05-03,Sevilla - Espanyol,True
+357,905,Football,2023-05-03,Atlético Madrid - Cádiz,True
+358,906,Football,2023-05-03,Athletic Club - Betis,True
+359,907,Football,2023-05-03,Valencia - Villarreal,True
+360,908,Football,2023-05-03,Girona - Mallorca,True
+361,909,Football,2023-05-03,Almería - Elche,True
+363,910,Football,2023-05-14,Elche - Atlético Madrid,True
+364,911,Football,2023-05-14,Valladolid - Sevilla,True
+365,912,Football,2023-05-14,Betis - Rayo Vallecano,True
+366,913,Football,2023-05-14,Espanyol - Barcelona,True
+367,914,Football,2023-05-14,Osasuna - Almería,True
+368,915,Football,2023-05-14,Villarreal - Athletic Club,True
+369,916,Football,2023-05-14,Real Madrid - Getafe,True
+370,917,Football,2023-05-14,Real Sociedad - Girona,True
+371,918,Football,2023-05-14,Mallorca - Cádiz,True
+372,919,Football,2023-05-14,Celta Vigo - Valencia,True
+374,920,Football,2023-05-21,Getafe - Elche,True
+375,921,Football,2023-05-21,Girona - Villarreal,True
+376,922,Football,2023-05-21,Athletic Club - Celta Vigo,True
+377,923,Football,2023-05-21,Cádiz - Valladolid,True
+378,924,Football,2023-05-21,Sevilla - Betis,True
+379,925,Football,2023-05-21,Almería - Mallorca,True
+380,926,Football,2023-05-21,Rayo Vallecano - Espanyol,True
+381,927,Football,2023-05-21,Atlético Madrid - Osasuna,True
+382,928,Football,2023-05-21,Barcelona - Real Sociedad,True
+383,929,Football,2023-05-21,Valencia - Real Madrid,True
+385,930,Football,2023-05-24,Real Madrid - Rayo Vallecano,True
+386,931,Football,2023-05-24,Osasuna - Athletic Club,True
+387,932,Football,2023-05-24,Mallorca - Valencia,True
+388,933,Football,2023-05-24,Villarreal - Cádiz,True
+389,934,Football,2023-05-24,Espanyol - Atlético Madrid,True
+390,935,Football,2023-05-24,Betis - Getafe,True
+391,936,Football,2023-05-24,Elche - Sevilla,True
+392,937,Football,2023-05-24,Real Sociedad - Almería,True
+393,938,Football,2023-05-24,Valladolid - Barcelona,True
+394,939,Football,2023-05-24,Celta Vigo - Girona,True
+396,940,Football,2023-05-28,Cádiz - Celta Vigo,True
+397,941,Football,2023-05-28,Atlético Madrid - Real Sociedad,True
+398,942,Football,2023-05-28,Getafe - Osasuna,True
+399,943,Football,2023-05-28,Athletic Club - Elche,True
+400,944,Football,2023-05-28,Rayo Vallecano - Villarreal,True
+401,945,Football,2023-05-28,Girona - Betis,True
+402,946,Football,2023-05-28,Sevilla - Real Madrid,True
+403,947,Football,2023-05-28,Valencia - Espanyol,True
+404,948,Football,2023-05-28,Barcelona - Mallorca,True
+405,949,Football,2023-05-28,Almería - Valladolid,True
+407,950,Football,2023-06-04,Villarreal - Atlético Madrid,True
+408,951,Football,2023-06-04,Betis - Valencia,True
+409,952,Football,2023-06-04,Real Sociedad - Sevilla,True
+410,953,Football,2023-06-04,Mallorca - Rayo Vallecano,True
+411,954,Football,2023-06-04,Celta Vigo - Barcelona,True
+412,955,Football,2023-06-04,Elche - Cádiz,True
+413,956,Football,2023-06-04,Espanyol - Almería,True
+414,957,Football,2023-06-04,Valladolid - Getafe,True
+415,958,Football,2023-06-04,Real Madrid - Athletic Club,True
+416,959,Football,2023-06-04,Osasuna - Girona,True
+133,960,Football,2022-10-28,Lens - Toulouse,False
+134,961,Football,2022-10-29,Paris S-G - Troyes,False
+135,962,Football,2022-10-29,Strasbourg - Marseille,False
+136,963,Football,2022-10-30,Auxerre - Ajaccio,False
+137,964,Football,2022-10-30,Brest - Reims,False
+138,965,Football,2022-10-30,Rennes - Montpellier,False
+139,966,Football,2022-10-30,Monaco - Angers,False
+140,967,Football,2022-10-30,Nantes - Clermont Foot,False
+141,968,Football,2022-10-30,Lorient - Nice,False
+142,969,Football,2022-10-30,Lyon - Lille,False
+144,970,Football,2022-11-04,Troyes - Auxerre,False
+145,971,Football,2022-11-05,Ajaccio - Strasbourg,False
+146,972,Football,2022-11-05,Angers - Lens,False
+147,973,Football,2022-11-06,Lorient - Paris S-G,False
+148,974,Football,2022-11-06,Toulouse - Monaco,False
+149,975,Football,2022-11-06,Clermont Foot - Montpellier,False
+150,976,Football,2022-11-06,Reims - Nantes,False
+151,977,Football,2022-11-06,Nice - Brest,False
+152,978,Football,2022-11-06,Lille - Rennes,False
+153,979,Football,2022-11-06,Marseille - Lyon,False
+155,980,Football,2022-11-11,Lyon - Nice,False
+156,981,Football,2022-11-12,Lens - Clermont Foot,False
+157,982,Football,2022-11-12,Rennes - Toulouse,False
+158,983,Football,2022-11-13,Paris S-G - Auxerre,False
+159,984,Football,2022-11-13,Brest - Troyes,False
+160,985,Football,2022-11-13,Montpellier - Reims,False
+161,986,Football,2022-11-13,Nantes - Ajaccio,False
+162,987,Football,2022-11-13,Lille - Angers,False
+163,988,Football,2022-11-13,Strasbourg - Lorient,False
+164,989,Football,2022-11-13,Monaco - Marseille,False
+166,990,Football,2022-12-28,Nice - Lens,True
+167,991,Football,2022-12-28,Marseille - Toulouse,True
+168,992,Football,2022-12-28,Troyes - Nantes,True
+169,993,Football,2022-12-28,Clermont Foot - Lille,True
+170,994,Football,2022-12-28,Ajaccio - Angers,True
+171,995,Football,2022-12-28,Lorient - Montpellier,True
+172,996,Football,2022-12-28,Auxerre - Monaco,True
+173,997,Football,2022-12-28,Paris S-G - Strasbourg,True
+174,998,Football,2022-12-28,Reims - Rennes,True
+175,999,Football,2022-12-28,Brest - Lyon,True
+177,1000,Football,2023-01-01,Rennes - Nice,True
+178,1001,Football,2023-01-01,Monaco - Brest,True
+179,1002,Football,2023-01-01,Toulouse - Ajaccio,True
+180,1003,Football,2023-01-01,Lyon - Clermont Foot,True
+181,1004,Football,2023-01-01,Nantes - Auxerre,True
+182,1005,Football,2023-01-01,Lens - Paris S-G,True
+183,1006,Football,2023-01-01,Lille - Reims,True
+185,1007,Football,2023-01-01,Nantes - Marseille,True
+186,1008,Football,2023-01-01,Lyon - Brest,True
+187,1009,Football,2023-01-01,Reims - Lorient,True
+189,1010,Football,2023-01-11,Troyes - Marseille,True
+190,1011,Football,2023-01-11,Paris S-G - Angers,True
+191,1012,Football,2023-01-11,Nice - Montpellier,True
+192,1013,Football,2023-01-11,Strasbourg - Lens,True
+193,1014,Football,2023-01-11,Ajaccio - Reims,True
+194,1015,Football,2023-01-11,Auxerre - Toulouse,True
+195,1016,Football,2023-01-11,Brest - Lille,True
+196,1017,Football,2023-01-11,Lorient - Monaco,True
+197,1018,Football,2023-01-11,Clermont Foot - Rennes,True
+198,1019,Football,2023-01-11,Nantes - Lyon,True
+200,1020,Football,2023-01-15,Monaco - Ajaccio,True
+201,1021,Football,2023-01-15,Reims - Nice,True
+202,1022,Football,2023-01-15,Angers - Clermont Foot,True
+203,1023,Football,2023-01-15,Lens - Auxerre,True
+204,1024,Football,2023-01-15,Montpellier - Nantes,True
+205,1025,Football,2023-01-15,Marseille - Lorient,True
+206,1026,Football,2023-01-15,Lyon - Strasbourg,True
+207,1027,Football,2023-01-15,Toulouse - Brest,True
+208,1028,Football,2023-01-15,Rennes - Paris S-G,True
+209,1029,Football,2023-01-15,Lille - Troyes,True
+211,1030,Football,2023-01-29,Lorient - Rennes,True
+212,1031,Football,2023-01-29,Troyes - Lens,True
+213,1032,Football,2023-01-29,Ajaccio - Lyon,True
+214,1033,Football,2023-01-29,Brest - Angers,True
+215,1034,Football,2023-01-29,Marseille - Monaco,True
+216,1035,Football,2023-01-29,Auxerre - Montpellier,True
+217,1036,Football,2023-01-29,Clermont Foot - Nantes,True
+218,1037,Football,2023-01-29,Strasbourg - Toulouse,True
+219,1038,Football,2023-01-29,Paris S-G - Reims,True
+220,1039,Football,2023-01-29,Nice - Lille,True
+222,1040,Football,2023-02-01,Montpellier - Marseille,True
+223,1041,Football,2023-02-01,Angers - Lorient,True
+224,1042,Football,2023-02-01,Strasbourg - Troyes,True
+226,1043,Football,2023-02-01,Monaco - Auxerre,True
+227,1044,Football,2023-02-01,Lille - Clermont Foot,True
+228,1045,Football,2023-02-01,Toulouse - Troyes,True
+229,1046,Football,2023-02-01,Angers - Ajaccio,True
+230,1047,Football,2023-02-01,Rennes - Strasbourg,True
+231,1048,Football,2023-02-01,Montpellier - Paris S-G,True
+232,1049,Football,2023-02-01,Lens - Nice,True
+234,1050,Football,2023-02-05,Rennes - Lille,True
+235,1051,Football,2023-02-05,Lorient - Angers,True
+236,1052,Football,2023-02-05,Ajaccio - Nantes,True
+237,1053,Football,2023-02-05,Clermont Foot - Monaco,True
+238,1054,Football,2023-02-05,Paris S-G - Toulouse,True
+239,1055,Football,2023-02-05,Brest - Lens,True
+240,1056,Football,2023-02-05,Marseille - Nice,True
+241,1057,Football,2023-02-05,Troyes - Lyon,True
+242,1058,Football,2023-02-05,Strasbourg - Montpellier,True
+243,1059,Football,2023-02-05,Auxerre - Reims,True
+245,1060,Football,2023-02-12,Lille - Strasbourg,True
+246,1061,Football,2023-02-12,Montpellier - Brest,True
+247,1062,Football,2023-02-12,Monaco - Paris S-G,True
+248,1063,Football,2023-02-12,Nice - Ajaccio,True
+249,1064,Football,2023-02-12,Angers - Auxerre,True
+250,1065,Football,2023-02-12,Nantes - Lorient,True
+251,1066,Football,2023-02-12,Lyon - Lens,True
+252,1067,Football,2023-02-12,Toulouse - Rennes,True
+253,1068,Football,2023-02-12,Reims - Troyes,True
+254,1069,Football,2023-02-12,Clermont Foot - Marseille,True
+256,1070,Football,2023-02-19,Auxerre - Lyon,True
+257,1071,Football,2023-02-19,Brest - Monaco,True
+258,1072,Football,2023-02-19,Troyes - Montpellier,True
+259,1073,Football,2023-02-19,Toulouse - Marseille,True
+260,1074,Football,2023-02-19,Lorient - Ajaccio,True
+261,1075,Football,2023-02-19,Rennes - Clermont Foot,True
+262,1076,Football,2023-02-19,Paris S-G - Lille,True
+263,1077,Football,2023-02-19,Nice - Reims,True
+264,1078,Football,2023-02-19,Lens - Nantes,True
+265,1079,Football,2023-02-19,Strasbourg - Angers,True
+267,1080,Football,2023-02-26,Lille - Brest,True
+268,1081,Football,2023-02-26,Montpellier - Lens,True
+269,1082,Football,2023-02-26,Marseille - Paris S-G,True
+270,1083,Football,2023-02-26,Lorient - Auxerre,True
+271,1084,Football,2023-02-26,Reims - Toulouse,True
+272,1085,Football,2023-02-26,Ajaccio - Troyes,True
+273,1086,Football,2023-02-26,Nantes - Rennes,True
+274,1087,Football,2023-02-26,Clermont Foot - Strasbourg,True
+275,1088,Football,2023-02-26,Angers - Lyon,True
+276,1089,Football,2023-02-26,Monaco - Nice,True
+278,1090,Football,2023-03-05,Nice - Auxerre,True
+279,1091,Football,2023-03-05,Lyon - Lorient,True
+280,1092,Football,2023-03-05,Troyes - Monaco,True
+281,1093,Football,2023-03-05,Reims - Ajaccio,True
+282,1094,Football,2023-03-05,Montpellier - Angers,True
+283,1095,Football,2023-03-05,Strasbourg - Brest,True
+284,1096,Football,2023-03-05,Rennes - Marseille,True
+285,1097,Football,2023-03-05,Lens - Lille,True
+286,1098,Football,2023-03-05,Toulouse - Clermont Foot,True
+287,1099,Football,2023-03-05,Paris S-G - Nantes,True
+289,1100,Football,2023-03-12,Nantes - Nice,True
+290,1101,Football,2023-03-12,Lorient - Troyes,True
+291,1102,Football,2023-03-12,Angers - Toulouse,True
+292,1103,Football,2023-03-12,Monaco - Reims,True
+293,1104,Football,2023-03-12,Lille - Lyon,True
+294,1105,Football,2023-03-12,Clermont Foot - Lens,True
+295,1106,Football,2023-03-12,Brest - Paris S-G,True
+296,1107,Football,2023-03-12,Marseille - Strasbourg,True
+297,1108,Football,2023-03-12,Auxerre - Rennes,True
+298,1109,Football,2023-03-12,Ajaccio - Montpellier,True
+300,1110,Football,2023-03-19,Montpellier - Clermont Foot,True
+301,1111,Football,2023-03-19,Paris S-G - Rennes,True
+302,1112,Football,2023-03-19,Nice - Lorient,True
+303,1113,Football,2023-03-19,Ajaccio - Monaco,True
+304,1114,Football,2023-03-19,Strasbourg - Auxerre,True
+305,1115,Football,2023-03-19,Lens - Angers,True
+306,1116,Football,2023-03-19,Reims - Marseille,True
+307,1117,Football,2023-03-19,Toulouse - Lille,True
+308,1118,Football,2023-03-19,Troyes - Brest,True
+309,1119,Football,2023-03-19,Lyon - Nantes,True
+311,1120,Football,2023-04-02,Marseille - Montpellier,True
+312,1121,Football,2023-04-02,Auxerre - Troyes,True
+313,1122,Football,2023-04-02,Angers - Nice,True
+314,1123,Football,2023-04-02,Nantes - Reims,True
+315,1124,Football,2023-04-02,Paris S-G - Lyon,True
+316,1125,Football,2023-04-02,Rennes - Lens,True
+317,1126,Football,2023-04-02,Clermont Foot - Ajaccio,True
+318,1127,Football,2023-04-02,Monaco - Strasbourg,True
+319,1128,Football,2023-04-02,Brest - Toulouse,True
+320,1129,Football,2023-04-02,Lille - Lorient,True
+322,1130,Football,2023-04-09,Nice - Paris S-G,True
+323,1131,Football,2023-04-09,Troyes - Clermont Foot,True
+324,1132,Football,2023-04-09,Montpellier - Toulouse,True
+325,1133,Football,2023-04-09,Lyon - Rennes,True
+326,1134,Football,2023-04-09,Ajaccio - Auxerre,True
+327,1135,Football,2023-04-09,Reims - Brest,True
+328,1136,Football,2023-04-09,Lorient - Marseille,True
+329,1137,Football,2023-04-09,Angers - Lille,True
+330,1138,Football,2023-04-09,Nantes - Monaco,True
+331,1139,Football,2023-04-09,Lens - Strasbourg,True
+333,1140,Football,2023-04-16,Lille - Montpellier,True
+334,1141,Football,2023-04-16,Clermont Foot - Angers,True
+335,1142,Football,2023-04-16,Toulouse - Lyon,True
+336,1143,Football,2023-04-16,Paris S-G - Lens,True
+337,1144,Football,2023-04-16,Auxerre - Nantes,True
+338,1145,Football,2023-04-16,Strasbourg - Ajaccio,True
+339,1146,Football,2023-04-16,Monaco - Lorient,True
+340,1147,Football,2023-04-16,Brest - Nice,True
+341,1148,Football,2023-04-16,Rennes - Reims,True
+342,1149,Football,2023-04-16,Marseille - Troyes,True
+344,1150,Football,2023-04-23,Nice - Clermont Foot,True
+345,1151,Football,2023-04-23,Nantes - Troyes,True
+346,1152,Football,2023-04-23,Angers - Paris S-G,True
+347,1153,Football,2023-04-23,Lorient - Toulouse,True
+348,1154,Football,2023-04-23,Lens - Monaco,True
+349,1155,Football,2023-04-23,Lyon - Marseille,True
+350,1156,Football,2023-04-23,Montpellier - Rennes,True
+351,1157,Football,2023-04-23,Reims - Strasbourg,True
+352,1158,Football,2023-04-23,Auxerre - Lille,True
+353,1159,Football,2023-04-23,Ajaccio - Brest,True
+355,1160,Football,2023-04-30,Lille - Ajaccio,True
+356,1161,Football,2023-04-30,Rennes - Angers,True
+357,1162,Football,2023-04-30,Marseille - Auxerre,True
+358,1163,Football,2023-04-30,Clermont Foot - Reims,True
+359,1164,Football,2023-04-30,Paris S-G - Lorient,True
+360,1165,Football,2023-04-30,Monaco - Montpellier,True
+361,1166,Football,2023-04-30,Toulouse - Lens,True
+362,1167,Football,2023-04-30,Strasbourg - Lyon,True
+363,1168,Football,2023-04-30,Brest - Nantes,True
+364,1169,Football,2023-04-30,Troyes - Nice,True
+366,1170,Football,2023-05-07,Nice - Rennes,True
+367,1171,Football,2023-05-07,Troyes - Paris S-G,True
+368,1172,Football,2023-05-07,Lorient - Brest,True
+369,1173,Football,2023-05-07,Nantes - Strasbourg,True
+370,1174,Football,2023-05-07,Auxerre - Clermont Foot,True
+371,1175,Football,2023-05-07,Ajaccio - Toulouse,True
+372,1176,Football,2023-05-07,Lens - Marseille,True
+373,1177,Football,2023-05-07,Lyon - Montpellier,True
+374,1178,Football,2023-05-07,Reims - Lille,True
+375,1179,Football,2023-05-07,Angers - Monaco,True
+377,1180,Football,2023-05-14,Marseille - Angers,True
+378,1181,Football,2023-05-14,Monaco - Lille,True
+379,1182,Football,2023-05-14,Paris S-G - Ajaccio,True
+380,1183,Football,2023-05-14,Brest - Auxerre,True
+381,1184,Football,2023-05-14,Clermont Foot - Lyon,True
+382,1185,Football,2023-05-14,Rennes - Troyes,True
+383,1186,Football,2023-05-14,Toulouse - Nantes,True
+384,1187,Football,2023-05-14,Strasbourg - Nice,True
+385,1188,Football,2023-05-14,Lens - Reims,True
+386,1189,Football,2023-05-14,Montpellier - Lorient,True
+388,1190,Football,2023-05-21,Lorient - Lens,True
+389,1191,Football,2023-05-21,Lille - Marseille,True
+390,1192,Football,2023-05-21,Ajaccio - Rennes,True
+391,1193,Football,2023-05-21,Auxerre - Paris S-G,True
+392,1194,Football,2023-05-21,Troyes - Strasbourg,True
+393,1195,Football,2023-05-21,Lyon - Monaco,True
+394,1196,Football,2023-05-21,Nice - Toulouse,True
+395,1197,Football,2023-05-21,Reims - Angers,True
+396,1198,Football,2023-05-21,Brest - Clermont Foot,True
+397,1199,Football,2023-05-21,Nantes - Montpellier,True
+399,1200,Football,2023-05-27,Clermont Foot - Lorient,True
+400,1201,Football,2023-05-27,Angers - Troyes,True
+401,1202,Football,2023-05-27,Montpellier - Nice,True
+402,1203,Football,2023-05-27,Lens - Ajaccio,True
+403,1204,Football,2023-05-27,Strasbourg - Paris S-G,True
+404,1205,Football,2023-05-27,Marseille - Brest,True
+405,1206,Football,2023-05-27,Lyon - Reims,True
+406,1207,Football,2023-05-27,Rennes - Monaco,True
+407,1208,Football,2023-05-27,Toulouse - Auxerre,True
+408,1209,Football,2023-05-27,Lille - Nantes,True
+410,1210,Football,2023-06-03,Lorient - Strasbourg,True
+411,1211,Football,2023-06-03,Auxerre - Lens,True
+412,1212,Football,2023-06-03,Troyes - Lille,True
+413,1213,Football,2023-06-03,Nantes - Angers,True
+414,1214,Football,2023-06-03,Reims - Montpellier,True
+415,1215,Football,2023-06-03,Ajaccio - Marseille,True
+416,1216,Football,2023-06-03,Monaco - Toulouse,True
+417,1217,Football,2023-06-03,Paris S-G - Clermont Foot,True
+418,1218,Football,2023-06-03,Nice - Lyon,True
+419,1219,Football,2023-06-03,Brest - Rennes,True
+118,1220,Football,2022-10-24,Cremonese - Sampdoria,False
+119,1221,Football,2022-10-24,Sassuolo - Hellas Verona,False
+121,1222,Football,2022-10-29,Napoli - Sassuolo,False
+122,1223,Football,2022-10-29,Lecce - Juventus,False
+123,1224,Football,2022-10-29,Inter - Sampdoria,False
+124,1225,Football,2022-10-30,Empoli - Atalanta,False
+125,1226,Football,2022-10-30,Cremonese - Udinese,False
+126,1227,Football,2022-10-30,Spezia - Fiorentina,False
+127,1228,Football,2022-10-30,Lazio - Salernitana,False
+128,1229,Football,2022-10-30,Torino - Milan,False
+129,1230,Football,2022-10-31,Hellas Verona - Roma,False
+130,1231,Football,2022-10-31,Monza - Bologna,False
+132,1232,Football,2022-11-04,Udinese - Lecce,False
+133,1233,Football,2022-11-05,Empoli - Sassuolo,False
+134,1234,Football,2022-11-05,Salernitana - Cremonese,False
+135,1235,Football,2022-11-05,Atalanta - Napoli,False
+136,1236,Football,2022-11-05,Milan - Spezia,False
+137,1237,Football,2022-11-06,Bologna - Torino,False
+138,1238,Football,2022-11-06,Sampdoria - Fiorentina,False
+139,1239,Football,2022-11-06,Monza - Hellas Verona,False
+140,1240,Football,2022-11-06,Roma - Lazio,False
+141,1241,Football,2022-11-06,Juventus - Inter,False
+143,1242,Football,2022-11-08,Napoli - Empoli,False
+144,1243,Football,2022-11-08,Spezia - Udinese,False
+145,1244,Football,2022-11-08,Cremonese - Milan,False
+146,1245,Football,2022-11-09,Lecce - Atalanta,False
+147,1246,Football,2022-11-09,Sassuolo - Roma,False
+148,1247,Football,2022-11-09,Fiorentina - Salernitana,False
+149,1248,Football,2022-11-09,Torino - Sampdoria,False
+150,1249,Football,2022-11-09,Inter - Bologna,False
+151,1250,Football,2022-11-10,Hellas Verona - Juventus,False
+152,1251,Football,2022-11-10,Lazio - Monza,False
+154,1252,Football,2022-11-11,Empoli - Cremonese,False
+155,1253,Football,2022-11-12,Napoli - Udinese,False
+156,1254,Football,2022-11-12,Sampdoria - Lecce,False
+157,1255,Football,2022-11-12,Bologna - Sassuolo,False
+158,1256,Football,2022-11-13,Atalanta - Inter,False
+159,1257,Football,2022-11-13,Monza - Salernitana,False
+160,1258,Football,2022-11-13,Hellas Verona - Spezia,False
+161,1259,Football,2022-11-13,Roma - Torino,False
+162,1260,Football,2022-11-13,Milan - Fiorentina,False
+163,1261,Football,2022-11-13,Juventus - Lazio,False
+165,1262,Football,2023-01-04,Sassuolo - Sampdoria,True
+166,1263,Football,2023-01-04,Salernitana - Milan,True
+167,1264,Football,2023-01-04,Torino - Hellas Verona,True
+168,1265,Football,2023-01-04,Spezia - Atalanta,True
+169,1266,Football,2023-01-04,Lecce - Lazio,True
+170,1267,Football,2023-01-04,Roma - Bologna,True
+171,1268,Football,2023-01-04,Fiorentina - Monza,True
+172,1269,Football,2023-01-04,Cremonese - Juventus,True
+173,1270,Football,2023-01-04,Inter - Napoli,True
+174,1271,Football,2023-01-04,Udinese - Empoli,True
+176,1272,Football,2023-01-08,Fiorentina - Sassuolo,True
+177,1273,Football,2023-01-08,Lazio - Empoli,True
+178,1274,Football,2023-01-08,Salernitana - Torino,True
+179,1275,Football,2023-01-08,Monza - Inter,True
+180,1276,Football,2023-01-08,Milan - Roma,True
+181,1277,Football,2023-01-08,Spezia - Lecce,True
+182,1278,Football,2023-01-08,Juventus - Udinese,True
+183,1279,Football,2023-01-08,Sampdoria - Napoli,True
+184,1280,Football,2023-01-08,Bologna - Atalanta,True
+185,1281,Football,2023-01-08,Hellas Verona - Cremonese,True
+187,1282,Football,2023-01-15,Udinese - Bologna,True
+188,1283,Football,2023-01-15,Inter - Hellas Verona,True
+189,1284,Football,2023-01-15,Lecce - Milan,True
+190,1285,Football,2023-01-15,Empoli - Sampdoria,True
+191,1286,Football,2023-01-15,Napoli - Juventus,True
+192,1287,Football,2023-01-15,Atalanta - Salernitana,True
+193,1288,Football,2023-01-15,Sassuolo - Lazio,True
+194,1289,Football,2023-01-15,Torino - Spezia,True
+195,1290,Football,2023-01-15,Roma - Fiorentina,True
+196,1291,Football,2023-01-15,Cremonese - Monza,True
+198,1292,Football,2023-01-22,Inter - Empoli,True
+199,1293,Football,2023-01-22,Spezia - Roma,True
+200,1294,Football,2023-01-22,Fiorentina - Torino,True
+201,1295,Football,2023-01-22,Lazio - Milan,True
+202,1296,Football,2023-01-22,Juventus - Atalanta,True
+203,1297,Football,2023-01-22,Monza - Sassuolo,True
+204,1298,Football,2023-01-22,Bologna - Cremonese,True
+205,1299,Football,2023-01-22,Hellas Verona - Lecce,True
+206,1300,Football,2023-01-22,Salernitana - Napoli,True
+207,1301,Football,2023-01-22,Sampdoria - Udinese,True
+209,1302,Football,2023-01-29,Udinese - Hellas Verona,True
+210,1303,Football,2023-01-29,Lecce - Salernitana,True
+211,1304,Football,2023-01-29,Lazio - Fiorentina,True
+212,1305,Football,2023-01-29,Juventus - Monza,True
+213,1306,Football,2023-01-29,Milan - Sassuolo,True
+214,1307,Football,2023-01-29,Cremonese - Inter,True
+215,1308,Football,2023-01-29,Empoli - Torino,True
+216,1309,Football,2023-01-29,Atalanta - Sampdoria,True
+217,1310,Football,2023-01-29,Napoli - Roma,True
+218,1311,Football,2023-01-29,Bologna - Spezia,True
+220,1312,Football,2023-02-05,Sassuolo - Atalanta,True
+221,1313,Football,2023-02-05,Inter - Milan,True
+222,1314,Football,2023-02-05,Hellas Verona - Lazio,True
+223,1315,Football,2023-02-05,Torino - Udinese,True
+224,1316,Football,2023-02-05,Roma - Empoli,True
+225,1317,Football,2023-02-05,Cremonese - Lecce,True
+226,1318,Football,2023-02-05,Spezia - Napoli,True
+227,1319,Football,2023-02-05,Monza - Sampdoria,True
+228,1320,Football,2023-02-05,Fiorentina - Bologna,True
+229,1321,Football,2023-02-05,Salernitana - Juventus,True
+231,1322,Football,2023-02-12,Napoli - Cremonese,True
+232,1323,Football,2023-02-12,Hellas Verona - Salernitana,True
+233,1324,Football,2023-02-12,Empoli - Spezia,True
+234,1325,Football,2023-02-12,Juventus - Fiorentina,True
+235,1326,Football,2023-02-12,Lecce - Roma,True
+236,1327,Football,2023-02-12,Udinese - Sassuolo,True
+237,1328,Football,2023-02-12,Sampdoria - Inter,True
+238,1329,Football,2023-02-12,Lazio - Atalanta,True
+239,1330,Football,2023-02-12,Bologna - Monza,True
+240,1331,Football,2023-02-12,Milan - Torino,True
+242,1332,Football,2023-02-19,Torino - Cremonese,True
+243,1333,Football,2023-02-19,Monza - Milan,True
+244,1334,Football,2023-02-19,Roma - Hellas Verona,True
+245,1335,Football,2023-02-19,Spezia - Juventus,True
+246,1336,Football,2023-02-19,Salernitana - Lazio,True
+247,1337,Football,2023-02-19,Atalanta - Lecce,True
+248,1338,Football,2023-02-19,Inter - Udinese,True
+249,1339,Football,2023-02-19,Sassuolo - Napoli,True
+250,1340,Football,2023-02-19,Sampdoria - Bologna,True
+251,1341,Football,2023-02-19,Fiorentina - Empoli,True
+253,1342,Football,2023-02-26,Lazio - Sampdoria,True
+254,1343,Football,2023-02-26,Milan - Atalanta,True
+255,1344,Football,2023-02-26,Udinese - Spezia,True
+256,1345,Football,2023-02-26,Salernitana - Monza,True
+257,1346,Football,2023-02-26,Empoli - Napoli,True
+258,1347,Football,2023-02-26,Cremonese - Roma,True
+259,1348,Football,2023-02-26,Bologna - Inter,True
+260,1349,Football,2023-02-26,Hellas Verona - Fiorentina,True
+261,1350,Football,2023-02-26,Juventus - Torino,True
+262,1351,Football,2023-02-26,Lecce - Sassuolo,True
+264,1352,Football,2023-03-05,Napoli - Lazio,True
+265,1353,Football,2023-03-05,Roma - Juventus,True
+266,1354,Football,2023-03-05,Spezia - Hellas Verona,True
+267,1355,Football,2023-03-05,Sassuolo - Cremonese,True
+268,1356,Football,2023-03-05,Inter - Lecce,True
+269,1357,Football,2023-03-05,Torino - Bologna,True
+270,1358,Football,2023-03-05,Atalanta - Udinese,True
+271,1359,Football,2023-03-05,Fiorentina - Milan,True
+272,1360,Football,2023-03-05,Monza - Empoli,True
+273,1361,Football,2023-03-05,Sampdoria - Salernitana,True
+275,1362,Football,2023-03-12,Lecce - Torino,True
+276,1363,Football,2023-03-12,Hellas Verona - Monza,True
+277,1364,Football,2023-03-12,Roma - Sassuolo,True
+278,1365,Football,2023-03-12,Milan - Salernitana,True
+279,1366,Football,2023-03-12,Cremonese - Fiorentina,True
+280,1367,Football,2023-03-12,Napoli - Atalanta,True
+281,1368,Football,2023-03-12,Empoli - Udinese,True
+282,1369,Football,2023-03-12,Spezia - Inter,True
+283,1370,Football,2023-03-12,Bologna - Lazio,True
+284,1371,Football,2023-03-12,Juventus - Sampdoria,True
+286,1372,Football,2023-03-19,Lazio - Roma,True
+287,1373,Football,2023-03-19,Salernitana - Bologna,True
+288,1374,Football,2023-03-19,Torino - Napoli,True
+289,1375,Football,2023-03-19,Inter - Juventus,True
+290,1376,Football,2023-03-19,Sassuolo - Spezia,True
+291,1377,Football,2023-03-19,Monza - Cremonese,True
+292,1378,Football,2023-03-19,Sampdoria - Hellas Verona,True
+293,1379,Football,2023-03-19,Atalanta - Empoli,True
+294,1380,Football,2023-03-19,Udinese - Milan,True
+295,1381,Football,2023-03-19,Fiorentina - Lecce,True
+297,1382,Football,2023-04-02,Roma - Sampdoria,True
+298,1383,Football,2023-04-02,Monza - Lazio,True
+299,1384,Football,2023-04-02,Napoli - Milan,True
+300,1385,Football,2023-04-02,Bologna - Udinese,True
+301,1386,Football,2023-04-02,Spezia - Salernitana,True
+302,1387,Football,2023-04-02,Cremonese - Atalanta,True
+303,1388,Football,2023-04-02,Inter - Fiorentina,True
+304,1389,Football,2023-04-02,Sassuolo - Torino,True
+305,1390,Football,2023-04-02,Juventus - Hellas Verona,True
+306,1391,Football,2023-04-02,Empoli - Lecce,True
+308,1392,Football,2023-04-08,Torino - Roma,True
+309,1393,Football,2023-04-08,Lecce - Napoli,True
+310,1394,Football,2023-04-08,Salernitana - Inter,True
+311,1395,Football,2023-04-08,Udinese - Monza,True
+312,1396,Football,2023-04-08,Atalanta - Bologna,True
+313,1397,Football,2023-04-08,Sampdoria - Cremonese,True
+314,1398,Football,2023-04-08,Fiorentina - Spezia,True
+315,1399,Football,2023-04-08,Hellas Verona - Sassuolo,True
+316,1400,Football,2023-04-08,Lazio - Juventus,True
+317,1401,Football,2023-04-08,Milan - Empoli,True
+319,1402,Football,2023-04-16,Roma - Udinese,True
+320,1403,Football,2023-04-16,Lecce - Sampdoria,True
+321,1404,Football,2023-04-16,Inter - Monza,True
+322,1405,Football,2023-04-16,Sassuolo - Juventus,True
+323,1406,Football,2023-04-16,Fiorentina - Atalanta,True
+324,1407,Football,2023-04-16,Torino - Salernitana,True
+325,1408,Football,2023-04-16,Spezia - Lazio,True
+326,1409,Football,2023-04-16,Bologna - Milan,True
+327,1410,Football,2023-04-16,Cremonese - Empoli,True
+328,1411,Football,2023-04-16,Napoli - Hellas Verona,True
+330,1412,Football,2023-04-23,Empoli - Inter,True
+331,1413,Football,2023-04-23,Monza - Fiorentina,True
+332,1414,Football,2023-04-23,Sampdoria - Spezia,True
+333,1415,Football,2023-04-23,Salernitana - Sassuolo,True
+334,1416,Football,2023-04-23,Milan - Lecce,True
+335,1417,Football,2023-04-23,Atalanta - Roma,True
+336,1418,Football,2023-04-23,Juventus - Napoli,True
+337,1419,Football,2023-04-23,Udinese - Cremonese,True
+338,1420,Football,2023-04-23,Lazio - Torino,True
+339,1421,Football,2023-04-23,Hellas Verona - Bologna,True
+341,1422,Football,2023-04-30,Sassuolo - Empoli,True
+342,1423,Football,2023-04-30,Bologna - Juventus,True
+343,1424,Football,2023-04-30,Spezia - Monza,True
+344,1425,Football,2023-04-30,Roma - Milan,True
+345,1426,Football,2023-04-30,Cremonese - Hellas Verona,True
+346,1427,Football,2023-04-30,Fiorentina - Sampdoria,True
+347,1428,Football,2023-04-30,Napoli - Salernitana,True
+348,1429,Football,2023-04-30,Inter - Lazio,True
+349,1430,Football,2023-04-30,Torino - Atalanta,True
+350,1431,Football,2023-04-30,Lecce - Udinese,True
+352,1432,Football,2023-05-03,Monza - Roma,True
+353,1433,Football,2023-05-03,Lazio - Sassuolo,True
+354,1434,Football,2023-05-03,Hellas Verona - Inter,True
+355,1435,Football,2023-05-03,Sampdoria - Torino,True
+356,1436,Football,2023-05-03,Empoli - Bologna,True
+357,1437,Football,2023-05-03,Milan - Cremonese,True
+358,1438,Football,2023-05-03,Salernitana - Fiorentina,True
+359,1439,Football,2023-05-03,Udinese - Napoli,True
+360,1440,Football,2023-05-03,Juventus - Lecce,True
+361,1441,Football,2023-05-03,Atalanta - Spezia,True
+363,1442,Football,2023-05-07,Lecce - Hellas Verona,True
+364,1443,Football,2023-05-07,Napoli - Fiorentina,True
+365,1444,Football,2023-05-07,Sassuolo - Bologna,True
+366,1445,Football,2023-05-07,Milan - Lazio,True
+367,1446,Football,2023-05-07,Roma - Inter,True
+368,1447,Football,2023-05-07,Empoli - Salernitana,True
+369,1448,Football,2023-05-07,Atalanta - Juventus,True
+370,1449,Football,2023-05-07,Udinese - Sampdoria,True
+371,1450,Football,2023-05-07,Cremonese - Spezia,True
+372,1451,Football,2023-05-07,Torino - Monza,True
+374,1452,Football,2023-05-14,Sampdoria - Empoli,True
+375,1453,Football,2023-05-14,Fiorentina - Udinese,True
+376,1454,Football,2023-05-14,Monza - Napoli,True
+377,1455,Football,2023-05-14,Salernitana - Atalanta,True
+378,1456,Football,2023-05-14,Lazio - Lecce,True
+379,1457,Football,2023-05-14,Juventus - Cremonese,True
+380,1458,Football,2023-05-14,Hellas Verona - Torino,True
+381,1459,Football,2023-05-14,Bologna - Roma,True
+382,1460,Football,2023-05-14,Spezia - Milan,True
+383,1461,Football,2023-05-14,Inter - Sassuolo,True
+385,1462,Football,2023-05-21,Roma - Salernitana,True
+386,1463,Football,2023-05-21,Empoli - Juventus,True
+387,1464,Football,2023-05-21,Napoli - Inter,True
+388,1465,Football,2023-05-21,Cremonese - Bologna,True
+389,1466,Football,2023-05-21,Udinese - Lazio,True
+390,1467,Football,2023-05-21,Milan - Sampdoria,True
+391,1468,Football,2023-05-21,Sassuolo - Monza,True
+392,1469,Football,2023-05-21,Atalanta - Hellas Verona,True
+393,1470,Football,2023-05-21,Torino - Fiorentina,True
+394,1471,Football,2023-05-21,Lecce - Spezia,True
+396,1472,Football,2023-05-28,Hellas Verona - Empoli,True
+397,1473,Football,2023-05-28,Fiorentina - Roma,True
+398,1474,Football,2023-05-28,Monza - Lecce,True
+399,1475,Football,2023-05-28,Juventus - Milan,True
+400,1476,Football,2023-05-28,Lazio - Cremonese,True
+401,1477,Football,2023-05-28,Inter - Atalanta,True
+402,1478,Football,2023-05-28,Bologna - Napoli,True
+403,1479,Football,2023-05-28,Sampdoria - Sassuolo,True
+404,1480,Football,2023-05-28,Spezia - Torino,True
+405,1481,Football,2023-05-28,Salernitana - Udinese,True
+407,1482,Football,2023-06-04,Torino - Inter,True
+408,1483,Football,2023-06-04,Empoli - Lazio,True
+409,1484,Football,2023-06-04,Sassuolo - Fiorentina,True
+410,1485,Football,2023-06-04,Cremonese - Salernitana,True
+411,1486,Football,2023-06-04,Lecce - Bologna,True
+412,1487,Football,2023-06-04,Roma - Spezia,True
+413,1488,Football,2023-06-04,Udinese - Juventus,True
+414,1489,Football,2023-06-04,Milan - Hellas Verona,True
+415,1490,Football,2023-06-04,Napoli - Sampdoria,True
+416,1491,Football,2023-06-04,Atalanta - Monza,True

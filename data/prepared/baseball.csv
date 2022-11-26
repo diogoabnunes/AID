@@ -1,0 +1,178 @@
+,ID,Category,Date,Name,Active
+94,0,Baseball,2022-10-23,Atlanta Falcons - Cincinnati Bengals,False
+95,1,Baseball,2022-10-23,Cleveland Browns - Baltimore Ravens,False
+96,2,Baseball,2022-10-23,Indianapolis Colts - Tennessee Titans,False
+97,3,Baseball,2022-10-23,Detroit Lions - Dallas Cowboys,False
+98,4,Baseball,2022-10-23,Green Bay Packers - Washington Commanders,False
+99,5,Baseball,2022-10-23,New York Giants - Jacksonville Jaguars,False
+100,6,Baseball,2022-10-23,Tampa Bay Buccaneers - Carolina Panthers,False
+101,7,Baseball,2022-10-23,Houston Texans - Las Vegas Raiders,False
+102,8,Baseball,2022-10-23,New York Jets - Denver Broncos,False
+103,9,Baseball,2022-10-23,Kansas City Chiefs - San Francisco 49ers,False
+104,10,Baseball,2022-10-23,Seattle Seahawks - Los Angeles Chargers,False
+105,11,Baseball,2022-10-23,Pittsburgh Steelers - Miami Dolphins,False
+106,12,Baseball,2022-10-24,Chicago Bears - New England Patriots,False
+107,13,Baseball,2022-10-27,Baltimore Ravens - Tampa Bay Buccaneers,False
+108,14,Baseball,2022-10-30,Denver Broncos - Jacksonville Jaguars,False
+109,15,Baseball,2022-10-30,Carolina Panthers - Atlanta Falcons,False
+110,16,Baseball,2022-10-30,Chicago Bears - Dallas Cowboys,False
+111,17,Baseball,2022-10-30,Arizona Cardinals - Minnesota Vikings,False
+112,18,Baseball,2022-10-30,Miami Dolphins - Detroit Lions,False
+113,19,Baseball,2022-10-30,New England Patriots - New York Jets,False
+114,20,Baseball,2022-10-30,Pittsburgh Steelers - Philadelphia Eagles,False
+115,21,Baseball,2022-10-30,Las Vegas Raiders - New Orleans Saints,False
+116,22,Baseball,2022-10-30,Tennessee Titans - Houston Texans,False
+117,23,Baseball,2022-10-30,New York Giants - Seattle Seahawks,False
+118,24,Baseball,2022-10-30,San Francisco 49ers - Los Angeles Rams,False
+119,25,Baseball,2022-10-30,Washington Commanders - Indianapolis Colts,False
+120,26,Baseball,2022-10-30,Green Bay Packers - Buffalo Bills,False
+121,27,Baseball,2022-10-31,Cincinnati Bengals - Cleveland Browns,False
+122,28,Baseball,2022-11-03,Philadelphia Eagles - Houston Texans,False
+123,29,Baseball,2022-11-06,Buffalo Bills - New York Jets,False
+124,30,Baseball,2022-11-06,Carolina Panthers - Cincinnati Bengals,False
+125,31,Baseball,2022-11-06,Indianapolis Colts - New England Patriots,False
+126,32,Baseball,2022-11-06,Green Bay Packers - Detroit Lions,False
+127,33,Baseball,2022-11-06,Miami Dolphins - Chicago Bears,False
+128,34,Baseball,2022-11-06,Minnesota Vikings - Washington Commanders,False
+129,35,Baseball,2022-11-06,Las Vegas Raiders - Jacksonville Jaguars,False
+130,36,Baseball,2022-11-06,Los Angeles Chargers - Atlanta Falcons,False
+131,37,Baseball,2022-11-06,Seattle Seahawks - Arizona Cardinals,False
+132,38,Baseball,2022-11-06,Los Angeles Rams - Tampa Bay Buccaneers,False
+133,39,Baseball,2022-11-06,Tennessee Titans - Kansas City Chiefs,False
+134,40,Baseball,2022-11-07,Baltimore Ravens - New Orleans Saints,False
+135,41,Baseball,2022-11-10,Atlanta Falcons - Carolina Panthers,False
+136,42,Baseball,2022-11-13,Seattle Seahawks - Tampa Bay Buccaneers,False
+137,43,Baseball,2022-11-13,Cleveland Browns - Miami Dolphins,False
+138,44,Baseball,2022-11-13,Denver Broncos - Tennessee Titans,False
+139,45,Baseball,2022-11-13,Detroit Lions - Chicago Bears,False
+140,46,Baseball,2022-11-13,Houston Texans - New York Giants,False
+141,47,Baseball,2022-11-13,Jacksonville Jaguars - Kansas City Chiefs,False
+142,48,Baseball,2022-11-13,Minnesota Vikings - Buffalo Bills,False
+143,49,Baseball,2022-11-13,New Orleans Saints - Pittsburgh Steelers,False
+144,50,Baseball,2022-11-13,Indianapolis Colts - Las Vegas Raiders,False
+145,51,Baseball,2022-11-13,Arizona Cardinals - Los Angeles Rams,False
+146,52,Baseball,2022-11-13,Dallas Cowboys - Green Bay Packers,False
+147,53,Baseball,2022-11-13,Los Angeles Chargers - San Francisco 49ers,False
+148,54,Baseball,2022-11-14,Washington Commanders - Philadelphia Eagles,False
+149,55,Baseball,2022-11-17,Tennessee Titans - Green Bay Packers,False
+150,56,Baseball,2022-11-20,Carolina Panthers - Baltimore Ravens,False
+151,57,Baseball,2022-11-20,Chicago Bears - Atlanta Falcons,False
+152,58,Baseball,2022-11-20,Cleveland Browns - Buffalo Bills,False
+153,59,Baseball,2022-11-20,Detroit Lions - New York Giants,False
+154,60,Baseball,2022-11-20,New York Jets - New England Patriots,False
+155,61,Baseball,2022-11-20,Philadelphia Eagles - Indianapolis Colts,False
+156,62,Baseball,2022-11-20,Los Angeles Rams - New Orleans Saints,False
+157,63,Baseball,2022-11-20,Washington Commanders - Houston Texans,False
+158,64,Baseball,2022-11-20,Las Vegas Raiders - Denver Broncos,False
+159,65,Baseball,2022-11-20,Dallas Cowboys - Minnesota Vikings,False
+160,66,Baseball,2022-11-20,Kansas City Chiefs - Los Angeles Chargers,False
+161,67,Baseball,2022-11-20,Cincinnati Bengals - Pittsburgh Steelers,False
+162,68,Baseball,2022-11-21,San Francisco 49ers - Arizona Cardinals,False
+163,69,Baseball,2022-11-24,Buffalo Bills - Detroit Lions,True
+164,70,Baseball,2022-11-24,New York Giants - Dallas Cowboys,True
+165,71,Baseball,2022-11-24,New England Patriots - Minnesota Vikings,True
+166,72,Baseball,2022-11-27,Atlanta Falcons - Washington Commanders,True
+167,73,Baseball,2022-11-27,Chicago Bears - New York Jets,True
+168,74,Baseball,2022-11-27,Cincinnati Bengals - Tennessee Titans,True
+169,75,Baseball,2022-11-27,Denver Broncos - Carolina Panthers,True
+170,76,Baseball,2022-11-27,Houston Texans - Miami Dolphins,True
+171,77,Baseball,2022-11-27,Baltimore Ravens - Jacksonville Jaguars,True
+172,78,Baseball,2022-11-27,Tampa Bay Buccaneers - Cleveland Browns,True
+173,79,Baseball,2022-11-27,Las Vegas Raiders - Seattle Seahawks,True
+174,80,Baseball,2022-11-27,Los Angeles Chargers - Arizona Cardinals,True
+175,81,Baseball,2022-11-27,New Orleans Saints - San Francisco 49ers,True
+176,82,Baseball,2022-11-27,Los Angeles Rams - Kansas City Chiefs,True
+177,83,Baseball,2022-11-27,Green Bay Packers - Philadelphia Eagles,True
+178,84,Baseball,2022-11-28,Pittsburgh Steelers - Indianapolis Colts,True
+179,85,Baseball,2022-12-01,Buffalo Bills - New England Patriots,True
+180,86,Baseball,2022-12-04,Cleveland Browns - Houston Texans,True
+181,87,Baseball,2022-12-04,Denver Broncos - Baltimore Ravens,True
+182,88,Baseball,2022-12-04,Green Bay Packers - Chicago Bears,True
+183,89,Baseball,2022-12-04,Jacksonville Jaguars - Detroit Lions,True
+184,90,Baseball,2022-12-04,New York Jets - Minnesota Vikings,True
+185,91,Baseball,2022-12-04,Tennessee Titans - Philadelphia Eagles,True
+186,92,Baseball,2022-12-04,Pittsburgh Steelers - Atlanta Falcons,True
+187,93,Baseball,2022-12-04,Washington Commanders - New York Giants,True
+188,94,Baseball,2022-12-04,Miami Dolphins - San Francisco 49ers,True
+189,95,Baseball,2022-12-04,Seattle Seahawks - Los Angeles Rams,True
+190,96,Baseball,2022-12-04,Kansas City Chiefs - Cincinnati Bengals,True
+191,97,Baseball,2022-12-04,Los Angeles Chargers - Las Vegas Raiders,True
+192,98,Baseball,2022-12-04,Indianapolis Colts - Dallas Cowboys,True
+193,99,Baseball,2022-12-05,New Orleans Saints - Tampa Bay Buccaneers,True
+194,100,Baseball,2022-12-08,Las Vegas Raiders - Los Angeles Rams,True
+195,101,Baseball,2022-12-11,Cleveland Browns - Cincinnati Bengals,True
+196,102,Baseball,2022-12-11,Houston Texans - Dallas Cowboys,True
+197,103,Baseball,2022-12-11,Jacksonville Jaguars - Tennessee Titans,True
+198,104,Baseball,2022-12-11,Minnesota Vikings - Detroit Lions,True
+199,105,Baseball,2022-12-11,New York Jets - Buffalo Bills,True
+200,106,Baseball,2022-12-11,Philadelphia Eagles - New York Giants,True
+201,107,Baseball,2022-12-11,Baltimore Ravens - Pittsburgh Steelers,True
+202,108,Baseball,2022-12-11,Miami Dolphins - Los Angeles Chargers,True
+203,109,Baseball,2022-12-11,Carolina Panthers - Seattle Seahawks,True
+204,110,Baseball,2022-12-11,Tampa Bay Buccaneers - San Francisco 49ers,True
+205,111,Baseball,2022-12-11,Kansas City Chiefs - Denver Broncos,True
+206,112,Baseball,2022-12-12,New England Patriots - Arizona Cardinals,True
+207,113,Baseball,2022-12-15,San Francisco 49ers - Seattle Seahawks,True
+208,114,Baseball,2022-12-18,Atlanta Falcons - New Orleans Saints,True
+209,115,Baseball,2022-12-18,Indianapolis Colts - Minnesota Vikings,True
+210,116,Baseball,2022-12-18,Dallas Cowboys - Jacksonville Jaguars,True
+211,117,Baseball,2022-12-18,Detroit Lions - New York Jets,True
+212,118,Baseball,2022-12-18,Kansas City Chiefs - Houston Texans,True
+213,119,Baseball,2022-12-18,Miami Dolphins - Buffalo Bills,True
+214,120,Baseball,2022-12-18,New York Giants - Washington Commanders,True
+215,121,Baseball,2022-12-18,Philadelphia Eagles - Chicago Bears,True
+216,122,Baseball,2022-12-18,Pittsburgh Steelers - Carolina Panthers,True
+217,123,Baseball,2022-12-18,Baltimore Ravens - Cleveland Browns,True
+218,124,Baseball,2022-12-18,Arizona Cardinals - Denver Broncos,True
+219,125,Baseball,2022-12-18,Cincinnati Bengals - Tampa Bay Buccaneers,True
+220,126,Baseball,2022-12-18,Tennessee Titans - Los Angeles Chargers,True
+221,127,Baseball,2022-12-18,New England Patriots - Las Vegas Raiders,True
+222,128,Baseball,2022-12-19,Los Angeles Rams - Green Bay Packers,True
+223,129,Baseball,2022-12-22,Jacksonville Jaguars - New York Jets,True
+224,130,Baseball,2022-12-24,Atlanta Falcons - Baltimore Ravens,True
+225,131,Baseball,2022-12-24,Buffalo Bills - Chicago Bears,True
+226,132,Baseball,2022-12-24,Cincinnati Bengals - New England Patriots,True
+227,133,Baseball,2022-12-24,Detroit Lions - Carolina Panthers,True
+228,134,Baseball,2022-12-24,Houston Texans - Tennessee Titans,True
+229,135,Baseball,2022-12-24,New Orleans Saints - Cleveland Browns,True
+230,136,Baseball,2022-12-24,New York Giants - Minnesota Vikings,True
+231,137,Baseball,2022-12-24,Seattle Seahawks - Kansas City Chiefs,True
+232,138,Baseball,2022-12-24,Washington Commanders - San Francisco 49ers,True
+233,139,Baseball,2022-12-24,Philadelphia Eagles - Dallas Cowboys,True
+234,140,Baseball,2022-12-24,Las Vegas Raiders - Pittsburgh Steelers,True
+235,141,Baseball,2022-12-25,Green Bay Packers - Miami Dolphins,True
+236,142,Baseball,2022-12-25,Denver Broncos - Los Angeles Rams,True
+237,143,Baseball,2022-12-25,Tampa Bay Buccaneers - Arizona Cardinals,True
+238,144,Baseball,2022-12-26,Los Angeles Chargers - Indianapolis Colts,True
+239,145,Baseball,2022-12-29,Dallas Cowboys - Tennessee Titans,True
+240,146,Baseball,2023-01-01,Carolina Panthers - Tampa Bay Buccaneers,True
+241,147,Baseball,2023-01-01,Chicago Bears - Detroit Lions,True
+242,148,Baseball,2023-01-01,Cleveland Browns - Washington Commanders,True
+243,149,Baseball,2023-01-01,Indianapolis Colts - New York Giants,True
+244,150,Baseball,2023-01-01,Arizona Cardinals - Atlanta Falcons,True
+245,151,Baseball,2023-01-01,Denver Broncos - Kansas City Chiefs,True
+246,152,Baseball,2023-01-01,Jacksonville Jaguars - Houston Texans,True
+247,153,Baseball,2023-01-01,Miami Dolphins - New England Patriots,True
+248,154,Baseball,2023-01-01,New Orleans Saints - Philadelphia Eagles,True
+249,155,Baseball,2023-01-01,Pittsburgh Steelers - Baltimore Ravens,True
+250,156,Baseball,2023-01-01,New York Jets - Seattle Seahawks,True
+251,157,Baseball,2023-01-01,San Francisco 49ers - Las Vegas Raiders,True
+252,158,Baseball,2023-01-01,Minnesota Vikings - Green Bay Packers,True
+253,159,Baseball,2023-01-01,Los Angeles Rams - Los Angeles Chargers,True
+254,160,Baseball,2023-01-02,Buffalo Bills - Cincinnati Bengals,True
+255,161,Baseball,2023-01-08,Carolina Panthers - New Orleans Saints,True
+256,162,Baseball,2023-01-08,Cleveland Browns - Pittsburgh Steelers,True
+257,163,Baseball,2023-01-08,Arizona Cardinals - San Francisco 49ers,True
+258,164,Baseball,2023-01-08,Dallas Cowboys - Washington Commanders,True
+259,165,Baseball,2023-01-08,Detroit Lions - Green Bay Packers,True
+260,166,Baseball,2023-01-08,Houston Texans - Indianapolis Colts,True
+261,167,Baseball,2023-01-08,Kansas City Chiefs - Las Vegas Raiders,True
+262,168,Baseball,2023-01-08,Minnesota Vikings - Chicago Bears,True
+263,169,Baseball,2023-01-08,New England Patriots - Buffalo Bills,True
+264,170,Baseball,2023-01-08,New York Giants - Philadelphia Eagles,True
+265,171,Baseball,2023-01-08,New York Jets - Miami Dolphins,True
+266,172,Baseball,2023-01-08,Tennessee Titans - Jacksonville Jaguars,True
+267,173,Baseball,2023-01-08,Los Angeles Rams - Seattle Seahawks,True
+268,174,Baseball,2023-01-08,Baltimore Ravens - Cincinnati Bengals,True
+269,175,Baseball,2023-01-08,Los Angeles Chargers - Denver Broncos,True
+270,176,Baseball,2023-01-08,Tampa Bay Buccaneers - Atlanta Falcons,True

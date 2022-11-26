@@ -1,0 +1,1188 @@
+,ID,Category,Date,Name,Active
+43,0,Basketball,2022-10-24,Philadelphia 76ers - Indiana Pacers,False
+44,1,Basketball,2022-10-24,Miami Heat - Toronto Raptors,False
+45,2,Basketball,2022-10-24,New York Knicks - Orlando Magic,False
+46,3,Basketball,2022-10-24,Chicago Bulls - Boston Celtics,False
+47,4,Basketball,2022-10-24,Houston Rockets - Utah Jazz,False
+48,5,Basketball,2022-10-24,Memphis Grizzlies - Brooklyn Nets,False
+49,6,Basketball,2022-10-24,Minnesota Timberwolves - San Antonio Spurs,False
+50,7,Basketball,2022-10-24,Portland Trail Blazers - Denver Nuggets,False
+51,8,Basketball,2022-10-25,Washington Wizards - Detroit Pistons,False
+52,9,Basketball,2022-10-25,New Orleans Pelicans - Dallas Mavericks,False
+53,10,Basketball,2022-10-25,Oklahoma City Thunder - Los Angeles Clippers,False
+54,11,Basketball,2022-10-25,Phoenix Suns - Golden State Warriors,False
+55,12,Basketball,2022-10-26,Cleveland Cavaliers - Orlando Magic,False
+56,13,Basketball,2022-10-26,Detroit Pistons - Atlanta Hawks,False
+57,14,Basketball,2022-10-26,Milwaukee Bucks - Brooklyn Nets,False
+58,15,Basketball,2022-10-26,New York Knicks - Charlotte Hornets,False
+59,16,Basketball,2022-10-26,Toronto Raptors - Philadelphia 76ers,False
+60,17,Basketball,2022-10-26,Chicago Bulls - Indiana Pacers,False
+61,18,Basketball,2022-10-26,Minnesota Timberwolves - San Antonio Spurs,False
+62,19,Basketball,2022-10-26,Utah Jazz - Houston Rockets,False
+63,20,Basketball,2022-10-26,Denver Nuggets - Los Angeles Lakers,False
+64,21,Basketball,2022-10-26,Portland Trail Blazers - Miami Heat,False
+65,22,Basketball,2022-10-27,Brooklyn Nets - Dallas Mavericks,False
+66,23,Basketball,2022-10-27,Oklahoma City Thunder - Los Angeles Clippers,False
+67,24,Basketball,2022-10-27,Golden State Warriors - Miami Heat,False
+68,25,Basketball,2022-10-27,Sacramento Kings - Memphis Grizzlies,False
+69,26,Basketball,2022-10-28,Detroit Pistons - Atlanta Hawks,False
+70,27,Basketball,2022-10-28,Orlando Magic - Charlotte Hornets,False
+71,28,Basketball,2022-10-28,Boston Celtics - Cleveland Cavaliers,False
+72,29,Basketball,2022-10-28,Toronto Raptors - Philadelphia 76ers,False
+73,30,Basketball,2022-10-28,Washington Wizards - Indiana Pacers,False
+74,31,Basketball,2022-10-28,Milwaukee Bucks - New York Knicks,False
+75,32,Basketball,2022-10-28,Minnesota Timberwolves - Los Angeles Lakers,False
+76,33,Basketball,2022-10-28,San Antonio Spurs - Chicago Bulls,False
+77,34,Basketball,2022-10-28,Denver Nuggets - Utah Jazz,False
+78,35,Basketball,2022-10-28,Phoenix Suns - New Orleans Pelicans,False
+79,36,Basketball,2022-10-28,Portland Trail Blazers - Houston Rockets,False
+80,37,Basketball,2022-10-29,Sacramento Kings - Miami Heat,False
+81,38,Basketball,2022-10-29,Charlotte Hornets - Golden State Warriors,False
+82,39,Basketball,2022-10-29,Brooklyn Nets - Indiana Pacers,False
+83,40,Basketball,2022-10-29,Chicago Bulls - Philadelphia 76ers,False
+84,41,Basketball,2022-10-29,Milwaukee Bucks - Atlanta Hawks,False
+85,42,Basketball,2022-10-29,Dallas Mavericks - Oklahoma City Thunder,False
+86,43,Basketball,2022-10-29,Utah Jazz - Memphis Grizzlies,False
+87,44,Basketball,2022-10-30,Los Angeles Clippers - New Orleans Pelicans,False
+88,45,Basketball,2022-10-30,Boston Celtics - Washington Wizards,False
+89,46,Basketball,2022-10-30,Cleveland Cavaliers - New York Knicks,False
+90,47,Basketball,2022-10-30,Detroit Pistons - Golden State Warriors,False
+91,48,Basketball,2022-10-30,San Antonio Spurs - Minnesota Timberwolves,False
+92,49,Basketball,2022-10-30,Dallas Mavericks - Orlando Magic,False
+93,50,Basketball,2022-10-30,Phoenix Suns - Houston Rockets,False
+94,51,Basketball,2022-10-30,Los Angeles Lakers - Denver Nuggets,False
+95,52,Basketball,2022-10-31,Charlotte Hornets - Sacramento Kings,False
+96,53,Basketball,2022-10-31,Washington Wizards - Philadelphia 76ers,False
+97,54,Basketball,2022-10-31,Brooklyn Nets - Indiana Pacers,False
+98,55,Basketball,2022-10-31,Toronto Raptors - Atlanta Hawks,False
+99,56,Basketball,2022-10-31,Milwaukee Bucks - Detroit Pistons,False
+100,57,Basketball,2022-10-31,Utah Jazz - Memphis Grizzlies,False
+101,58,Basketball,2022-10-31,Los Angeles Clippers - Houston Rockets,False
+102,59,Basketball,2022-11-01,Brooklyn Nets - Chicago Bulls,False
+103,60,Basketball,2022-11-01,Miami Heat - Golden State Warriors,False
+104,61,Basketball,2022-11-01,Oklahoma City Thunder - Orlando Magic,False
+105,62,Basketball,2022-11-01,Phoenix Suns - Minnesota Timberwolves,False
+106,63,Basketball,2022-11-02,Philadelphia 76ers - Washington Wizards,False
+107,64,Basketball,2022-11-02,Cleveland Cavaliers - Boston Celtics,False
+108,65,Basketball,2022-11-02,Miami Heat - Sacramento Kings,False
+109,66,Basketball,2022-11-02,New York Knicks - Atlanta Hawks,False
+110,67,Basketball,2022-11-02,Chicago Bulls - Charlotte Hornets,False
+111,68,Basketball,2022-11-02,Houston Rockets - Los Angeles Clippers,False
+112,69,Basketball,2022-11-02,Milwaukee Bucks - Detroit Pistons,False
+113,70,Basketball,2022-11-02,San Antonio Spurs - Toronto Raptors,False
+114,71,Basketball,2022-11-02,Dallas Mavericks - Utah Jazz,False
+115,72,Basketball,2022-11-02,Portland Trail Blazers - Memphis Grizzlies,False
+116,73,Basketball,2022-11-02,Los Angeles Lakers - New Orleans Pelicans,False
+117,74,Basketball,2022-11-03,Orlando Magic - Golden State Warriors,False
+118,75,Basketball,2022-11-03,Oklahoma City Thunder - Denver Nuggets,False
+119,76,Basketball,2022-11-04,Detroit Pistons - Cleveland Cavaliers,False
+120,77,Basketball,2022-11-04,Indiana Pacers - Miami Heat,False
+121,78,Basketball,2022-11-04,Philadelphia 76ers - New York Knicks,False
+122,79,Basketball,2022-11-04,Washington Wizards - Brooklyn Nets,False
+123,80,Basketball,2022-11-04,Boston Celtics - Chicago Bulls,False
+124,81,Basketball,2022-11-04,Memphis Grizzlies - Charlotte Hornets,False
+125,82,Basketball,2022-11-04,San Antonio Spurs - Los Angeles Clippers,False
+126,83,Basketball,2022-11-04,Dallas Mavericks - Toronto Raptors,False
+127,84,Basketball,2022-11-04,New Orleans Pelicans - Golden State Warriors,False
+128,85,Basketball,2022-11-04,Minnesota Timberwolves - Milwaukee Bucks,False
+129,86,Basketball,2022-11-04,Phoenix Suns - Portland Trail Blazers,False
+130,87,Basketball,2022-11-04,Los Angeles Lakers - Utah Jazz,False
+131,88,Basketball,2022-11-05,Orlando Magic - Sacramento Kings,False
+132,89,Basketball,2022-11-05,Charlotte Hornets - Brooklyn Nets,False
+133,90,Basketball,2022-11-05,Atlanta Hawks - New Orleans Pelicans,False
+134,91,Basketball,2022-11-05,New York Knicks - Boston Celtics,False
+135,92,Basketball,2022-11-05,Milwaukee Bucks - Oklahoma City Thunder,False
+136,93,Basketball,2022-11-05,Minnesota Timberwolves - Houston Rockets,False
+137,94,Basketball,2022-11-05,Denver Nuggets - San Antonio Spurs,False
+138,95,Basketball,2022-11-05,Phoenix Suns - Portland Trail Blazers,False
+139,96,Basketball,2022-11-06,Los Angeles Lakers - Cleveland Cavaliers,False
+140,97,Basketball,2022-11-06,Memphis Grizzlies - Washington Wizards,False
+141,98,Basketball,2022-11-06,Toronto Raptors - Chicago Bulls,False
+142,99,Basketball,2022-11-06,Los Angeles Clippers - Utah Jazz,False
+143,100,Basketball,2022-11-07,Charlotte Hornets - Washington Wizards,False
+144,101,Basketball,2022-11-07,Orlando Magic - Houston Rockets,False
+145,102,Basketball,2022-11-07,Detroit Pistons - Oklahoma City Thunder,False
+146,103,Basketball,2022-11-07,Indiana Pacers - New Orleans Pelicans,False
+147,104,Basketball,2022-11-07,Philadelphia 76ers - Phoenix Suns,False
+148,105,Basketball,2022-11-07,Atlanta Hawks - Milwaukee Bucks,False
+149,106,Basketball,2022-11-07,Miami Heat - Portland Trail Blazers,False
+150,107,Basketball,2022-11-07,Chicago Bulls - Toronto Raptors,False
+151,108,Basketball,2022-11-07,Memphis Grizzlies - Boston Celtics,False
+152,109,Basketball,2022-11-07,Minnesota Timberwolves - New York Knicks,False
+153,110,Basketball,2022-11-07,San Antonio Spurs - Denver Nuggets,False
+154,111,Basketball,2022-11-07,Dallas Mavericks - Brooklyn Nets,False
+155,112,Basketball,2022-11-07,Golden State Warriors - Sacramento Kings,False
+156,113,Basketball,2022-11-07,Utah Jazz - Los Angeles Lakers,False
+157,114,Basketball,2022-11-07,Los Angeles Clippers - Cleveland Cavaliers,False
+158,115,Basketball,2022-11-09,Charlotte Hornets - Portland Trail Blazers,False
+159,116,Basketball,2022-11-09,Indiana Pacers - Denver Nuggets,False
+160,117,Basketball,2022-11-09,Orlando Magic - Dallas Mavericks,False
+161,118,Basketball,2022-11-09,Atlanta Hawks - Utah Jazz,False
+162,119,Basketball,2022-11-09,Boston Celtics - Detroit Pistons,False
+163,120,Basketball,2022-11-09,Brooklyn Nets - New York Knicks,False
+164,121,Basketball,2022-11-09,Toronto Raptors - Houston Rockets,False
+165,122,Basketball,2022-11-09,Chicago Bulls - New Orleans Pelicans,False
+166,123,Basketball,2022-11-09,Minnesota Timberwolves - Phoenix Suns,False
+167,124,Basketball,2022-11-09,Oklahoma City Thunder - Milwaukee Bucks,False
+168,125,Basketball,2022-11-09,San Antonio Spurs - Memphis Grizzlies,False
+169,126,Basketball,2022-11-09,Los Angeles Clippers - Los Angeles Lakers,False
+170,127,Basketball,2022-11-09,Sacramento Kings - Cleveland Cavaliers,False
+171,128,Basketball,2022-11-10,Washington Wizards - Dallas Mavericks,False
+172,129,Basketball,2022-11-10,Atlanta Hawks - Philadelphia 76ers,False
+173,130,Basketball,2022-11-10,Miami Heat - Charlotte Hornets,False
+174,131,Basketball,2022-11-10,New Orleans Pelicans - Portland Trail Blazers,False
+175,132,Basketball,2022-11-11,Boston Celtics - Denver Nuggets,False
+176,133,Basketball,2022-11-11,Orlando Magic - Phoenix Suns,False
+177,134,Basketball,2022-11-11,New York Knicks - Detroit Pistons,False
+178,135,Basketball,2022-11-11,Oklahoma City Thunder - Toronto Raptors,False
+179,136,Basketball,2022-11-11,San Antonio Spurs - Milwaukee Bucks,False
+180,137,Basketball,2022-11-11,Memphis Grizzlies - Minnesota Timberwolves,False
+181,138,Basketball,2022-11-11,Golden State Warriors - Cleveland Cavaliers,False
+182,139,Basketball,2022-11-11,Los Angeles Lakers - Sacramento Kings,False
+183,140,Basketball,2022-11-12,Los Angeles Clippers - Brooklyn Nets,False
+184,141,Basketball,2022-11-12,Washington Wizards - Utah Jazz,False
+185,142,Basketball,2022-11-12,Detroit Pistons - Boston Celtics,False
+186,143,Basketball,2022-11-12,Indiana Pacers - Toronto Raptors,False
+187,144,Basketball,2022-11-12,Philadelphia 76ers - Atlanta Hawks,False
+188,145,Basketball,2022-11-12,Miami Heat - Charlotte Hornets,False
+189,146,Basketball,2022-11-12,Dallas Mavericks - Portland Trail Blazers,False
+190,147,Basketball,2022-11-12,New Orleans Pelicans - Houston Rockets,False
+191,148,Basketball,2022-11-13,New York Knicks - Oklahoma City Thunder,False
+192,149,Basketball,2022-11-13,Cleveland Cavaliers - Minnesota Timberwolves,False
+193,150,Basketball,2022-11-13,Washington Wizards - Memphis Grizzlies,False
+194,151,Basketball,2022-11-13,Philadelphia 76ers - Utah Jazz,False
+195,152,Basketball,2022-11-13,Chicago Bulls - Denver Nuggets,False
+196,153,Basketball,2022-11-13,Sacramento Kings - Golden State Warriors,False
+197,154,Basketball,2022-11-13,Los Angeles Lakers - Brooklyn Nets,False
+198,155,Basketball,2022-11-14,Detroit Pistons - Toronto Raptors,False
+199,156,Basketball,2022-11-14,Orlando Magic - Charlotte Hornets,False
+200,157,Basketball,2022-11-14,Boston Celtics - Oklahoma City Thunder,False
+201,158,Basketball,2022-11-14,Miami Heat - Phoenix Suns,False
+202,159,Basketball,2022-11-14,Houston Rockets - Los Angeles Clippers,False
+203,160,Basketball,2022-11-14,Milwaukee Bucks - Atlanta Hawks,False
+204,161,Basketball,2022-11-14,Golden State Warriors - San Antonio Spurs,False
+205,162,Basketball,2022-11-15,New Orleans Pelicans - Memphis Grizzlies,False
+206,163,Basketball,2022-11-15,Dallas Mavericks - Los Angeles Clippers,False
+207,164,Basketball,2022-11-15,Utah Jazz - New York Knicks,False
+208,165,Basketball,2022-11-15,Portland Trail Blazers - San Antonio Spurs,False
+209,166,Basketball,2022-11-15,Sacramento Kings - Brooklyn Nets,False
+210,167,Basketball,2022-11-16,Charlotte Hornets - Indiana Pacers,False
+211,168,Basketball,2022-11-16,Orlando Magic - Minnesota Timberwolves,False
+212,169,Basketball,2022-11-16,Washington Wizards - Oklahoma City Thunder,False
+213,170,Basketball,2022-11-16,Atlanta Hawks - Boston Celtics,False
+214,171,Basketball,2022-11-16,Toronto Raptors - Miami Heat,False
+215,172,Basketball,2022-11-16,Milwaukee Bucks - Cleveland Cavaliers,False
+216,173,Basketball,2022-11-16,New Orleans Pelicans - Chicago Bulls,False
+217,174,Basketball,2022-11-16,Dallas Mavericks - Houston Rockets,False
+218,175,Basketball,2022-11-16,Denver Nuggets - New York Knicks,False
+219,176,Basketball,2022-11-16,Phoenix Suns - Golden State Warriors,False
+220,177,Basketball,2022-11-17,Portland Trail Blazers - Brooklyn Nets,False
+221,178,Basketball,2022-11-17,Sacramento Kings - San Antonio Spurs,False
+222,179,Basketball,2022-11-17,Los Angeles Clippers - Detroit Pistons,False
+223,180,Basketball,2022-11-18,Washington Wizards - Miami Heat,False
+224,181,Basketball,2022-11-18,Cleveland Cavaliers - Charlotte Hornets,False
+225,182,Basketball,2022-11-18,Philadelphia 76ers - Milwaukee Bucks,False
+226,183,Basketball,2022-11-18,Chicago Bulls - Orlando Magic,False
+227,184,Basketball,2022-11-18,Houston Rockets - Indiana Pacers,False
+228,185,Basketball,2022-11-18,Memphis Grizzlies - Oklahoma City Thunder,False
+229,186,Basketball,2022-11-18,Dallas Mavericks - Denver Nuggets,False
+230,187,Basketball,2022-11-18,New Orleans Pelicans - Boston Celtics,False
+231,188,Basketball,2022-11-18,Utah Jazz - Phoenix Suns,False
+232,189,Basketball,2022-11-18,Golden State Warriors - New York Knicks,False
+233,190,Basketball,2022-11-18,Los Angeles Lakers - Detroit Pistons,False
+234,191,Basketball,2022-11-19,Atlanta Hawks - Toronto Raptors,False
+235,192,Basketball,2022-11-19,Indiana Pacers - Orlando Magic,False
+236,193,Basketball,2022-11-19,Philadelphia 76ers - Minnesota Timberwolves,False
+237,194,Basketball,2022-11-19,Portland Trail Blazers - Utah Jazz,False
+238,195,Basketball,2022-11-19,Los Angeles Clippers - San Antonio Spurs,False
+239,196,Basketball,2022-11-20,Phoenix Suns - New York Knicks,False
+240,197,Basketball,2022-11-20,Sacramento Kings - Detroit Pistons,False
+241,198,Basketball,2022-11-20,Washington Wizards - Charlotte Hornets,False
+242,199,Basketball,2022-11-20,Brooklyn Nets - Memphis Grizzlies,False
+243,200,Basketball,2022-11-20,Cleveland Cavaliers - Miami Heat,False
+244,201,Basketball,2022-11-20,Houston Rockets - Golden State Warriors,False
+245,202,Basketball,2022-11-20,Dallas Mavericks - Denver Nuggets,False
+246,203,Basketball,2022-11-20,Los Angeles Lakers - San Antonio Spurs,False
+247,204,Basketball,2022-11-21,Cleveland Cavaliers - Atlanta Hawks,False
+248,205,Basketball,2022-11-21,Indiana Pacers - Orlando Magic,False
+249,206,Basketball,2022-11-21,Chicago Bulls - Boston Celtics,False
+250,207,Basketball,2022-11-21,Milwaukee Bucks - Portland Trail Blazers,False
+251,208,Basketball,2022-11-21,Minnesota Timberwolves - Miami Heat,False
+252,209,Basketball,2022-11-21,New Orleans Pelicans - Golden State Warriors,False
+253,210,Basketball,2022-11-21,Oklahoma City Thunder - New York Knicks,False
+254,211,Basketball,2022-11-21,Los Angeles Clippers - Utah Jazz,False
+255,212,Basketball,2022-11-22,Philadelphia 76ers - Brooklyn Nets,False
+256,213,Basketball,2022-11-22,Memphis Grizzlies - Sacramento Kings,False
+257,214,Basketball,2022-11-22,Denver Nuggets - Detroit Pistons,False
+258,215,Basketball,2022-11-22,Phoenix Suns - Los Angeles Lakers,False
+259,216,Basketball,2022-11-23,Charlotte Hornets - Philadelphia 76ers,False
+260,217,Basketball,2022-11-23,Cleveland Cavaliers - Portland Trail Blazers,False
+261,218,Basketball,2022-11-23,Indiana Pacers - Minnesota Timberwolves,False
+262,219,Basketball,2022-11-23,Atlanta Hawks - Sacramento Kings,False
+263,220,Basketball,2022-11-23,Boston Celtics - Dallas Mavericks,False
+264,221,Basketball,2022-11-23,Miami Heat - Washington Wizards,False
+265,222,Basketball,2022-11-23,Toronto Raptors - Brooklyn Nets,False
+266,223,Basketball,2022-11-23,Milwaukee Bucks - Chicago Bulls,False
+267,224,Basketball,2022-11-23,Oklahoma City Thunder - Denver Nuggets,False
+268,225,Basketball,2022-11-23,San Antonio Spurs - New Orleans Pelicans,False
+269,226,Basketball,2022-11-23,Utah Jazz - Detroit Pistons,False
+270,227,Basketball,2022-11-23,Golden State Warriors - Los Angeles Clippers,False
+271,228,Basketball,2022-11-25,Charlotte Hornets - Minnesota Timberwolves,True
+272,229,Basketball,2022-11-25,Orlando Magic - Philadelphia 76ers,True
+273,230,Basketball,2022-11-25,New York Knicks - Portland Trail Blazers,True
+274,231,Basketball,2022-11-25,Boston Celtics - Sacramento Kings,True
+275,232,Basketball,2022-11-25,Houston Rockets - Atlanta Hawks,True
+276,233,Basketball,2022-11-25,Indiana Pacers - Brooklyn Nets,True
+277,234,Basketball,2022-11-25,Memphis Grizzlies - New Orleans Pelicans,True
+278,235,Basketball,2022-11-25,Miami Heat - Washington Wizards,True
+279,236,Basketball,2022-11-25,Milwaukee Bucks - Cleveland Cavaliers,True
+280,237,Basketball,2022-11-25,Oklahoma City Thunder - Chicago Bulls,True
+281,238,Basketball,2022-11-25,San Antonio Spurs - Los Angeles Lakers,True
+282,239,Basketball,2022-11-25,Phoenix Suns - Detroit Pistons,True
+283,240,Basketball,2022-11-25,Golden State Warriors - Utah Jazz,True
+284,241,Basketball,2022-11-25,Los Angeles Clippers - Denver Nuggets,True
+285,242,Basketball,2022-11-26,Toronto Raptors - Dallas Mavericks,True
+286,243,Basketball,2022-11-26,Houston Rockets - Oklahoma City Thunder,True
+287,244,Basketball,2022-11-26,San Antonio Spurs - Los Angeles Lakers,True
+288,245,Basketball,2022-11-26,Phoenix Suns - Utah Jazz,True
+289,246,Basketball,2022-11-27,Brooklyn Nets - Portland Trail Blazers,True
+290,247,Basketball,2022-11-27,Minnesota Timberwolves - Golden State Warriors,True
+291,248,Basketball,2022-11-27,Los Angeles Clippers - Indiana Pacers,True
+292,249,Basketball,2022-11-27,Atlanta Hawks - Miami Heat,True
+293,250,Basketball,2022-11-27,Boston Celtics - Washington Wizards,True
+294,251,Basketball,2022-11-27,Detroit Pistons - Cleveland Cavaliers,True
+295,252,Basketball,2022-11-27,New York Knicks - Memphis Grizzlies,True
+296,253,Basketball,2022-11-27,Orlando Magic - Philadelphia 76ers,True
+297,254,Basketball,2022-11-27,Milwaukee Bucks - Dallas Mavericks,True
+298,255,Basketball,2022-11-28,Philadelphia 76ers - Atlanta Hawks,True
+299,256,Basketball,2022-11-28,Washington Wizards - Minnesota Timberwolves,True
+300,257,Basketball,2022-11-28,Boston Celtics - Charlotte Hornets,True
+301,258,Basketball,2022-11-28,Brooklyn Nets - Orlando Magic,True
+302,259,Basketball,2022-11-28,Toronto Raptors - Cleveland Cavaliers,True
+303,260,Basketball,2022-11-28,New Orleans Pelicans - Oklahoma City Thunder,True
+304,261,Basketball,2022-11-28,Denver Nuggets - Houston Rockets,True
+305,262,Basketball,2022-11-28,Utah Jazz - Chicago Bulls,True
+306,263,Basketball,2022-11-28,Sacramento Kings - Phoenix Suns,True
+307,264,Basketball,2022-11-28,Los Angeles Lakers - Indiana Pacers,True
+308,265,Basketball,2022-11-29,Detroit Pistons - New York Knicks,True
+309,266,Basketball,2022-11-29,Dallas Mavericks - Golden State Warriors,True
+310,267,Basketball,2022-11-29,Portland Trail Blazers - Los Angeles Clippers,True
+311,268,Basketball,2022-11-30,Cleveland Cavaliers - Philadelphia 76ers,True
+312,269,Basketball,2022-11-30,Orlando Magic - Atlanta Hawks,True
+313,270,Basketball,2022-11-30,Boston Celtics - Miami Heat,True
+314,271,Basketball,2022-11-30,Brooklyn Nets - Washington Wizards,True
+315,272,Basketball,2022-11-30,New York Knicks - Milwaukee Bucks,True
+316,273,Basketball,2022-11-30,Minnesota Timberwolves - Memphis Grizzlies,True
+317,274,Basketball,2022-11-30,New Orleans Pelicans - Toronto Raptors,True
+318,275,Basketball,2022-11-30,Oklahoma City Thunder - San Antonio Spurs,True
+319,276,Basketball,2022-11-30,Denver Nuggets - Houston Rockets,True
+320,277,Basketball,2022-11-30,Phoenix Suns - Chicago Bulls,True
+321,278,Basketball,2022-11-30,Utah Jazz - Los Angeles Clippers,True
+322,279,Basketball,2022-11-30,Sacramento Kings - Indiana Pacers,True
+323,280,Basketball,2022-11-30,Los Angeles Lakers - Portland Trail Blazers,True
+324,281,Basketball,2022-12-01,Detroit Pistons - Dallas Mavericks,True
+325,282,Basketball,2022-12-02,Charlotte Hornets - Washington Wizards,True
+326,283,Basketball,2022-12-02,Atlanta Hawks - Denver Nuggets,True
+327,284,Basketball,2022-12-02,Boston Celtics - Miami Heat,True
+328,285,Basketball,2022-12-02,Brooklyn Nets - Toronto Raptors,True
+329,286,Basketball,2022-12-02,Cleveland Cavaliers - Orlando Magic,True
+330,287,Basketball,2022-12-02,Milwaukee Bucks - Los Angeles Lakers,True
+331,288,Basketball,2022-12-02,Memphis Grizzlies - Philadelphia 76ers,True
+332,289,Basketball,2022-12-02,San Antonio Spurs - New Orleans Pelicans,True
+333,290,Basketball,2022-12-02,Phoenix Suns - Houston Rockets,True
+334,291,Basketball,2022-12-02,Utah Jazz - Indiana Pacers,True
+335,292,Basketball,2022-12-02,Golden State Warriors - Chicago Bulls,True
+336,293,Basketball,2022-12-03,New York Knicks - Dallas Mavericks,True
+337,294,Basketball,2022-12-03,Los Angeles Clippers - Sacramento Kings,True
+338,295,Basketball,2022-12-03,Charlotte Hornets - Milwaukee Bucks,True
+339,296,Basketball,2022-12-03,Minnesota Timberwolves - Oklahoma City Thunder,True
+340,297,Basketball,2022-12-03,Toronto Raptors - Orlando Magic,True
+341,298,Basketball,2022-12-03,Golden State Warriors - Houston Rockets,True
+342,299,Basketball,2022-12-03,Utah Jazz - Portland Trail Blazers,True
+343,300,Basketball,2022-12-04,New Orleans Pelicans - Denver Nuggets,True
+344,301,Basketball,2022-12-04,San Antonio Spurs - Phoenix Suns,True
+345,302,Basketball,2022-12-04,Brooklyn Nets - Boston Celtics,True
+346,303,Basketball,2022-12-04,Detroit Pistons - Memphis Grizzlies,True
+347,304,Basketball,2022-12-04,New York Knicks - Cleveland Cavaliers,True
+348,305,Basketball,2022-12-04,Sacramento Kings - Chicago Bulls,True
+349,306,Basketball,2022-12-04,Washington Wizards - Los Angeles Lakers,True
+350,307,Basketball,2022-12-04,Portland Trail Blazers - Indiana Pacers,True
+351,308,Basketball,2022-12-05,Charlotte Hornets - Los Angeles Clippers,True
+352,309,Basketball,2022-12-05,Orlando Magic - Milwaukee Bucks,True
+353,310,Basketball,2022-12-05,Atlanta Hawks - Oklahoma City Thunder,True
+354,311,Basketball,2022-12-05,Toronto Raptors - Boston Celtics,True
+355,312,Basketball,2022-12-05,Houston Rockets - Philadelphia 76ers,True
+356,313,Basketball,2022-12-05,Memphis Grizzlies - Miami Heat,True
+357,314,Basketball,2022-12-05,Dallas Mavericks - Phoenix Suns,True
+358,315,Basketball,2022-12-05,Golden State Warriors - Indiana Pacers,True
+359,316,Basketball,2022-12-06,Cleveland Cavaliers - Los Angeles Lakers,True
+360,317,Basketball,2022-12-06,Miami Heat - Detroit Pistons,True
+361,318,Basketball,2022-12-06,Denver Nuggets - Dallas Mavericks,True
+362,319,Basketball,2022-12-07,Orlando Magic - Los Angeles Clippers,True
+363,320,Basketball,2022-12-07,Brooklyn Nets - Charlotte Hornets,True
+364,321,Basketball,2022-12-07,New York Knicks - Atlanta Hawks,True
+365,322,Basketball,2022-12-07,Toronto Raptors - Los Angeles Lakers,True
+366,323,Basketball,2022-12-07,Chicago Bulls - Washington Wizards,True
+367,324,Basketball,2022-12-07,Memphis Grizzlies - Oklahoma City Thunder,True
+368,325,Basketball,2022-12-07,Milwaukee Bucks - Sacramento Kings,True
+369,326,Basketball,2022-12-07,Minnesota Timberwolves - Indiana Pacers,True
+370,327,Basketball,2022-12-07,New Orleans Pelicans - Detroit Pistons,True
+371,328,Basketball,2022-12-07,Utah Jazz - Golden State Warriors,True
+372,329,Basketball,2022-12-07,Phoenix Suns - Boston Celtics,True
+373,330,Basketball,2022-12-08,Miami Heat - Los Angeles Clippers,True
+374,331,Basketball,2022-12-08,San Antonio Spurs - Houston Rockets,True
+375,332,Basketball,2022-12-08,Portland Trail Blazers - Denver Nuggets,True
+376,333,Basketball,2022-12-09,Charlotte Hornets - New York Knicks,True
+377,334,Basketball,2022-12-09,Indiana Pacers - Washington Wizards,True
+378,335,Basketball,2022-12-09,Orlando Magic - Toronto Raptors,True
+379,336,Basketball,2022-12-09,Brooklyn Nets - Atlanta Hawks,True
+380,337,Basketball,2022-12-09,Cleveland Cavaliers - Sacramento Kings,True
+381,338,Basketball,2022-12-09,Philadelphia 76ers - Los Angeles Lakers,True
+382,339,Basketball,2022-12-09,Memphis Grizzlies - Detroit Pistons,True
+383,340,Basketball,2022-12-09,New Orleans Pelicans - Phoenix Suns,True
+384,341,Basketball,2022-12-09,Utah Jazz - Minnesota Timberwolves,True
+385,342,Basketball,2022-12-09,Dallas Mavericks - Milwaukee Bucks,True
+386,343,Basketball,2022-12-10,Miami Heat - San Antonio Spurs,True
+387,344,Basketball,2022-12-10,Indiana Pacers - Brooklyn Nets,True
+388,345,Basketball,2022-12-10,Washington Wizards - Los Angeles Clippers,True
+389,346,Basketball,2022-12-10,Cleveland Cavaliers - Oklahoma City Thunder,True
+390,347,Basketball,2022-12-10,Chicago Bulls - Dallas Mavericks,True
+391,348,Basketball,2022-12-10,Golden State Warriors - Boston Celtics,True
+392,349,Basketball,2022-12-10,Denver Nuggets - Utah Jazz,True
+393,350,Basketball,2022-12-10,Portland Trail Blazers - Minnesota Timberwolves,True
+394,351,Basketball,2022-12-11,New Orleans Pelicans - Phoenix Suns,True
+395,352,Basketball,2022-12-11,Detroit Pistons - Los Angeles Lakers,True
+396,353,Basketball,2022-12-11,New York Knicks - Sacramento Kings,True
+397,354,Basketball,2022-12-11,Orlando Magic - Toronto Raptors,True
+398,355,Basketball,2022-12-11,Philadelphia 76ers - Charlotte Hornets,True
+399,356,Basketball,2022-12-11,Atlanta Hawks - Chicago Bulls,True
+400,357,Basketball,2022-12-11,Houston Rockets - Milwaukee Bucks,True
+401,358,Basketball,2022-12-12,Indiana Pacers - Miami Heat,True
+402,359,Basketball,2022-12-12,Washington Wizards - Brooklyn Nets,True
+403,360,Basketball,2022-12-12,Memphis Grizzlies - Atlanta Hawks,True
+404,361,Basketball,2022-12-12,Dallas Mavericks - Oklahoma City Thunder,True
+405,362,Basketball,2022-12-12,San Antonio Spurs - Cleveland Cavaliers,True
+406,363,Basketball,2022-12-12,Portland Trail Blazers - Minnesota Timberwolves,True
+407,364,Basketball,2022-12-12,Los Angeles Clippers - Boston Celtics,True
+408,365,Basketball,2022-12-13,Philadelphia 76ers - Sacramento Kings,True
+409,366,Basketball,2022-12-13,Milwaukee Bucks - Golden State Warriors,True
+410,367,Basketball,2022-12-13,Houston Rockets - Phoenix Suns,True
+411,368,Basketball,2022-12-13,Utah Jazz - New Orleans Pelicans,True
+412,369,Basketball,2022-12-13,Los Angeles Lakers - Boston Celtics,True
+413,370,Basketball,2022-12-14,Charlotte Hornets - Detroit Pistons,True
+414,371,Basketball,2022-12-14,Indiana Pacers - Golden State Warriors,True
+415,372,Basketball,2022-12-14,Orlando Magic - Atlanta Hawks,True
+416,373,Basketball,2022-12-14,Chicago Bulls - New York Knicks,True
+417,374,Basketball,2022-12-14,Toronto Raptors - Sacramento Kings,True
+418,375,Basketball,2022-12-14,Oklahoma City Thunder - Miami Heat,True
+419,376,Basketball,2022-12-14,San Antonio Spurs - Portland Trail Blazers,True
+420,377,Basketball,2022-12-14,Dallas Mavericks - Cleveland Cavaliers,True
+421,378,Basketball,2022-12-14,Denver Nuggets - Washington Wizards,True
+422,379,Basketball,2022-12-14,Los Angeles Clippers - Minnesota Timberwolves,True
+423,380,Basketball,2022-12-15,Houston Rockets - Miami Heat,True
+424,381,Basketball,2022-12-15,Memphis Grizzlies - Milwaukee Bucks,True
+425,382,Basketball,2022-12-15,Utah Jazz - New Orleans Pelicans,True
+426,383,Basketball,2022-12-15,Los Angeles Clippers - Phoenix Suns,True
+427,384,Basketball,2022-12-16,Charlotte Hornets - Atlanta Hawks,True
+428,385,Basketball,2022-12-16,Detroit Pistons - Sacramento Kings,True
+429,386,Basketball,2022-12-16,Boston Celtics - Orlando Magic,True
+430,387,Basketball,2022-12-16,Cleveland Cavaliers - Indiana Pacers,True
+431,388,Basketball,2022-12-16,Philadelphia 76ers - Golden State Warriors,True
+432,389,Basketball,2022-12-16,Toronto Raptors - Brooklyn Nets,True
+433,390,Basketball,2022-12-16,Chicago Bulls - New York Knicks,True
+434,391,Basketball,2022-12-16,Oklahoma City Thunder - Minnesota Timberwolves,True
+435,392,Basketball,2022-12-16,Dallas Mavericks - Portland Trail Blazers,True
+436,393,Basketball,2022-12-16,Los Angeles Lakers - Denver Nuggets,True
+437,394,Basketball,2022-12-17,Los Angeles Clippers - Washington Wizards,True
+438,395,Basketball,2022-12-17,San Antonio Spurs - Miami Heat,True
+439,396,Basketball,2022-12-17,Cleveland Cavaliers - Dallas Mavericks,True
+440,397,Basketball,2022-12-17,Houston Rockets - Portland Trail Blazers,True
+441,398,Basketball,2022-12-17,Milwaukee Bucks - Utah Jazz,True
+442,399,Basketball,2022-12-17,Oklahoma City Thunder - Memphis Grizzlies,True
+443,400,Basketball,2022-12-17,Phoenix Suns - New Orleans Pelicans,True
+444,401,Basketball,2022-12-18,Boston Celtics - Orlando Magic,True
+445,402,Basketball,2022-12-18,Indiana Pacers - New York Knicks,True
+446,403,Basketball,2022-12-18,Detroit Pistons - Brooklyn Nets,True
+447,404,Basketball,2022-12-18,Toronto Raptors - Golden State Warriors,True
+448,405,Basketball,2022-12-18,Minnesota Timberwolves - Chicago Bulls,True
+449,406,Basketball,2022-12-18,Denver Nuggets - Charlotte Hornets,True
+450,407,Basketball,2022-12-18,Los Angeles Lakers - Washington Wizards,True
+451,408,Basketball,2022-12-19,Cleveland Cavaliers - Utah Jazz,True
+452,409,Basketball,2022-12-19,Philadelphia 76ers - Toronto Raptors,True
+453,410,Basketball,2022-12-19,Atlanta Hawks - Orlando Magic,True
+454,411,Basketball,2022-12-19,Houston Rockets - San Antonio Spurs,True
+455,412,Basketball,2022-12-19,Minnesota Timberwolves - Dallas Mavericks,True
+456,413,Basketball,2022-12-19,New Orleans Pelicans - Milwaukee Bucks,True
+457,414,Basketball,2022-12-19,Oklahoma City Thunder - Portland Trail Blazers,True
+458,415,Basketball,2022-12-19,Phoenix Suns - Los Angeles Lakers,True
+459,416,Basketball,2022-12-19,Sacramento Kings - Charlotte Hornets,True
+460,417,Basketball,2022-12-20,Detroit Pistons - Utah Jazz,True
+461,418,Basketball,2022-12-20,Miami Heat - Chicago Bulls,True
+462,419,Basketball,2022-12-20,New York Knicks - Golden State Warriors,True
+463,420,Basketball,2022-12-20,Phoenix Suns - Washington Wizards,True
+464,421,Basketball,2022-12-20,Denver Nuggets - Memphis Grizzlies,True
+465,422,Basketball,2022-12-21,Cleveland Cavaliers - Milwaukee Bucks,True
+466,423,Basketball,2022-12-21,Philadelphia 76ers - Detroit Pistons,True
+467,424,Basketball,2022-12-21,Atlanta Hawks - Chicago Bulls,True
+468,425,Basketball,2022-12-21,Boston Celtics - Indiana Pacers,True
+469,426,Basketball,2022-12-21,Brooklyn Nets - Golden State Warriors,True
+470,427,Basketball,2022-12-21,New York Knicks - Toronto Raptors,True
+471,428,Basketball,2022-12-21,Houston Rockets - Orlando Magic,True
+472,429,Basketball,2022-12-21,Minnesota Timberwolves - Dallas Mavericks,True
+473,430,Basketball,2022-12-21,Oklahoma City Thunder - Portland Trail Blazers,True
+474,431,Basketball,2022-12-21,Sacramento Kings - Los Angeles Lakers,True
+475,432,Basketball,2022-12-21,Los Angeles Clippers - Charlotte Hornets,True
+476,433,Basketball,2022-12-22,New Orleans Pelicans - San Antonio Spurs,True
+477,434,Basketball,2022-12-22,Utah Jazz - Washington Wizards,True
+478,435,Basketball,2022-12-23,Orlando Magic - San Antonio Spurs,True
+479,436,Basketball,2022-12-23,Philadelphia 76ers - Los Angeles Clippers,True
+480,437,Basketball,2022-12-23,Atlanta Hawks - Detroit Pistons,True
+481,438,Basketball,2022-12-23,Boston Celtics - Minnesota Timberwolves,True
+482,439,Basketball,2022-12-23,Brooklyn Nets - Milwaukee Bucks,True
+483,440,Basketball,2022-12-23,Cleveland Cavaliers - Toronto Raptors,True
+484,441,Basketball,2022-12-23,New York Knicks - Chicago Bulls,True
+485,442,Basketball,2022-12-23,Houston Rockets - Dallas Mavericks,True
+486,443,Basketball,2022-12-23,Miami Heat - Indiana Pacers,True
+487,444,Basketball,2022-12-23,Oklahoma City Thunder - New Orleans Pelicans,True
+488,445,Basketball,2022-12-23,Denver Nuggets - Portland Trail Blazers,True
+489,446,Basketball,2022-12-23,Phoenix Suns - Memphis Grizzlies,True
+490,447,Basketball,2022-12-23,Sacramento Kings - Washington Wizards,True
+491,448,Basketball,2022-12-23,Los Angeles Lakers - Charlotte Hornets,True
+492,449,Basketball,2022-12-25,New York Knicks - Philadelphia 76ers,True
+493,450,Basketball,2022-12-25,Dallas Mavericks - Los Angeles Lakers,True
+494,451,Basketball,2022-12-25,Boston Celtics - Milwaukee Bucks,True
+495,452,Basketball,2022-12-25,Golden State Warriors - Memphis Grizzlies,True
+496,453,Basketball,2022-12-25,Denver Nuggets - Phoenix Suns,True
+497,454,Basketball,2022-12-26,Cleveland Cavaliers - Brooklyn Nets,True
+498,455,Basketball,2022-12-26,Detroit Pistons - Los Angeles Clippers,True
+499,456,Basketball,2022-12-26,Miami Heat - Minnesota Timberwolves,True
+500,457,Basketball,2022-12-26,Chicago Bulls - Houston Rockets,True
+501,458,Basketball,2022-12-26,New Orleans Pelicans - Indiana Pacers,True
+502,459,Basketball,2022-12-26,San Antonio Spurs - Utah Jazz,True
+503,460,Basketball,2022-12-26,Portland Trail Blazers - Charlotte Hornets,True
+504,461,Basketball,2022-12-27,Orlando Magic - Los Angeles Lakers,True
+505,462,Basketball,2022-12-27,Washington Wizards - Philadelphia 76ers,True
+506,463,Basketball,2022-12-27,Boston Celtics - Houston Rockets,True
+507,464,Basketball,2022-12-27,Indiana Pacers - Atlanta Hawks,True
+508,465,Basketball,2022-12-27,Toronto Raptors - Los Angeles Clippers,True
+509,466,Basketball,2022-12-27,Memphis Grizzlies - Phoenix Suns,True
+510,467,Basketball,2022-12-27,Oklahoma City Thunder - San Antonio Spurs,True
+511,468,Basketball,2022-12-27,Dallas Mavericks - New York Knicks,True
+512,469,Basketball,2022-12-27,Golden State Warriors - Charlotte Hornets,True
+513,470,Basketball,2022-12-27,Sacramento Kings - Denver Nuggets,True
+514,471,Basketball,2022-12-28,Detroit Pistons - Orlando Magic,True
+515,472,Basketball,2022-12-28,Washington Wizards - Phoenix Suns,True
+516,473,Basketball,2022-12-28,Atlanta Hawks - Brooklyn Nets,True
+517,474,Basketball,2022-12-28,Miami Heat - Los Angeles Lakers,True
+518,475,Basketball,2022-12-28,Chicago Bulls - Milwaukee Bucks,True
+519,476,Basketball,2022-12-28,New Orleans Pelicans - Minnesota Timberwolves,True
+520,477,Basketball,2022-12-28,Golden State Warriors - Utah Jazz,True
+521,478,Basketball,2022-12-28,Sacramento Kings - Denver Nuggets,True
+522,479,Basketball,2022-12-29,Charlotte Hornets - Oklahoma City Thunder,True
+523,480,Basketball,2022-12-29,Indiana Pacers - Cleveland Cavaliers,True
+524,481,Basketball,2022-12-29,Boston Celtics - Los Angeles Clippers,True
+525,482,Basketball,2022-12-29,Toronto Raptors - Memphis Grizzlies,True
+526,483,Basketball,2022-12-29,San Antonio Spurs - New York Knicks,True
+527,484,Basketball,2022-12-29,Dallas Mavericks - Houston Rockets,True
+528,485,Basketball,2022-12-30,Orlando Magic - Washington Wizards,True
+529,486,Basketball,2022-12-30,Atlanta Hawks - Los Angeles Lakers,True
+530,487,Basketball,2022-12-30,Toronto Raptors - Phoenix Suns,True
+531,488,Basketball,2022-12-30,Chicago Bulls - Detroit Pistons,True
+532,489,Basketball,2022-12-30,Milwaukee Bucks - Minnesota Timberwolves,True
+533,490,Basketball,2022-12-30,New Orleans Pelicans - Philadelphia 76ers,True
+534,491,Basketball,2022-12-30,Denver Nuggets - Miami Heat,True
+535,492,Basketball,2022-12-30,Golden State Warriors - Portland Trail Blazers,True
+536,493,Basketball,2022-12-30,Sacramento Kings - Utah Jazz,True
+537,494,Basketball,2022-12-31,Indiana Pacers - Los Angeles Clippers,True
+538,495,Basketball,2022-12-31,Chicago Bulls - Cleveland Cavaliers,True
+539,496,Basketball,2022-12-31,Charlotte Hornets - Brooklyn Nets,True
+540,497,Basketball,2022-12-31,Houston Rockets - New York Knicks,True
+541,498,Basketball,2022-12-31,San Antonio Spurs - Dallas Mavericks,True
+542,499,Basketball,2022-12-31,Memphis Grizzlies - New Orleans Pelicans,True
+543,500,Basketball,2022-12-31,Minnesota Timberwolves - Detroit Pistons,True
+544,501,Basketball,2022-12-31,Oklahoma City Thunder - Philadelphia 76ers,True
+545,502,Basketball,2022-12-31,Utah Jazz - Miami Heat,True
+546,503,Basketball,2023-01-01,Denver Nuggets - Boston Celtics,True
+547,504,Basketball,2023-01-01,Memphis Grizzlies - Sacramento Kings,True
+548,505,Basketball,2023-01-01,Milwaukee Bucks - Washington Wizards,True
+549,506,Basketball,2023-01-02,New York Knicks - Phoenix Suns,True
+550,507,Basketball,2023-01-02,Charlotte Hornets - Los Angeles Lakers,True
+551,508,Basketball,2023-01-02,Cleveland Cavaliers - Chicago Bulls,True
+552,509,Basketball,2023-01-02,Indiana Pacers - Toronto Raptors,True
+553,510,Basketball,2023-01-02,Philadelphia 76ers - New Orleans Pelicans,True
+554,511,Basketball,2023-01-02,Brooklyn Nets - San Antonio Spurs,True
+555,512,Basketball,2023-01-02,Houston Rockets - Dallas Mavericks,True
+556,513,Basketball,2023-01-02,Minnesota Timberwolves - Denver Nuggets,True
+557,514,Basketball,2023-01-02,Golden State Warriors - Atlanta Hawks,True
+558,515,Basketball,2023-01-02,Portland Trail Blazers - Detroit Pistons,True
+559,516,Basketball,2023-01-02,Los Angeles Clippers - Miami Heat,True
+560,517,Basketball,2023-01-03,Milwaukee Bucks - Washington Wizards,True
+561,518,Basketball,2023-01-03,Oklahoma City Thunder - Boston Celtics,True
+562,519,Basketball,2023-01-03,Utah Jazz - Sacramento Kings,True
+563,520,Basketball,2023-01-04,Charlotte Hornets - Memphis Grizzlies,True
+564,521,Basketball,2023-01-04,Cleveland Cavaliers - Phoenix Suns,True
+565,522,Basketball,2023-01-04,Orlando Magic - Oklahoma City Thunder,True
+566,523,Basketball,2023-01-04,Philadelphia 76ers - Indiana Pacers,True
+567,524,Basketball,2023-01-04,New York Knicks - San Antonio Spurs,True
+568,525,Basketball,2023-01-04,Toronto Raptors - Milwaukee Bucks,True
+569,526,Basketball,2023-01-04,Chicago Bulls - Brooklyn Nets,True
+570,527,Basketball,2023-01-04,Minnesota Timberwolves - Portland Trail Blazers,True
+571,528,Basketball,2023-01-04,New Orleans Pelicans - Houston Rockets,True
+572,529,Basketball,2023-01-04,Golden State Warriors - Detroit Pistons,True
+573,530,Basketball,2023-01-04,Los Angeles Lakers - Miami Heat,True
+574,531,Basketball,2023-01-04,Sacramento Kings - Atlanta Hawks,True
+575,532,Basketball,2023-01-05,Orlando Magic - Memphis Grizzlies,True
+576,533,Basketball,2023-01-05,Dallas Mavericks - Boston Celtics,True
+577,534,Basketball,2023-01-05,Houston Rockets - Utah Jazz,True
+578,535,Basketball,2023-01-05,Denver Nuggets - Los Angeles Clippers,True
+579,536,Basketball,2023-01-06,Indiana Pacers - Portland Trail Blazers,True
+580,537,Basketball,2023-01-06,Philadelphia 76ers - Chicago Bulls,True
+581,538,Basketball,2023-01-06,Toronto Raptors - New York Knicks,True
+582,539,Basketball,2023-01-06,Milwaukee Bucks - Charlotte Hornets,True
+583,540,Basketball,2023-01-06,Oklahoma City Thunder - Washington Wizards,True
+584,541,Basketball,2023-01-06,San Antonio Spurs - Detroit Pistons,True
+585,542,Basketball,2023-01-06,New Orleans Pelicans - Brooklyn Nets,True
+586,543,Basketball,2023-01-06,Denver Nuggets - Cleveland Cavaliers,True
+587,544,Basketball,2023-01-06,Minnesota Timberwolves - Los Angeles Clippers,True
+588,545,Basketball,2023-01-06,Phoenix Suns - Miami Heat,True
+589,546,Basketball,2023-01-06,Los Angeles Lakers - Atlanta Hawks,True
+590,547,Basketball,2023-01-07,San Antonio Spurs - Boston Celtics,True
+591,548,Basketball,2023-01-07,Chicago Bulls - Utah Jazz,True
+592,549,Basketball,2023-01-07,Dallas Mavericks - New Orleans Pelicans,True
+593,550,Basketball,2023-01-07,Golden State Warriors - Orlando Magic,True
+594,551,Basketball,2023-01-07,Sacramento Kings - Los Angeles Lakers,True
+595,552,Basketball,2023-01-08,Detroit Pistons - Philadelphia 76ers,True
+596,553,Basketball,2023-01-08,Toronto Raptors - Portland Trail Blazers,True
+597,554,Basketball,2023-01-08,Indiana Pacers - Charlotte Hornets,True
+598,555,Basketball,2023-01-08,Memphis Grizzlies - Utah Jazz,True
+599,556,Basketball,2023-01-08,Miami Heat - Brooklyn Nets,True
+600,557,Basketball,2023-01-08,Houston Rockets - Minnesota Timberwolves,True
+601,558,Basketball,2023-01-08,Oklahoma City Thunder - Dallas Mavericks,True
+602,559,Basketball,2023-01-08,Phoenix Suns - Cleveland Cavaliers,True
+603,560,Basketball,2023-01-08,Los Angeles Clippers - Atlanta Hawks,True
+604,561,Basketball,2023-01-09,Washington Wizards - New Orleans Pelicans,True
+605,562,Basketball,2023-01-09,Boston Celtics - Chicago Bulls,True
+606,563,Basketball,2023-01-09,New York Knicks - Milwaukee Bucks,True
+607,564,Basketball,2023-01-09,Memphis Grizzlies - San Antonio Spurs,True
+608,565,Basketball,2023-01-09,Denver Nuggets - Los Angeles Lakers,True
+609,566,Basketball,2023-01-09,Sacramento Kings - Orlando Magic,True
+610,567,Basketball,2023-01-10,Miami Heat - Oklahoma City Thunder,True
+611,568,Basketball,2023-01-10,Philadelphia 76ers - Detroit Pistons,True
+612,569,Basketball,2023-01-10,Toronto Raptors - Charlotte Hornets,True
+613,570,Basketball,2023-01-10,Utah Jazz - Cleveland Cavaliers,True
+614,571,Basketball,2023-01-10,Golden State Warriors - Phoenix Suns,True
+615,572,Basketball,2023-01-10,Portland Trail Blazers - Orlando Magic,True
+616,573,Basketball,2023-01-10,Los Angeles Clippers - Dallas Mavericks,True
+617,574,Basketball,2023-01-11,Detroit Pistons - Minnesota Timberwolves,True
+618,575,Basketball,2023-01-11,Washington Wizards - Chicago Bulls,True
+619,576,Basketball,2023-01-11,Atlanta Hawks - Milwaukee Bucks,True
+620,577,Basketball,2023-01-11,Boston Celtics - New Orleans Pelicans,True
+621,578,Basketball,2023-01-11,New York Knicks - Indiana Pacers,True
+622,579,Basketball,2023-01-11,Memphis Grizzlies - San Antonio Spurs,True
+623,580,Basketball,2023-01-11,Denver Nuggets - Phoenix Suns,True
+624,581,Basketball,2023-01-11,Sacramento Kings - Houston Rockets,True
+625,582,Basketball,2023-01-12,Philadelphia 76ers - Oklahoma City Thunder,True
+626,583,Basketball,2023-01-12,Brooklyn Nets - Boston Celtics,True
+627,584,Basketball,2023-01-12,Miami Heat - Milwaukee Bucks,True
+628,585,Basketball,2023-01-12,Toronto Raptors - Charlotte Hornets,True
+629,586,Basketball,2023-01-12,Los Angeles Lakers - Dallas Mavericks,True
+630,587,Basketball,2023-01-12,Portland Trail Blazers - Cleveland Cavaliers,True
+631,588,Basketball,2023-01-13,Detroit Pistons - New Orleans Pelicans,True
+632,589,Basketball,2023-01-13,Indiana Pacers - Atlanta Hawks,True
+633,590,Basketball,2023-01-13,Washington Wizards - New York Knicks,True
+634,591,Basketball,2023-01-13,San Antonio Spurs - Golden State Warriors,True
+635,592,Basketball,2023-01-13,Chicago Bulls - Oklahoma City Thunder,True
+636,593,Basketball,2023-01-13,Minnesota Timberwolves - Phoenix Suns,True
+637,594,Basketball,2023-01-13,Utah Jazz - Orlando Magic,True
+638,595,Basketball,2023-01-13,Los Angeles Clippers - Denver Nuggets,True
+639,596,Basketball,2023-01-13,Sacramento Kings - Houston Rockets,True
+640,597,Basketball,2023-01-14,Miami Heat - Milwaukee Bucks,True
+641,598,Basketball,2023-01-14,Charlotte Hornets - Boston Celtics,True
+642,599,Basketball,2023-01-14,Indiana Pacers - Memphis Grizzlies,True
+643,600,Basketball,2023-01-14,Toronto Raptors - Atlanta Hawks,True
+644,601,Basketball,2023-01-14,Minnesota Timberwolves - Cleveland Cavaliers,True
+645,602,Basketball,2023-01-14,Utah Jazz - Philadelphia 76ers,True
+646,603,Basketball,2023-01-14,Portland Trail Blazers - Dallas Mavericks,True
+647,604,Basketball,2023-01-15,Detroit Pistons - New York Knicks,True
+648,605,Basketball,2023-01-15,Los Angeles Clippers - Houston Rockets,True
+649,606,Basketball,2023-01-15,Chicago Bulls - Golden State Warriors,True
+650,607,Basketball,2023-01-15,Brooklyn Nets - Oklahoma City Thunder,True
+651,608,Basketball,2023-01-15,San Antonio Spurs - Sacramento Kings,True
+652,609,Basketball,2023-01-15,Denver Nuggets - Orlando Magic,True
+653,610,Basketball,2023-01-15,Portland Trail Blazers - Dallas Mavericks,True
+654,611,Basketball,2023-01-15,Los Angeles Lakers - Philadelphia 76ers,True
+655,612,Basketball,2023-01-16,Charlotte Hornets - Boston Celtics,True
+656,613,Basketball,2023-01-16,Milwaukee Bucks - Indiana Pacers,True
+657,614,Basketball,2023-01-16,Cleveland Cavaliers - New Orleans Pelicans,True
+658,615,Basketball,2023-01-16,New York Knicks - Toronto Raptors,True
+659,616,Basketball,2023-01-16,Washington Wizards - Golden State Warriors,True
+660,617,Basketball,2023-01-16,Atlanta Hawks - Miami Heat,True
+661,618,Basketball,2023-01-16,Minnesota Timberwolves - Utah Jazz,True
+662,619,Basketball,2023-01-16,Memphis Grizzlies - Phoenix Suns,True
+663,620,Basketball,2023-01-16,Los Angeles Lakers - Houston Rockets,True
+664,621,Basketball,2023-01-17,Milwaukee Bucks - Toronto Raptors,True
+665,622,Basketball,2023-01-17,San Antonio Spurs - Brooklyn Nets,True
+666,623,Basketball,2023-01-17,Denver Nuggets - Portland Trail Blazers,True
+667,624,Basketball,2023-01-17,Los Angeles Clippers - Philadelphia 76ers,True
+668,625,Basketball,2023-01-18,Dallas Mavericks - Atlanta Hawks,True
+669,626,Basketball,2023-01-18,New York Knicks - Washington Wizards,True
+670,627,Basketball,2023-01-18,Houston Rockets - Charlotte Hornets,True
+671,628,Basketball,2023-01-18,Memphis Grizzlies - Cleveland Cavaliers,True
+672,629,Basketball,2023-01-18,New Orleans Pelicans - Miami Heat,True
+673,630,Basketball,2023-01-18,Oklahoma City Thunder - Indiana Pacers,True
+674,631,Basketball,2023-01-18,Utah Jazz - Los Angeles Clippers,True
+675,632,Basketball,2023-01-18,Denver Nuggets - Minnesota Timberwolves,True
+676,633,Basketball,2023-01-18,Los Angeles Lakers - Sacramento Kings,True
+677,634,Basketball,2023-01-19,Detroit Pistons - Chicago Bulls,True
+678,635,Basketball,2023-01-19,Boston Celtics - Golden State Warriors,True
+679,636,Basketball,2023-01-19,Minnesota Timberwolves - Toronto Raptors,True
+680,637,Basketball,2023-01-19,Phoenix Suns - Brooklyn Nets,True
+681,638,Basketball,2023-01-19,Portland Trail Blazers - Philadelphia 76ers,True
+682,639,Basketball,2023-01-20,Orlando Magic - New Orleans Pelicans,True
+683,640,Basketball,2023-01-20,Atlanta Hawks - New York Knicks,True
+684,641,Basketball,2023-01-20,Cleveland Cavaliers - Golden State Warriors,True
+685,642,Basketball,2023-01-20,Dallas Mavericks - Miami Heat,True
+686,643,Basketball,2023-01-20,San Antonio Spurs - Los Angeles Clippers,True
+687,644,Basketball,2023-01-20,Denver Nuggets - Indiana Pacers,True
+688,645,Basketball,2023-01-20,Utah Jazz - Brooklyn Nets,True
+689,646,Basketball,2023-01-20,Los Angeles Lakers - Memphis Grizzlies,True
+690,647,Basketball,2023-01-20,Sacramento Kings - Oklahoma City Thunder,True
+691,648,Basketball,2023-01-21,Toronto Raptors - Boston Celtics,True
+692,649,Basketball,2023-01-21,Washington Wizards - Orlando Magic,True
+693,650,Basketball,2023-01-21,Atlanta Hawks - Charlotte Hornets,True
+694,651,Basketball,2023-01-21,Cleveland Cavaliers - Milwaukee Bucks,True
+695,652,Basketball,2023-01-21,Minnesota Timberwolves - Houston Rockets,True
+696,653,Basketball,2023-01-21,Phoenix Suns - Indiana Pacers,True
+697,654,Basketball,2023-01-21,Sacramento Kings - Philadelphia 76ers,True
+698,655,Basketball,2023-01-22,Miami Heat - New Orleans Pelicans,True
+699,656,Basketball,2023-01-22,Toronto Raptors - New York Knicks,True
+700,657,Basketball,2023-01-22,Dallas Mavericks - Los Angeles Clippers,True
+701,658,Basketball,2023-01-22,Denver Nuggets - Oklahoma City Thunder,True
+702,659,Basketball,2023-01-22,Phoenix Suns - Memphis Grizzlies,True
+703,660,Basketball,2023-01-22,Golden State Warriors - Brooklyn Nets,True
+704,661,Basketball,2023-01-22,Portland Trail Blazers - Los Angeles Lakers,True
+705,662,Basketball,2023-01-23,Detroit Pistons - Milwaukee Bucks,True
+706,663,Basketball,2023-01-23,Orlando Magic - Boston Celtics,True
+707,664,Basketball,2023-01-23,Chicago Bulls - Atlanta Hawks,True
+708,665,Basketball,2023-01-23,Houston Rockets - Minnesota Timberwolves,True
+709,666,Basketball,2023-01-23,Utah Jazz - Charlotte Hornets,True
+710,667,Basketball,2023-01-23,Portland Trail Blazers - San Antonio Spurs,True
+711,668,Basketball,2023-01-23,Sacramento Kings - Memphis Grizzlies,True
+712,669,Basketball,2023-01-24,Indiana Pacers - Chicago Bulls,True
+713,670,Basketball,2023-01-24,Miami Heat - Boston Celtics,True
+714,671,Basketball,2023-01-24,New York Knicks - Cleveland Cavaliers,True
+715,672,Basketball,2023-01-24,New Orleans Pelicans - Denver Nuggets,True
+716,673,Basketball,2023-01-24,Dallas Mavericks - Washington Wizards,True
+717,674,Basketball,2023-01-24,Phoenix Suns - Charlotte Hornets,True
+718,675,Basketball,2023-01-24,Los Angeles Lakers - Los Angeles Clippers,True
+719,676,Basketball,2023-01-25,Orlando Magic - Indiana Pacers,True
+720,677,Basketball,2023-01-25,Philadelphia 76ers - Brooklyn Nets,True
+721,678,Basketball,2023-01-25,Houston Rockets - Washington Wizards,True
+722,679,Basketball,2023-01-25,Milwaukee Bucks - Denver Nuggets,True
+723,680,Basketball,2023-01-25,New Orleans Pelicans - Minnesota Timberwolves,True
+724,681,Basketball,2023-01-25,Oklahoma City Thunder - Atlanta Hawks,True
+725,682,Basketball,2023-01-25,Golden State Warriors - Memphis Grizzlies,True
+726,683,Basketball,2023-01-25,Portland Trail Blazers - Utah Jazz,True
+727,684,Basketball,2023-01-25,Sacramento Kings - Toronto Raptors,True
+728,685,Basketball,2023-01-25,Los Angeles Lakers - San Antonio Spurs,True
+729,686,Basketball,2023-01-26,Boston Celtics - New York Knicks,True
+730,687,Basketball,2023-01-26,Brooklyn Nets - Detroit Pistons,True
+731,688,Basketball,2023-01-26,Charlotte Hornets - Chicago Bulls,True
+732,689,Basketball,2023-01-26,Houston Rockets - Cleveland Cavaliers,True
+733,690,Basketball,2023-01-26,Phoenix Suns - Dallas Mavericks,True
+734,691,Basketball,2023-01-26,Los Angeles Clippers - San Antonio Spurs,True
+735,692,Basketball,2023-01-27,Indiana Pacers - Milwaukee Bucks,True
+736,693,Basketball,2023-01-27,Minnesota Timberwolves - Memphis Grizzlies,True
+737,694,Basketball,2023-01-27,Miami Heat - Orlando Magic,True
+738,695,Basketball,2023-01-27,Oklahoma City Thunder - Cleveland Cavaliers,True
+739,696,Basketball,2023-01-27,Golden State Warriors - Toronto Raptors,True
+740,697,Basketball,2023-01-28,Philadelphia 76ers - Denver Nuggets,True
+741,698,Basketball,2023-01-28,Brooklyn Nets - New York Knicks,True
+742,699,Basketball,2023-01-28,Detroit Pistons - Houston Rockets,True
+743,700,Basketball,2023-01-28,Orlando Magic - Chicago Bulls,True
+744,701,Basketball,2023-01-28,Atlanta Hawks - Los Angeles Clippers,True
+745,702,Basketball,2023-01-28,Minnesota Timberwolves - Sacramento Kings,True
+746,703,Basketball,2023-01-28,New Orleans Pelicans - Washington Wizards,True
+747,704,Basketball,2023-01-28,San Antonio Spurs - Phoenix Suns,True
+748,705,Basketball,2023-01-28,Boston Celtics - Los Angeles Lakers,True
+749,706,Basketball,2023-01-28,Utah Jazz - Dallas Mavericks,True
+750,707,Basketball,2023-01-28,Portland Trail Blazers - Toronto Raptors,True
+751,708,Basketball,2023-01-29,Charlotte Hornets - Miami Heat,True
+752,709,Basketball,2023-01-29,Memphis Grizzlies - Indiana Pacers,True
+753,710,Basketball,2023-01-29,Cleveland Cavaliers - Los Angeles Clippers,True
+754,711,Basketball,2023-01-29,Milwaukee Bucks - New Orleans Pelicans,True
+755,712,Basketball,2023-01-30,Philadelphia 76ers - Orlando Magic,True
+756,713,Basketball,2023-01-30,Brooklyn Nets - Los Angeles Lakers,True
+757,714,Basketball,2023-01-30,Minnesota Timberwolves - Sacramento Kings,True
+758,715,Basketball,2023-01-30,Oklahoma City Thunder - Golden State Warriors,True
+759,716,Basketball,2023-01-30,San Antonio Spurs - Washington Wizards,True
+760,717,Basketball,2023-01-30,Dallas Mavericks - Detroit Pistons,True
+761,718,Basketball,2023-01-30,Phoenix Suns - Toronto Raptors,True
+762,719,Basketball,2023-01-30,Portland Trail Blazers - Atlanta Hawks,True
+763,720,Basketball,2023-01-31,Cleveland Cavaliers - Miami Heat,True
+764,721,Basketball,2023-01-31,New York Knicks - Los Angeles Lakers,True
+765,722,Basketball,2023-01-31,Chicago Bulls - Los Angeles Clippers,True
+766,723,Basketball,2023-01-31,Milwaukee Bucks - Charlotte Hornets,True
+767,724,Basketball,2023-01-31,Denver Nuggets - New Orleans Pelicans,True
+768,725,Basketball,2023-02-01,Detroit Pistons - Washington Wizards,True
+769,726,Basketball,2023-02-01,Memphis Grizzlies - Portland Trail Blazers,True
+770,727,Basketball,2023-02-01,Philadelphia 76ers - Orlando Magic,True
+771,728,Basketball,2023-02-01,Boston Celtics - Brooklyn Nets,True
+772,729,Basketball,2023-02-01,Houston Rockets - Oklahoma City Thunder,True
+773,730,Basketball,2023-02-01,Minnesota Timberwolves - Golden State Warriors,True
+774,731,Basketball,2023-02-01,San Antonio Spurs - Sacramento Kings,True
+775,732,Basketball,2023-02-01,Utah Jazz - Toronto Raptors,True
+776,733,Basketball,2023-02-01,Phoenix Suns - Atlanta Hawks,True
+777,734,Basketball,2023-02-02,Indiana Pacers - Los Angeles Lakers,True
+778,735,Basketball,2023-02-02,Cleveland Cavaliers - Memphis Grizzlies,True
+779,736,Basketball,2023-02-02,New York Knicks - Miami Heat,True
+780,737,Basketball,2023-02-02,Chicago Bulls - Charlotte Hornets,True
+781,738,Basketball,2023-02-02,Dallas Mavericks - New Orleans Pelicans,True
+782,739,Basketball,2023-02-02,Denver Nuggets - Golden State Warriors,True
+783,740,Basketball,2023-02-02,Milwaukee Bucks - Los Angeles Clippers,True
+784,741,Basketball,2023-02-03,Detroit Pistons - Charlotte Hornets,True
+785,742,Basketball,2023-02-03,Indiana Pacers - Sacramento Kings,True
+786,743,Basketball,2023-02-03,Washington Wizards - Portland Trail Blazers,True
+787,744,Basketball,2023-02-03,Boston Celtics - Phoenix Suns,True
+788,745,Basketball,2023-02-03,Houston Rockets - Toronto Raptors,True
+789,746,Basketball,2023-02-03,Minnesota Timberwolves - Orlando Magic,True
+790,747,Basketball,2023-02-03,San Antonio Spurs - Philadelphia 76ers,True
+791,748,Basketball,2023-02-03,Utah Jazz - Atlanta Hawks,True
+792,749,Basketball,2023-02-04,Brooklyn Nets - Washington Wizards,True
+793,750,Basketball,2023-02-04,Detroit Pistons - Phoenix Suns,True
+794,751,Basketball,2023-02-04,New York Knicks - Los Angeles Clippers,True
+795,752,Basketball,2023-02-04,Chicago Bulls - Portland Trail Blazers,True
+796,753,Basketball,2023-02-04,Milwaukee Bucks - Miami Heat,True
+797,754,Basketball,2023-02-04,New Orleans Pelicans - Los Angeles Lakers,True
+798,755,Basketball,2023-02-04,Oklahoma City Thunder - Houston Rockets,True
+799,756,Basketball,2023-02-04,Golden State Warriors - Dallas Mavericks,True
+800,757,Basketball,2023-02-04,Denver Nuggets - Atlanta Hawks,True
+801,758,Basketball,2023-02-05,Charlotte Hornets - Orlando Magic,True
+802,759,Basketball,2023-02-05,Indiana Pacers - Cleveland Cavaliers,True
+803,760,Basketball,2023-02-05,Memphis Grizzlies - Toronto Raptors,True
+804,761,Basketball,2023-02-05,New York Knicks - Philadelphia 76ers,True
+805,762,Basketball,2023-02-05,Minnesota Timberwolves - Denver Nuggets,True
+806,763,Basketball,2023-02-05,New Orleans Pelicans - Sacramento Kings,True
+807,764,Basketball,2023-02-06,Detroit Pistons - Boston Celtics,True
+808,765,Basketball,2023-02-06,Washington Wizards - Cleveland Cavaliers,True
+809,766,Basketball,2023-02-06,Brooklyn Nets - Los Angeles Clippers,True
+810,767,Basketball,2023-02-06,Chicago Bulls - San Antonio Spurs,True
+811,768,Basketball,2023-02-06,Houston Rockets - Sacramento Kings,True
+812,769,Basketball,2023-02-06,Utah Jazz - Dallas Mavericks,True
+813,770,Basketball,2023-02-06,Golden State Warriors - Oklahoma City Thunder,True
+814,771,Basketball,2023-02-06,Portland Trail Blazers - Milwaukee Bucks,True
+815,772,Basketball,2023-02-07,Orlando Magic - New York Knicks,True
+816,773,Basketball,2023-02-07,Brooklyn Nets - Phoenix Suns,True
+817,774,Basketball,2023-02-07,New Orleans Pelicans - Atlanta Hawks,True
+818,775,Basketball,2023-02-07,Memphis Grizzlies - Chicago Bulls,True
+819,776,Basketball,2023-02-07,Denver Nuggets - Minnesota Timberwolves,True
+820,777,Basketball,2023-02-07,Los Angeles Lakers - Oklahoma City Thunder,True
+821,778,Basketball,2023-02-08,Cleveland Cavaliers - Detroit Pistons,True
+822,779,Basketball,2023-02-08,Washington Wizards - Charlotte Hornets,True
+823,780,Basketball,2023-02-08,Boston Celtics - Philadelphia 76ers,True
+824,781,Basketball,2023-02-08,Miami Heat - Indiana Pacers,True
+825,782,Basketball,2023-02-08,Toronto Raptors - San Antonio Spurs,True
+826,783,Basketball,2023-02-08,Houston Rockets - Sacramento Kings,True
+827,784,Basketball,2023-02-08,Utah Jazz - Minnesota Timberwolves,True
+828,785,Basketball,2023-02-08,Los Angeles Clippers - Dallas Mavericks,True
+829,786,Basketball,2023-02-08,Portland Trail Blazers - Golden State Warriors,True
+830,787,Basketball,2023-02-09,Orlando Magic - Denver Nuggets,True
+831,788,Basketball,2023-02-09,Atlanta Hawks - Phoenix Suns,True
+832,789,Basketball,2023-02-09,Brooklyn Nets - Chicago Bulls,True
+833,790,Basketball,2023-02-09,Los Angeles Lakers - Milwaukee Bucks,True
+834,791,Basketball,2023-02-10,Detroit Pistons - San Antonio Spurs,True
+835,792,Basketball,2023-02-10,Indiana Pacers - Phoenix Suns,True
+836,793,Basketball,2023-02-10,Philadelphia 76ers - New York Knicks,True
+837,794,Basketball,2023-02-10,Boston Celtics - Charlotte Hornets,True
+838,795,Basketball,2023-02-10,Toronto Raptors - Utah Jazz,True
+839,796,Basketball,2023-02-10,Memphis Grizzlies - Minnesota Timberwolves,True
+840,797,Basketball,2023-02-10,Miami Heat - Houston Rockets,True
+841,798,Basketball,2023-02-10,New Orleans Pelicans - Cleveland Cavaliers,True
+842,799,Basketball,2023-02-10,Portland Trail Blazers - Oklahoma City Thunder,True
+843,800,Basketball,2023-02-10,Sacramento Kings - Dallas Mavericks,True
+844,801,Basketball,2023-02-10,Los Angeles Clippers - Milwaukee Bucks,True
+845,802,Basketball,2023-02-11,Brooklyn Nets - Philadelphia 76ers,True
+846,803,Basketball,2023-02-11,Charlotte Hornets - Denver Nuggets,True
+847,804,Basketball,2023-02-11,Orlando Magic - Miami Heat,True
+848,805,Basketball,2023-02-11,Washington Wizards - Indiana Pacers,True
+849,806,Basketball,2023-02-11,Atlanta Hawks - San Antonio Spurs,True
+850,807,Basketball,2023-02-11,New York Knicks - Utah Jazz,True
+851,808,Basketball,2023-02-11,Cleveland Cavaliers - Chicago Bulls,True
+852,809,Basketball,2023-02-11,Golden State Warriors - Los Angeles Lakers,True
+853,810,Basketball,2023-02-11,Sacramento Kings - Dallas Mavericks,True
+854,811,Basketball,2023-02-12,Boston Celtics - Memphis Grizzlies,True
+855,812,Basketball,2023-02-12,Toronto Raptors - Detroit Pistons,True
+856,813,Basketball,2023-02-13,Charlotte Hornets - Atlanta Hawks,True
+857,814,Basketball,2023-02-13,Cleveland Cavaliers - San Antonio Spurs,True
+858,815,Basketball,2023-02-13,Indiana Pacers - Utah Jazz,True
+859,816,Basketball,2023-02-13,Philadelphia 76ers - Houston Rockets,True
+860,817,Basketball,2023-02-13,Miami Heat - Denver Nuggets,True
+861,818,Basketball,2023-02-13,New York Knicks - Brooklyn Nets,True
+862,819,Basketball,2023-02-13,Chicago Bulls - Orlando Magic,True
+863,820,Basketball,2023-02-13,Oklahoma City Thunder - New Orleans Pelicans,True
+864,821,Basketball,2023-02-13,Dallas Mavericks - Minnesota Timberwolves,True
+865,822,Basketball,2023-02-13,Golden State Warriors - Washington Wizards,True
+866,823,Basketball,2023-02-13,Portland Trail Blazers - Los Angeles Lakers,True
+867,824,Basketball,2023-02-14,Milwaukee Bucks - Boston Celtics,True
+868,825,Basketball,2023-02-14,Toronto Raptors - Orlando Magic,True
+869,826,Basketball,2023-02-14,Phoenix Suns - Sacramento Kings,True
+870,827,Basketball,2023-02-14,Los Angeles Clippers - Golden State Warriors,True
+871,828,Basketball,2023-02-14,Portland Trail Blazers - Washington Wizards,True
+872,829,Basketball,2023-02-15,Charlotte Hornets - San Antonio Spurs,True
+873,830,Basketball,2023-02-15,Indiana Pacers - Chicago Bulls,True
+874,831,Basketball,2023-02-15,Philadelphia 76ers - Cleveland Cavaliers,True
+875,832,Basketball,2023-02-15,Atlanta Hawks - New York Knicks,True
+876,833,Basketball,2023-02-15,Boston Celtics - Detroit Pistons,True
+877,834,Basketball,2023-02-15,Brooklyn Nets - Miami Heat,True
+878,835,Basketball,2023-02-15,Memphis Grizzlies - Utah Jazz,True
+879,836,Basketball,2023-02-15,Oklahoma City Thunder - Houston Rockets,True
+880,837,Basketball,2023-02-15,Denver Nuggets - Dallas Mavericks,True
+881,838,Basketball,2023-02-15,Los Angeles Lakers - New Orleans Pelicans,True
+882,839,Basketball,2023-02-16,Chicago Bulls - Milwaukee Bucks,True
+883,840,Basketball,2023-02-16,Minnesota Timberwolves - Washington Wizards,True
+884,841,Basketball,2023-02-16,Phoenix Suns - Los Angeles Clippers,True
+885,842,Basketball,2023-02-23,Cleveland Cavaliers - Denver Nuggets,True
+886,843,Basketball,2023-02-23,Indiana Pacers - Boston Celtics,True
+887,844,Basketball,2023-02-23,Orlando Magic - Detroit Pistons,True
+888,845,Basketball,2023-02-23,Philadelphia 76ers - Memphis Grizzlies,True
+889,846,Basketball,2023-02-23,Toronto Raptors - New Orleans Pelicans,True
+890,847,Basketball,2023-02-23,Dallas Mavericks - San Antonio Spurs,True
+891,848,Basketball,2023-02-23,Utah Jazz - Oklahoma City Thunder,True
+892,849,Basketball,2023-02-23,Los Angeles Lakers - Golden State Warriors,True
+893,850,Basketball,2023-02-23,Sacramento Kings - Portland Trail Blazers,True
+894,851,Basketball,2023-02-24,Washington Wizards - New York Knicks,True
+895,852,Basketball,2023-02-24,Atlanta Hawks - Cleveland Cavaliers,True
+896,853,Basketball,2023-02-24,Milwaukee Bucks - Miami Heat,True
+897,854,Basketball,2023-02-24,Minnesota Timberwolves - Charlotte Hornets,True
+898,855,Basketball,2023-02-24,Phoenix Suns - Oklahoma City Thunder,True
+899,856,Basketball,2023-02-24,Chicago Bulls - Brooklyn Nets,True
+900,857,Basketball,2023-02-24,Golden State Warriors - Houston Rockets,True
+901,858,Basketball,2023-02-24,Los Angeles Clippers - Sacramento Kings,True
+902,859,Basketball,2023-02-25,Detroit Pistons - Toronto Raptors,True
+903,860,Basketball,2023-02-25,Charlotte Hornets - Miami Heat,True
+904,861,Basketball,2023-02-25,Orlando Magic - Indiana Pacers,True
+905,862,Basketball,2023-02-25,New York Knicks - New Orleans Pelicans,True
+906,863,Basketball,2023-02-25,Memphis Grizzlies - Denver Nuggets,True
+907,864,Basketball,2023-02-25,Philadelphia 76ers - Boston Celtics,True
+908,865,Basketball,2023-02-25,Utah Jazz - San Antonio Spurs,True
+909,866,Basketball,2023-02-26,Milwaukee Bucks - Phoenix Suns,True
+910,867,Basketball,2023-02-26,Atlanta Hawks - Brooklyn Nets,True
+911,868,Basketball,2023-02-26,Chicago Bulls - Washington Wizards,True
+912,869,Basketball,2023-02-26,Dallas Mavericks - Los Angeles Lakers,True
+913,870,Basketball,2023-02-26,Cleveland Cavaliers - Toronto Raptors,True
+914,871,Basketball,2023-02-26,Oklahoma City Thunder - Sacramento Kings,True
+915,872,Basketball,2023-02-26,Golden State Warriors - Minnesota Timberwolves,True
+916,873,Basketball,2023-02-26,Portland Trail Blazers - Houston Rockets,True
+917,874,Basketball,2023-02-26,Denver Nuggets - Los Angeles Clippers,True
+918,875,Basketball,2023-02-27,Charlotte Hornets - Detroit Pistons,True
+919,876,Basketball,2023-02-27,Philadelphia 76ers - Miami Heat,True
+920,877,Basketball,2023-02-27,New York Knicks - Boston Celtics,True
+921,878,Basketball,2023-02-27,New Orleans Pelicans - Orlando Magic,True
+922,879,Basketball,2023-02-28,Atlanta Hawks - Washington Wizards,True
+923,880,Basketball,2023-02-28,Brooklyn Nets - Milwaukee Bucks,True
+924,881,Basketball,2023-02-28,Toronto Raptors - Chicago Bulls,True
+925,882,Basketball,2023-02-28,Houston Rockets - Denver Nuggets,True
+926,883,Basketball,2023-02-28,Memphis Grizzlies - Los Angeles Lakers,True
+927,884,Basketball,2023-02-28,Oklahoma City Thunder - Sacramento Kings,True
+928,885,Basketball,2023-02-28,Dallas Mavericks - Indiana Pacers,True
+929,886,Basketball,2023-02-28,Utah Jazz - San Antonio Spurs,True
+930,887,Basketball,2023-02-28,Golden State Warriors - Portland Trail Blazers,True
+931,888,Basketball,2023-02-28,Los Angeles Clippers - Minnesota Timberwolves,True
+932,889,Basketball,2023-03-01,Charlotte Hornets - Phoenix Suns,True
+933,890,Basketball,2023-03-01,Detroit Pistons - Chicago Bulls,True
+934,891,Basketball,2023-03-01,Boston Celtics - Cleveland Cavaliers,True
+935,892,Basketball,2023-03-01,Miami Heat - Philadelphia 76ers,True
+936,893,Basketball,2023-03-01,New York Knicks - Brooklyn Nets,True
+937,894,Basketball,2023-03-01,Houston Rockets - Memphis Grizzlies,True
+938,895,Basketball,2023-03-01,Milwaukee Bucks - Orlando Magic,True
+939,896,Basketball,2023-03-01,Oklahoma City Thunder - Los Angeles Lakers,True
+940,897,Basketball,2023-03-01,Portland Trail Blazers - New Orleans Pelicans,True
+941,898,Basketball,2023-03-02,Washington Wizards - Toronto Raptors,True
+942,899,Basketball,2023-03-02,Dallas Mavericks - Philadelphia 76ers,True
+943,900,Basketball,2023-03-02,San Antonio Spurs - Indiana Pacers,True
+944,901,Basketball,2023-03-02,Golden State Warriors - Los Angeles Clippers,True
+945,902,Basketball,2023-03-03,Charlotte Hornets - Orlando Magic,True
+946,903,Basketball,2023-03-03,Atlanta Hawks - Portland Trail Blazers,True
+947,904,Basketball,2023-03-03,Boston Celtics - Brooklyn Nets,True
+948,905,Basketball,2023-03-03,Chicago Bulls - Phoenix Suns,True
+949,906,Basketball,2023-03-03,Miami Heat - New York Knicks,True
+950,907,Basketball,2023-03-03,Oklahoma City Thunder - Utah Jazz,True
+951,908,Basketball,2023-03-03,Denver Nuggets - Memphis Grizzlies,True
+952,909,Basketball,2023-03-03,Golden State Warriors - New Orleans Pelicans,True
+953,910,Basketball,2023-03-03,Sacramento Kings - Los Angeles Clippers,True
+954,911,Basketball,2023-03-03,Los Angeles Lakers - Minnesota Timberwolves,True
+955,912,Basketball,2023-03-04,Washington Wizards - Toronto Raptors,True
+956,913,Basketball,2023-03-04,Cleveland Cavaliers - Detroit Pistons,True
+957,914,Basketball,2023-03-04,Miami Heat - Atlanta Hawks,True
+958,915,Basketball,2023-03-04,San Antonio Spurs - Houston Rockets,True
+959,916,Basketball,2023-03-04,Milwaukee Bucks - Philadelphia 76ers,True
+960,917,Basketball,2023-03-04,Sacramento Kings - Minnesota Timberwolves,True
+961,918,Basketball,2023-03-05,Dallas Mavericks - Phoenix Suns,True
+962,919,Basketball,2023-03-05,Chicago Bulls - Indiana Pacers,True
+963,920,Basketball,2023-03-05,Los Angeles Lakers - Golden State Warriors,True
+964,921,Basketball,2023-03-05,Brooklyn Nets - Charlotte Hornets,True
+965,922,Basketball,2023-03-05,Orlando Magic - Portland Trail Blazers,True
+966,923,Basketball,2023-03-05,Houston Rockets - San Antonio Spurs,True
+967,924,Basketball,2023-03-05,Oklahoma City Thunder - Utah Jazz,True
+968,925,Basketball,2023-03-05,Boston Celtics - New York Knicks,True
+969,926,Basketball,2023-03-05,Los Angeles Clippers - Memphis Grizzlies,True
+970,927,Basketball,2023-03-06,Cleveland Cavaliers - Boston Celtics,True
+971,928,Basketball,2023-03-06,Indiana Pacers - Philadelphia 76ers,True
+972,929,Basketball,2023-03-06,Washington Wizards - Milwaukee Bucks,True
+973,930,Basketball,2023-03-06,Miami Heat - Atlanta Hawks,True
+974,931,Basketball,2023-03-06,Denver Nuggets - Toronto Raptors,True
+975,932,Basketball,2023-03-06,Sacramento Kings - New Orleans Pelicans,True
+976,933,Basketball,2023-03-07,Detroit Pistons - Portland Trail Blazers,True
+977,934,Basketball,2023-03-07,Orlando Magic - Milwaukee Bucks,True
+978,935,Basketball,2023-03-07,Minnesota Timberwolves - Philadelphia 76ers,True
+979,936,Basketball,2023-03-07,New York Knicks - Charlotte Hornets,True
+980,937,Basketball,2023-03-07,Houston Rockets - Brooklyn Nets,True
+981,938,Basketball,2023-03-07,Oklahoma City Thunder - Golden State Warriors,True
+982,939,Basketball,2023-03-07,Dallas Mavericks - Utah Jazz,True
+983,940,Basketball,2023-03-07,Los Angeles Lakers - Memphis Grizzlies,True
+984,941,Basketball,2023-03-08,Washington Wizards - Atlanta Hawks,True
+985,942,Basketball,2023-03-08,Boston Celtics - Portland Trail Blazers,True
+986,943,Basketball,2023-03-08,Miami Heat - Cleveland Cavaliers,True
+987,944,Basketball,2023-03-08,New Orleans Pelicans - Dallas Mavericks,True
+988,945,Basketball,2023-03-08,Denver Nuggets - Chicago Bulls,True
+989,946,Basketball,2023-03-08,Phoenix Suns - Oklahoma City Thunder,True
+990,947,Basketball,2023-03-08,Los Angeles Clippers - Toronto Raptors,True
+991,948,Basketball,2023-03-09,Detroit Pistons - Charlotte Hornets,True
+992,949,Basketball,2023-03-09,Indiana Pacers - Houston Rockets,True
+993,950,Basketball,2023-03-09,Orlando Magic - Utah Jazz,True
+994,951,Basketball,2023-03-09,Milwaukee Bucks - Brooklyn Nets,True
+995,952,Basketball,2023-03-09,Memphis Grizzlies - Golden State Warriors,True
+996,953,Basketball,2023-03-09,Sacramento Kings - New York Knicks,True
+997,954,Basketball,2023-03-10,Philadelphia 76ers - Portland Trail Blazers,True
+998,955,Basketball,2023-03-10,Washington Wizards - Atlanta Hawks,True
+999,956,Basketball,2023-03-10,Miami Heat - Cleveland Cavaliers,True
+1000,957,Basketball,2023-03-10,Minnesota Timberwolves - Brooklyn Nets,True
+1001,958,Basketball,2023-03-10,San Antonio Spurs - Denver Nuggets,True
+1002,959,Basketball,2023-03-10,Los Angeles Lakers - Toronto Raptors,True
+1003,960,Basketball,2023-03-11,Los Angeles Clippers - New York Knicks,True
+1004,961,Basketball,2023-03-11,Charlotte Hornets - Utah Jazz,True
+1005,962,Basketball,2023-03-11,Detroit Pistons - Indiana Pacers,True
+1006,963,Basketball,2023-03-11,Orlando Magic - Miami Heat,True
+1007,964,Basketball,2023-03-11,Atlanta Hawks - Boston Celtics,True
+1008,965,Basketball,2023-03-11,Houston Rockets - Chicago Bulls,True
+1009,966,Basketball,2023-03-11,Memphis Grizzlies - Dallas Mavericks,True
+1010,967,Basketball,2023-03-11,Golden State Warriors - Milwaukee Bucks,True
+1011,968,Basketball,2023-03-11,New Orleans Pelicans - Oklahoma City Thunder,True
+1012,969,Basketball,2023-03-11,Phoenix Suns - Sacramento Kings,True
+1013,970,Basketball,2023-03-12,Denver Nuggets - Brooklyn Nets,True
+1014,971,Basketball,2023-03-12,Charlotte Hornets - Cleveland Cavaliers,True
+1015,972,Basketball,2023-03-12,Philadelphia 76ers - Washington Wizards,True
+1016,973,Basketball,2023-03-12,New Orleans Pelicans - Portland Trail Blazers,True
+1017,974,Basketball,2023-03-12,San Antonio Spurs - Oklahoma City Thunder,True
+1018,975,Basketball,2023-03-12,Los Angeles Lakers - New York Knicks,True
+1019,976,Basketball,2023-03-13,Detroit Pistons - Indiana Pacers,True
+1020,977,Basketball,2023-03-13,Atlanta Hawks - Minnesota Timberwolves,True
+1021,978,Basketball,2023-03-13,Dallas Mavericks - Memphis Grizzlies,True
+1022,979,Basketball,2023-03-13,Miami Heat - Utah Jazz,True
+1023,980,Basketball,2023-03-13,Houston Rockets - Boston Celtics,True
+1024,981,Basketball,2023-03-13,Golden State Warriors - Phoenix Suns,True
+1025,982,Basketball,2023-03-13,Sacramento Kings - Milwaukee Bucks,True
+1026,983,Basketball,2023-03-14,Charlotte Hornets - Cleveland Cavaliers,True
+1027,984,Basketball,2023-03-14,Washington Wizards - Detroit Pistons,True
+1028,985,Basketball,2023-03-14,Toronto Raptors - Denver Nuggets,True
+1029,986,Basketball,2023-03-14,New Orleans Pelicans - Los Angeles Lakers,True
+1030,987,Basketball,2023-03-14,Oklahoma City Thunder - Brooklyn Nets,True
+1031,988,Basketball,2023-03-14,San Antonio Spurs - Orlando Magic,True
+1032,989,Basketball,2023-03-14,Phoenix Suns - Milwaukee Bucks,True
+1033,990,Basketball,2023-03-14,Portland Trail Blazers - New York Knicks,True
+1034,991,Basketball,2023-03-15,Cleveland Cavaliers - Philadelphia 76ers,True
+1035,992,Basketball,2023-03-15,Miami Heat - Memphis Grizzlies,True
+1036,993,Basketball,2023-03-15,Chicago Bulls - Sacramento Kings,True
+1037,994,Basketball,2023-03-15,Houston Rockets - Los Angeles Lakers,True
+1038,995,Basketball,2023-03-15,Minnesota Timberwolves - Boston Celtics,True
+1039,996,Basketball,2023-03-15,San Antonio Spurs - Dallas Mavericks,True
+1040,997,Basketball,2023-03-15,Los Angeles Clippers - Golden State Warriors,True
+1041,998,Basketball,2023-03-16,Detroit Pistons - Denver Nuggets,True
+1042,999,Basketball,2023-03-16,Brooklyn Nets - Sacramento Kings,True
+1043,1000,Basketball,2023-03-16,Toronto Raptors - Oklahoma City Thunder,True
+1044,1001,Basketball,2023-03-16,Milwaukee Bucks - Indiana Pacers,True
+1045,1002,Basketball,2023-03-16,Phoenix Suns - Orlando Magic,True
+1046,1003,Basketball,2023-03-17,Charlotte Hornets - Philadelphia 76ers,True
+1047,1004,Basketball,2023-03-17,Atlanta Hawks - Golden State Warriors,True
+1048,1005,Basketball,2023-03-17,Cleveland Cavaliers - Washington Wizards,True
+1049,1006,Basketball,2023-03-17,Chicago Bulls - Minnesota Timberwolves,True
+1050,1007,Basketball,2023-03-17,Houston Rockets - New Orleans Pelicans,True
+1051,1008,Basketball,2023-03-17,San Antonio Spurs - Memphis Grizzlies,True
+1052,1009,Basketball,2023-03-17,Portland Trail Blazers - Boston Celtics,True
+1053,1010,Basketball,2023-03-17,Los Angeles Lakers - Dallas Mavericks,True
+1054,1011,Basketball,2023-03-18,New York Knicks - Denver Nuggets,True
+1055,1012,Basketball,2023-03-18,Los Angeles Clippers - Orlando Magic,True
+1056,1013,Basketball,2023-03-18,Indiana Pacers - Philadelphia 76ers,True
+1057,1014,Basketball,2023-03-18,Toronto Raptors - Minnesota Timberwolves,True
+1058,1015,Basketball,2023-03-18,Chicago Bulls - Miami Heat,True
+1059,1016,Basketball,2023-03-18,Memphis Grizzlies - Golden State Warriors,True
+1060,1017,Basketball,2023-03-18,Washington Wizards - Sacramento Kings,True
+1061,1018,Basketball,2023-03-18,Utah Jazz - Boston Celtics,True
+1062,1019,Basketball,2023-03-19,Brooklyn Nets - Denver Nuggets,True
+1063,1020,Basketball,2023-03-19,Oklahoma City Thunder - Phoenix Suns,True
+1064,1021,Basketball,2023-03-19,San Antonio Spurs - Atlanta Hawks,True
+1065,1022,Basketball,2023-03-19,Detroit Pistons - Miami Heat,True
+1066,1023,Basketball,2023-03-19,Houston Rockets - New Orleans Pelicans,True
+1067,1024,Basketball,2023-03-19,Milwaukee Bucks - Toronto Raptors,True
+1068,1025,Basketball,2023-03-19,Portland Trail Blazers - Los Angeles Clippers,True
+1069,1026,Basketball,2023-03-19,Los Angeles Lakers - Orlando Magic,True
+1070,1027,Basketball,2023-03-20,Charlotte Hornets - Indiana Pacers,True
+1071,1028,Basketball,2023-03-20,Philadelphia 76ers - Chicago Bulls,True
+1072,1029,Basketball,2023-03-20,New York Knicks - Minnesota Timberwolves,True
+1073,1030,Basketball,2023-03-20,Houston Rockets - Golden State Warriors,True
+1074,1031,Basketball,2023-03-20,Memphis Grizzlies - Dallas Mavericks,True
+1075,1032,Basketball,2023-03-20,Utah Jazz - Sacramento Kings,True
+1076,1033,Basketball,2023-03-21,Orlando Magic - Washington Wizards,True
+1077,1034,Basketball,2023-03-21,Atlanta Hawks - Detroit Pistons,True
+1078,1035,Basketball,2023-03-21,Brooklyn Nets - Cleveland Cavaliers,True
+1079,1036,Basketball,2023-03-21,New Orleans Pelicans - San Antonio Spurs,True
+1080,1037,Basketball,2023-03-21,Sacramento Kings - Boston Celtics,True
+1081,1038,Basketball,2023-03-21,Los Angeles Clippers - Oklahoma City Thunder,True
+1082,1039,Basketball,2023-03-22,Washington Wizards - Denver Nuggets,True
+1083,1040,Basketball,2023-03-22,Dallas Mavericks - Golden State Warriors,True
+1084,1041,Basketball,2023-03-22,Miami Heat - New York Knicks,True
+1085,1042,Basketball,2023-03-22,Toronto Raptors - Indiana Pacers,True
+1086,1043,Basketball,2023-03-22,Chicago Bulls - Philadelphia 76ers,True
+1087,1044,Basketball,2023-03-22,Memphis Grizzlies - Houston Rockets,True
+1088,1045,Basketball,2023-03-22,Milwaukee Bucks - San Antonio Spurs,True
+1089,1046,Basketball,2023-03-22,Minnesota Timberwolves - Atlanta Hawks,True
+1090,1047,Basketball,2023-03-22,Utah Jazz - Portland Trail Blazers,True
+1091,1048,Basketball,2023-03-22,Los Angeles Lakers - Phoenix Suns,True
+1092,1049,Basketball,2023-03-23,Orlando Magic - New York Knicks,True
+1093,1050,Basketball,2023-03-23,Brooklyn Nets - Cleveland Cavaliers,True
+1094,1051,Basketball,2023-03-23,New Orleans Pelicans - Charlotte Hornets,True
+1095,1052,Basketball,2023-03-23,Los Angeles Clippers - Oklahoma City Thunder,True
+1096,1053,Basketball,2023-03-24,Boston Celtics - Indiana Pacers,True
+1097,1054,Basketball,2023-03-24,Washington Wizards - San Antonio Spurs,True
+1098,1055,Basketball,2023-03-24,Toronto Raptors - Detroit Pistons,True
+1099,1056,Basketball,2023-03-24,Memphis Grizzlies - Houston Rockets,True
+1100,1057,Basketball,2023-03-24,Dallas Mavericks - Charlotte Hornets,True
+1101,1058,Basketball,2023-03-24,Utah Jazz - Milwaukee Bucks,True
+1102,1059,Basketball,2023-03-24,Golden State Warriors - Philadelphia 76ers,True
+1103,1060,Basketball,2023-03-24,Portland Trail Blazers - Chicago Bulls,True
+1104,1061,Basketball,2023-03-24,Sacramento Kings - Phoenix Suns,True
+1105,1062,Basketball,2023-03-24,Los Angeles Lakers - Oklahoma City Thunder,True
+1106,1063,Basketball,2023-03-25,Atlanta Hawks - Indiana Pacers,True
+1107,1064,Basketball,2023-03-25,Miami Heat - Brooklyn Nets,True
+1108,1065,Basketball,2023-03-25,Denver Nuggets - Milwaukee Bucks,True
+1109,1066,Basketball,2023-03-25,Phoenix Suns - Philadelphia 76ers,True
+1110,1067,Basketball,2023-03-25,Sacramento Kings - Utah Jazz,True
+1111,1068,Basketball,2023-03-25,Los Angeles Clippers - New Orleans Pelicans,True
+1112,1069,Basketball,2023-03-26,Charlotte Hornets - Dallas Mavericks,True
+1113,1070,Basketball,2023-03-26,Los Angeles Lakers - Chicago Bulls,True
+1114,1071,Basketball,2023-03-26,Atlanta Hawks - Memphis Grizzlies,True
+1115,1072,Basketball,2023-03-26,Boston Celtics - San Antonio Spurs,True
+1116,1073,Basketball,2023-03-26,Cleveland Cavaliers - Houston Rockets,True
+1117,1074,Basketball,2023-03-26,Orlando Magic - Brooklyn Nets,True
+1118,1075,Basketball,2023-03-26,Toronto Raptors - Washington Wizards,True
+1119,1076,Basketball,2023-03-26,Portland Trail Blazers - Oklahoma City Thunder,True
+1120,1077,Basketball,2023-03-26,Golden State Warriors - Minnesota Timberwolves,True
+1121,1078,Basketball,2023-03-27,Detroit Pistons - Milwaukee Bucks,True
+1122,1079,Basketball,2023-03-27,Indiana Pacers - Dallas Mavericks,True
+1123,1080,Basketball,2023-03-27,New York Knicks - Houston Rockets,True
+1124,1081,Basketball,2023-03-27,Utah Jazz - Phoenix Suns,True
+1125,1082,Basketball,2023-03-27,Denver Nuggets - Philadelphia 76ers,True
+1126,1083,Basketball,2023-03-27,Portland Trail Blazers - New Orleans Pelicans,True
+1127,1084,Basketball,2023-03-27,Sacramento Kings - Minnesota Timberwolves,True
+1128,1085,Basketball,2023-03-27,Los Angeles Clippers - Chicago Bulls,True
+1129,1086,Basketball,2023-03-28,Washington Wizards - Boston Celtics,True
+1130,1087,Basketball,2023-03-28,Atlanta Hawks - Cleveland Cavaliers,True
+1131,1088,Basketball,2023-03-28,Toronto Raptors - Miami Heat,True
+1132,1089,Basketball,2023-03-28,Memphis Grizzlies - Orlando Magic,True
+1133,1090,Basketball,2023-03-28,Oklahoma City Thunder - Charlotte Hornets,True
+1134,1091,Basketball,2023-03-28,Golden State Warriors - New Orleans Pelicans,True
+1135,1092,Basketball,2023-03-29,Indiana Pacers - Milwaukee Bucks,True
+1136,1093,Basketball,2023-03-29,Brooklyn Nets - Houston Rockets,True
+1137,1094,Basketball,2023-03-29,New York Knicks - Miami Heat,True
+1138,1095,Basketball,2023-03-29,Philadelphia 76ers - Dallas Mavericks,True
+1139,1096,Basketball,2023-03-29,Chicago Bulls - Los Angeles Lakers,True
+1140,1097,Basketball,2023-03-29,Memphis Grizzlies - Los Angeles Clippers,True
+1141,1098,Basketball,2023-03-29,Oklahoma City Thunder - Detroit Pistons,True
+1142,1099,Basketball,2023-03-29,San Antonio Spurs - Utah Jazz,True
+1143,1100,Basketball,2023-03-29,Phoenix Suns - Minnesota Timberwolves,True
+1144,1101,Basketball,2023-03-29,Portland Trail Blazers - Sacramento Kings,True
+1145,1102,Basketball,2023-03-30,Milwaukee Bucks - Boston Celtics,True
+1146,1103,Basketball,2023-03-30,Denver Nuggets - New Orleans Pelicans,True
+1147,1104,Basketball,2023-03-31,Charlotte Hornets - Chicago Bulls,True
+1148,1105,Basketball,2023-03-31,Indiana Pacers - Oklahoma City Thunder,True
+1149,1106,Basketball,2023-03-31,Philadelphia 76ers - Toronto Raptors,True
+1150,1107,Basketball,2023-03-31,Washington Wizards - Orlando Magic,True
+1151,1108,Basketball,2023-03-31,Boston Celtics - Utah Jazz,True
+1152,1109,Basketball,2023-03-31,Brooklyn Nets - Atlanta Hawks,True
+1153,1110,Basketball,2023-03-31,Cleveland Cavaliers - New York Knicks,True
+1154,1111,Basketball,2023-03-31,Houston Rockets - Detroit Pistons,True
+1155,1112,Basketball,2023-03-31,Memphis Grizzlies - Los Angeles Clippers,True
+1156,1113,Basketball,2023-03-31,Minnesota Timberwolves - Los Angeles Lakers,True
+1157,1114,Basketball,2023-03-31,Golden State Warriors - San Antonio Spurs,True
+1158,1115,Basketball,2023-03-31,Portland Trail Blazers - Sacramento Kings,True
+1159,1116,Basketball,2023-03-31,Phoenix Suns - Denver Nuggets,True
+1160,1117,Basketball,2023-04-01,Miami Heat - Dallas Mavericks,True
+1161,1118,Basketball,2023-04-01,New Orleans Pelicans - Los Angeles Clippers,True
+1162,1119,Basketball,2023-04-02,Charlotte Hornets - Toronto Raptors,True
+1163,1120,Basketball,2023-04-02,Brooklyn Nets - Utah Jazz,True
+1164,1121,Basketball,2023-04-02,Chicago Bulls - Memphis Grizzlies,True
+1165,1122,Basketball,2023-04-02,Minnesota Timberwolves - Portland Trail Blazers,True
+1166,1123,Basketball,2023-04-02,Atlanta Hawks - Dallas Mavericks,True
+1167,1124,Basketball,2023-04-02,Sacramento Kings - San Antonio Spurs,True
+1168,1125,Basketball,2023-04-02,Orlando Magic - Detroit Pistons,True
+1169,1126,Basketball,2023-04-02,New York Knicks - Washington Wizards,True
+1170,1127,Basketball,2023-04-02,Houston Rockets - Los Angeles Lakers,True
+1171,1128,Basketball,2023-04-02,Oklahoma City Thunder - Phoenix Suns,True
+1172,1129,Basketball,2023-04-02,Milwaukee Bucks - Philadelphia 76ers,True
+1173,1130,Basketball,2023-04-02,Cleveland Cavaliers - Indiana Pacers,True
+1174,1131,Basketball,2023-04-02,Denver Nuggets - Golden State Warriors,True
+1175,1132,Basketball,2023-04-04,Charlotte Hornets - Toronto Raptors,True
+1176,1133,Basketball,2023-04-04,Washington Wizards - Milwaukee Bucks,True
+1177,1134,Basketball,2023-04-04,Orlando Magic - Cleveland Cavaliers,True
+1178,1135,Basketball,2023-04-04,Detroit Pistons - Miami Heat,True
+1179,1136,Basketball,2023-04-04,Brooklyn Nets - Minnesota Timberwolves,True
+1180,1137,Basketball,2023-04-04,Houston Rockets - Denver Nuggets,True
+1181,1138,Basketball,2023-04-04,Memphis Grizzlies - Portland Trail Blazers,True
+1182,1139,Basketball,2023-04-04,New Orleans Pelicans - Sacramento Kings,True
+1183,1140,Basketball,2023-04-04,Philadelphia 76ers - Boston Celtics,True
+1184,1141,Basketball,2023-04-04,Chicago Bulls - Atlanta Hawks,True
+1185,1142,Basketball,2023-04-04,Utah Jazz - Los Angeles Lakers,True
+1186,1143,Basketball,2023-04-04,Golden State Warriors - Oklahoma City Thunder,True
+1187,1144,Basketball,2023-04-04,Phoenix Suns - San Antonio Spurs,True
+1188,1145,Basketball,2023-04-05,Detroit Pistons - Brooklyn Nets,True
+1189,1146,Basketball,2023-04-05,Indiana Pacers - New York Knicks,True
+1190,1147,Basketball,2023-04-05,Atlanta Hawks - Washington Wizards,True
+1191,1148,Basketball,2023-04-05,Boston Celtics - Toronto Raptors,True
+1192,1149,Basketball,2023-04-05,Milwaukee Bucks - Chicago Bulls,True
+1193,1150,Basketball,2023-04-05,New Orleans Pelicans - Memphis Grizzlies,True
+1194,1151,Basketball,2023-04-05,Dallas Mavericks - Sacramento Kings,True
+1195,1152,Basketball,2023-04-05,Los Angeles Clippers - Los Angeles Lakers,True
+1196,1153,Basketball,2023-04-06,Orlando Magic - Cleveland Cavaliers,True
+1197,1154,Basketball,2023-04-06,Philadelphia 76ers - Miami Heat,True
+1198,1155,Basketball,2023-04-06,San Antonio Spurs - Portland Trail Blazers,True
+1199,1156,Basketball,2023-04-06,Utah Jazz - Oklahoma City Thunder,True
+1200,1157,Basketball,2023-04-06,Phoenix Suns - Denver Nuggets,True
+1201,1158,Basketball,2023-04-07,Charlotte Hornets - Houston Rockets,True
+1202,1159,Basketball,2023-04-07,Washington Wizards - Miami Heat,True
+1203,1160,Basketball,2023-04-07,Indiana Pacers - Detroit Pistons,True
+1204,1161,Basketball,2023-04-07,Brooklyn Nets - Orlando Magic,True
+1205,1162,Basketball,2023-04-07,Boston Celtics - Toronto Raptors,True
+1206,1163,Basketball,2023-04-07,Atlanta Hawks - Philadelphia 76ers,True
+1207,1164,Basketball,2023-04-07,Milwaukee Bucks - Memphis Grizzlies,True
+1208,1165,Basketball,2023-04-07,New Orleans Pelicans - New York Knicks,True
+1209,1166,Basketball,2023-04-07,Dallas Mavericks - Chicago Bulls,True
+1210,1167,Basketball,2023-04-07,Sacramento Kings - Golden State Warriors,True
+1211,1168,Basketball,2023-04-07,Los Angeles Lakers - Phoenix Suns,True
+1212,1169,Basketball,2023-04-08,Utah Jazz - Denver Nuggets,True
+1213,1170,Basketball,2023-04-08,Los Angeles Clippers - Portland Trail Blazers,True
+1214,1171,Basketball,2023-04-08,San Antonio Spurs - Minnesota Timberwolves,True
+1215,1172,Basketball,2023-04-09,Boston Celtics - Atlanta Hawks,True
+1216,1173,Basketball,2023-04-09,Brooklyn Nets - Philadelphia 76ers,True
+1217,1174,Basketball,2023-04-09,Chicago Bulls - Detroit Pistons,True
+1218,1175,Basketball,2023-04-09,Cleveland Cavaliers - Charlotte Hornets,True
+1219,1176,Basketball,2023-04-09,Miami Heat - Orlando Magic,True
+1220,1177,Basketball,2023-04-09,New York Knicks - Indiana Pacers,True
+1221,1178,Basketball,2023-04-09,Toronto Raptors - Milwaukee Bucks,True
+1222,1179,Basketball,2023-04-09,Washington Wizards - Houston Rockets,True
+1223,1180,Basketball,2023-04-09,Dallas Mavericks - San Antonio Spurs,True
+1224,1181,Basketball,2023-04-09,Denver Nuggets - Sacramento Kings,True
+1225,1182,Basketball,2023-04-09,Los Angeles Lakers - Utah Jazz,True
+1226,1183,Basketball,2023-04-09,Minnesota Timberwolves - New Orleans Pelicans,True
+1227,1184,Basketball,2023-04-09,Oklahoma City Thunder - Memphis Grizzlies,True
+1228,1185,Basketball,2023-04-09,Phoenix Suns - Los Angeles Clippers,True
+1229,1186,Basketball,2023-04-09,Portland Trail Blazers - Golden State Warriors,True
