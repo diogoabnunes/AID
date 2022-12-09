@@ -415,21 +415,21 @@
 413,413,Hockey,2022-12-07,Philadelphia Flyers - Washington Capitals,1 - 4,False
 414,414,Hockey,2022-12-07,San Jose Sharks - Vancouver Canucks,5 - 6,False
 415,415,Hockey,2022-12-07,Vegas Golden Knights - New York Rangers,1 - 5,False
-416,416,Hockey,2022-12-08,Dallas Stars - Ottawa Senators,4 - 3,False
-417,417,Hockey,2022-12-08,Florida Panthers - Detroit Red Wings,5 - 1,False
-418,418,Hockey,2022-12-08,St. Louis Blues - Winnipeg Jets,2 - 5,False
-419,419,Hockey,2022-12-08,Tampa Bay Lightning - Nashville Predators,5 - 2,False
-420,420,Hockey,2022-12-08,Toronto Maple Leafs - Los Angeles Kings,5 - 0,False
-421,421,Hockey,2022-12-09,Anaheim Ducks - San Jose Sharks,,False
-422,422,Hockey,2022-12-09,Arizona Coyotes - Boston Bruins,,False
-423,423,Hockey,2022-12-09,Buffalo Sabres - Pittsburgh Penguins,,False
-424,424,Hockey,2022-12-09,Columbus Blue Jackets - Calgary Flames,,False
-425,425,Hockey,2022-12-09,Chicago Blackhawks - Winnipeg Jets,,False
-426,426,Hockey,2022-12-09,Colorado Avalanche - New York Rangers,,False
-427,427,Hockey,2022-12-09,Edmonton Oilers - Minnesota Wild,,False
-428,428,Hockey,2022-12-09,New Jersey Devils - New York Islanders,,False
-429,429,Hockey,2022-12-09,Vegas Golden Knights - Philadelphia Flyers,,False
-430,430,Hockey,2022-12-09,Washington Capitals - Seattle Kraken,,False
+416,416,Hockey,2022-12-08,Dallas Stars - Ottawa Senators,4 - 3,True
+417,417,Hockey,2022-12-08,Florida Panthers - Detroit Red Wings,5 - 1,True
+418,418,Hockey,2022-12-08,St. Louis Blues - Winnipeg Jets,2 - 5,True
+419,419,Hockey,2022-12-08,Tampa Bay Lightning - Nashville Predators,5 - 2,True
+420,420,Hockey,2022-12-08,Toronto Maple Leafs - Los Angeles Kings,5 - 0,True
+421,421,Hockey,2022-12-09,Anaheim Ducks - San Jose Sharks,,True
+422,422,Hockey,2022-12-09,Arizona Coyotes - Boston Bruins,,True
+423,423,Hockey,2022-12-09,Buffalo Sabres - Pittsburgh Penguins,,True
+424,424,Hockey,2022-12-09,Columbus Blue Jackets - Calgary Flames,,True
+425,425,Hockey,2022-12-09,Chicago Blackhawks - Winnipeg Jets,,True
+426,426,Hockey,2022-12-09,Colorado Avalanche - New York Rangers,,True
+427,427,Hockey,2022-12-09,Edmonton Oilers - Minnesota Wild,,True
+428,428,Hockey,2022-12-09,New Jersey Devils - New York Islanders,,True
+429,429,Hockey,2022-12-09,Vegas Golden Knights - Philadelphia Flyers,,True
+430,430,Hockey,2022-12-09,Washington Capitals - Seattle Kraken,,True
 431,431,Hockey,2022-12-10,Dallas Stars - Detroit Red Wings,,True
 432,432,Hockey,2022-12-10,Montreal Canadiens - Los Angeles Kings,,True
 433,433,Hockey,2022-12-10,Nashville Predators - Ottawa Senators,,True

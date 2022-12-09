@@ -237,7 +237,7 @@
 1,235,Football,2022-08-06,2–2,Wolfsburg VS Werder Bremen,False
 2,236,Football,2022-08-06,0–4,Augsburg VS Freiburg,False
 3,237,Football,2022-08-06,3–1,Union Berlin VS Hertha BSC,False
-4,238,Football,2022-08-06,3–1,M'Gladbach VS Hoffenheim,False
+4,238,Football,2022-08-06,3–1,M Gladbach VS Hoffenheim,False
 5,239,Football,2022-08-06,1–2,Bochum VS Mainz 05,False
 6,240,Football,2022-08-06,1–0,Dortmund VS Leverkusen,False
 7,241,Football,2022-08-07,1–1,Stuttgart VS RB Leipzig,False
@@ -248,10 +248,10 @@
 13,246,Football,2022-08-13,1–2,Leverkusen VS Augsburg,False
 14,247,Football,2022-08-13,2–2,RB Leipzig VS Köln,False
 15,248,Football,2022-08-13,1–1,Hertha BSC VS Eint Frankfurt,False
-16,249,Football,2022-08-13,2–2,Schalke 04 VS M'Gladbach,False
+16,249,Football,2022-08-13,2–2,Schalke 04 VS M Gladbach,False
 17,250,Football,2022-08-14,0–0,Mainz 05 VS Union Berlin,False
 18,251,Football,2022-08-14,2–0,Bayern Munich VS Wolfsburg,False
-20,252,Football,2022-08-19,1–0,M'Gladbach VS Hertha BSC,False
+20,252,Football,2022-08-19,1–0,M Gladbach VS Hertha BSC,False
 21,253,Football,2022-08-20,0–3,Leverkusen VS Hoffenheim,False
 22,254,Football,2022-08-20,1–2,Augsburg VS Mainz 05,False
 23,255,Football,2022-08-20,0–1,Stuttgart VS Freiburg,False
@@ -266,7 +266,7 @@
 33,264,Football,2022-08-27,2–0,RB Leipzig VS Wolfsburg,False
 34,265,Football,2022-08-27,1–6,Schalke 04 VS Union Berlin,False
 35,266,Football,2022-08-27,0–1,Hertha BSC VS Dortmund,False
-36,267,Football,2022-08-27,1–1,Bayern Munich VS M'Gladbach,False
+36,267,Football,2022-08-27,1–1,Bayern Munich VS M Gladbach,False
 37,268,Football,2022-08-28,0–0,Köln VS Stuttgart,False
 38,269,Football,2022-08-28,3–4,Werder Bremen VS Eint Frankfurt,False
 40,270,Football,2022-09-02,1–0,Dortmund VS Hoffenheim,False
@@ -277,7 +277,7 @@
 45,275,Football,2022-09-03,2–4,Wolfsburg VS Köln,False
 46,276,Football,2022-09-03,4–0,Eint Frankfurt VS RB Leipzig,False
 47,277,Football,2022-09-04,0–2,Augsburg VS Hertha BSC,False
-48,278,Football,2022-09-04,0–1,M'Gladbach VS Mainz 05,False
+48,278,Football,2022-09-04,0–1,M Gladbach VS Mainz 05,False
 50,279,Football,2022-09-09,0–1,Werder Bremen VS Augsburg,False
 51,280,Football,2022-09-10,2–2,Bayern Munich VS Stuttgart,False
 52,281,Football,2022-09-10,0–1,Eint Frankfurt VS Wolfsburg,False
@@ -286,13 +286,13 @@
 55,284,Football,2022-09-10,3–0,RB Leipzig VS Dortmund,False
 56,285,Football,2022-09-10,3–1,Schalke 04 VS Bochum,False
 57,286,Football,2022-09-11,0–1,Köln VS Union Berlin,False
-58,287,Football,2022-09-11,0–0,Freiburg VS M'Gladbach,False
+58,287,Football,2022-09-11,0–0,Freiburg VS M Gladbach,False
 60,288,Football,2022-09-16,1–1,Mainz 05 VS Hertha BSC,False
 61,289,Football,2022-09-17,1–0,Dortmund VS Schalke 04,False
 62,290,Football,2022-09-17,1–1,Leverkusen VS Werder Bremen,False
 63,291,Football,2022-09-17,1–3,Stuttgart VS Eint Frankfurt,False
 64,292,Football,2022-09-17,1–0,Augsburg VS Bayern Munich,False
-65,293,Football,2022-09-17,3–0,M'Gladbach VS RB Leipzig,False
+65,293,Football,2022-09-17,3–0,M Gladbach VS RB Leipzig,False
 66,294,Football,2022-09-18,2–0,Union Berlin VS Wolfsburg,False
 67,295,Football,2022-09-18,1–1,Bochum VS Köln,False
 68,296,Football,2022-09-18,0–0,Hoffenheim VS Freiburg,False
@@ -302,7 +302,7 @@
 73,300,Football,2022-10-01,3–2,Köln VS Dortmund,False
 74,301,Football,2022-10-01,3–2,Wolfsburg VS Stuttgart,False
 75,302,Football,2022-10-01,4–0,RB Leipzig VS Bochum,False
-76,303,Football,2022-10-01,5–1,Werder Bremen VS M'Gladbach,False
+76,303,Football,2022-10-01,5–1,Werder Bremen VS M Gladbach,False
 77,304,Football,2022-10-02,1–1,Hertha BSC VS Hoffenheim,False
 78,305,Football,2022-10-02,2–3,Schalke 04 VS Augsburg,False
 80,306,Football,2022-10-07,1–2,Hoffenheim VS Werder Bremen,False
@@ -311,11 +311,11 @@
 83,309,Football,2022-10-08,1–1,Augsburg VS Wolfsburg,False
 84,310,Football,2022-10-08,4–0,Leverkusen VS Schalke 04,False
 85,311,Football,2022-10-08,2–2,Dortmund VS Bayern Munich,False
-86,312,Football,2022-10-09,5–2,M'Gladbach VS Köln,False
+86,312,Football,2022-10-09,5–2,M Gladbach VS Köln,False
 87,313,Football,2022-10-09,2–2,Hertha BSC VS Freiburg,False
 88,314,Football,2022-10-09,0–1,Stuttgart VS Union Berlin,False
 90,315,Football,2022-10-14,0–3,Schalke 04 VS Hoffenheim,False
-91,316,Football,2022-10-15,2–2,Wolfsburg VS M'Gladbach,False
+91,316,Football,2022-10-15,2–2,Wolfsburg VS M Gladbach,False
 92,317,Football,2022-10-15,5–1,Eint Frankfurt VS Leverkusen,False
 93,318,Football,2022-10-15,0–2,Werder Bremen VS Mainz 05,False
 94,319,Football,2022-10-15,4–1,Stuttgart VS Bochum,False
@@ -329,7 +329,7 @@
 103,327,Football,2022-10-22,5–0,Dortmund VS Stuttgart,False
 104,328,Football,2022-10-22,2–0,Freiburg VS Werder Bremen,False
 105,329,Football,2022-10-22,3–3,Augsburg VS RB Leipzig,False
-106,330,Football,2022-10-22,1–3,M'Gladbach VS Eint Frankfurt,False
+106,330,Football,2022-10-22,1–3,M Gladbach VS Eint Frankfurt,False
 107,331,Football,2022-10-23,2–1,Bochum VS Union Berlin,False
 108,332,Football,2022-10-23,2–1,Hertha BSC VS Schalke 04,False
 110,333,Football,2022-10-28,1–0,Werder Bremen VS Hertha BSC,False
@@ -338,10 +338,10 @@
 113,336,Football,2022-10-29,2–0,RB Leipzig VS Leverkusen,False
 114,337,Football,2022-10-29,2–1,Stuttgart VS Augsburg,False
 115,338,Football,2022-10-29,1–2,Eint Frankfurt VS Dortmund,False
-116,339,Football,2022-10-30,2–1,Union Berlin VS M'Gladbach,False
+116,339,Football,2022-10-30,2–1,Union Berlin VS M Gladbach,False
 117,340,Football,2022-10-30,0–2,Schalke 04 VS Freiburg,False
 118,341,Football,2022-10-30,1–1,Köln VS Hoffenheim,False
-120,342,Football,2022-11-04,3–1,M'Gladbach VS Stuttgart,False
+120,342,Football,2022-11-04,3–1,M Gladbach VS Stuttgart,False
 121,343,Football,2022-11-05,3–0,Dortmund VS Bochum,False
 122,344,Football,2022-11-05,0–3,Mainz 05 VS Wolfsburg,False
 123,345,Football,2022-11-05,1–2,Augsburg VS Eint Frankfurt,False
@@ -352,14 +352,14 @@
 128,350,Football,2022-11-06,2–0,Freiburg VS Köln,False
 130,351,Football,2022-11-08,2–0,Wolfsburg VS Dortmund,False
 131,352,Football,2022-11-08,2–1,Stuttgart VS Hertha BSC,False
-132,353,Football,2022-11-08,2–1,Bochum VS M'Gladbach,False
+132,353,Football,2022-11-08,2–1,Bochum VS M Gladbach,False
 133,354,Football,2022-11-08,6–1,Bayern Munich VS Werder Bremen,False
 134,355,Football,2022-11-09,1–2,Köln VS Leverkusen,False
 135,356,Football,2022-11-09,2–2,Union Berlin VS Augsburg,False
 136,357,Football,2022-11-09,1–0,Schalke 04 VS Mainz 05,False
 137,358,Football,2022-11-09,3–1,RB Leipzig VS Freiburg,False
 138,359,Football,2022-11-09,4–2,Eint Frankfurt VS Hoffenheim,False
-140,360,Football,2022-11-11,4–2,M'Gladbach VS Dortmund,False
+140,360,Football,2022-11-11,4–2,M Gladbach VS Dortmund,False
 141,361,Football,2022-11-12,0–1,Augsburg VS Bochum,False
 142,362,Football,2022-11-12,1–2,Hoffenheim VS Wolfsburg,False
 143,363,Football,2022-11-12,1–2,Werder Bremen VS RB Leipzig,False
@@ -376,7 +376,7 @@
 155,374,Football,2023-01-21,,Eint Frankfurt VS Schalke 04,True
 156,375,Football,2023-01-21,,Köln VS Werder Bremen,True
 157,376,Football,2023-01-22,,Dortmund VS Augsburg,True
-158,377,Football,2023-01-22,,M'Gladbach VS Leverkusen,True
+158,377,Football,2023-01-22,,M Gladbach VS Leverkusen,True
 160,378,Football,2023-01-24,,Schalke 04 VS RB Leipzig,True
 161,379,Football,2023-01-24,,Hoffenheim VS Stuttgart,True
 162,380,Football,2023-01-24,,Hertha BSC VS Wolfsburg,True
@@ -384,10 +384,10 @@
 164,382,Football,2023-01-25,,Mainz 05 VS Dortmund,True
 165,383,Football,2023-01-25,,Werder Bremen VS Union Berlin,True
 166,384,Football,2023-01-25,,Freiburg VS Eint Frankfurt,True
-167,385,Football,2023-01-25,,Augsburg VS M'Gladbach,True
+167,385,Football,2023-01-25,,Augsburg VS M Gladbach,True
 168,386,Football,2023-01-25,,Leverkusen VS Bochum,True
 170,387,Football,2023-01-27,,RB Leipzig VS Stuttgart,True
-171,388,Football,2023-01-28,,Hoffenheim VS M'Gladbach,True
+171,388,Football,2023-01-28,,Hoffenheim VS M Gladbach,True
 172,389,Football,2023-01-28,,Freiburg VS Augsburg,True
 173,390,Football,2023-01-28,,Mainz 05 VS Bochum,True
 174,391,Football,2023-01-28,,Werder Bremen VS Wolfsburg,True
@@ -401,7 +401,7 @@
 183,399,Football,2023-02-04,,Köln VS RB Leipzig,True
 184,400,Football,2023-02-04,,Dortmund VS Freiburg,True
 185,401,Football,2023-02-04,,Union Berlin VS Mainz 05,True
-186,402,Football,2023-02-04,,M'Gladbach VS Schalke 04,True
+186,402,Football,2023-02-04,,M Gladbach VS Schalke 04,True
 187,403,Football,2023-02-05,,Stuttgart VS Werder Bremen,True
 188,404,Football,2023-02-05,,Wolfsburg VS Bayern Munich,True
 190,405,Football,2023-02-10,,Schalke 04 VS Wolfsburg,True
@@ -411,18 +411,18 @@
 194,409,Football,2023-02-11,,Hoffenheim VS Leverkusen,True
 195,410,Football,2023-02-11,,Werder Bremen VS Dortmund,True
 196,411,Football,2023-02-11,,RB Leipzig VS Union Berlin,True
-197,412,Football,2023-02-12,,Hertha BSC VS M'Gladbach,True
+197,412,Football,2023-02-12,,Hertha BSC VS M Gladbach,True
 198,413,Football,2023-02-12,,Köln VS Eint Frankfurt,True
 200,414,Football,2023-02-17,,Augsburg VS Hoffenheim,True
 201,415,Football,2023-02-18,,Wolfsburg VS RB Leipzig,True
-202,416,Football,2023-02-18,,M'Gladbach VS Bayern Munich,True
+202,416,Football,2023-02-18,,M Gladbach VS Bayern Munich,True
 203,417,Football,2023-02-18,,Bochum VS Freiburg,True
 204,418,Football,2023-02-18,,Stuttgart VS Köln,True
 205,419,Football,2023-02-18,,Eint Frankfurt VS Werder Bremen,True
 206,420,Football,2023-02-19,,Union Berlin VS Schalke 04,True
 207,421,Football,2023-02-19,,Dortmund VS Hertha BSC,True
 208,422,Football,2023-02-19,,Leverkusen VS Mainz 05,True
-210,423,Football,2023-02-24,,Mainz 05 VS M'Gladbach,True
+210,423,Football,2023-02-24,,Mainz 05 VS M Gladbach,True
 211,424,Football,2023-02-25,,Hertha BSC VS Augsburg,True
 212,425,Football,2023-02-25,,Hoffenheim VS Dortmund,True
 213,426,Football,2023-02-25,,Werder Bremen VS Bochum,True
@@ -433,7 +433,7 @@
 218,431,Football,2023-02-26,,Bayern Munich VS Union Berlin,True
 220,432,Football,2023-03-03,,Dortmund VS RB Leipzig,True
 221,433,Football,2023-03-04,,Bochum VS Schalke 04,True
-222,434,Football,2023-03-04,,M'Gladbach VS Freiburg,True
+222,434,Football,2023-03-04,,M Gladbach VS Freiburg,True
 223,435,Football,2023-03-04,,Mainz 05 VS Hoffenheim,True
 224,436,Football,2023-03-04,,Augsburg VS Werder Bremen,True
 225,437,Football,2023-03-04,,Union Berlin VS Köln,True
@@ -444,12 +444,12 @@
 231,442,Football,2023-03-11,,Eint Frankfurt VS Stuttgart,True
 232,443,Football,2023-03-11,,Bayern Munich VS Augsburg,True
 233,444,Football,2023-03-11,,Hertha BSC VS Mainz 05,True
-234,445,Football,2023-03-11,,RB Leipzig VS M'Gladbach,True
+234,445,Football,2023-03-11,,RB Leipzig VS M Gladbach,True
 235,446,Football,2023-03-11,,Schalke 04 VS Dortmund,True
 236,447,Football,2023-03-12,,Freiburg VS Hoffenheim,True
 237,448,Football,2023-03-12,,Werder Bremen VS Leverkusen,True
 238,449,Football,2023-03-12,,Wolfsburg VS Union Berlin,True
-240,450,Football,2023-03-17,,M'Gladbach VS Werder Bremen,True
+240,450,Football,2023-03-17,,M Gladbach VS Werder Bremen,True
 241,451,Football,2023-03-18,,Augsburg VS Schalke 04,True
 242,452,Football,2023-03-18,,Stuttgart VS Wolfsburg,True
 243,453,Football,2023-03-18,,Hoffenheim VS Hertha BSC,True
@@ -465,11 +465,11 @@
 254,463,Football,2023-04-01,,Eint Frankfurt VS Bochum,True
 255,464,Football,2023-04-01,,RB Leipzig VS Mainz 05,True
 256,465,Football,2023-04-01,,Bayern Munich VS Dortmund,True
-257,466,Football,2023-04-01,,Köln VS M'Gladbach,True
+257,466,Football,2023-04-01,,Köln VS M Gladbach,True
 258,467,Football,2023-04-01,,Freiburg VS Hertha BSC,True
 260,468,Football,2023-04-08,,Dortmund VS Union Berlin,True
 261,469,Football,2023-04-08,,Freiburg VS Bayern Munich,True
-262,470,Football,2023-04-08,,M'Gladbach VS Wolfsburg,True
+262,470,Football,2023-04-08,,M Gladbach VS Wolfsburg,True
 263,471,Football,2023-04-08,,Hertha BSC VS RB Leipzig,True
 264,472,Football,2023-04-08,,Mainz 05 VS Werder Bremen,True
 265,473,Football,2023-04-08,,Hoffenheim VS Schalke 04,True
@@ -479,7 +479,7 @@
 0,477,Football,2022-08-05,0–2,Crystal Palace VS Arsenal,False
 1,478,Football,2022-08-06,2–2,Fulham VS Liverpool,False
 2,479,Football,2022-08-06,4–1,Tottenham VS Southampton,False
-3,480,Football,2022-08-06,2–0,Newcastle Utd VS Nott'ham Forest,False
+3,480,Football,2022-08-06,2–0,Newcastle Utd VS Nott ham Forest,False
 4,481,Football,2022-08-06,2–1,Leeds United VS Wolves,False
 5,482,Football,2022-08-06,2–0,Bournemouth VS Aston Villa,False
 6,483,Football,2022-08-06,0–1,Everton VS Chelsea,False
@@ -493,12 +493,12 @@
 15,491,Football,2022-08-13,4–2,Arsenal VS Leicester City,False
 16,492,Football,2022-08-13,0–0,Brighton VS Newcastle Utd,False
 17,493,Football,2022-08-13,4–0,Brentford VS Manchester Utd,False
-18,494,Football,2022-08-14,1–0,Nott'ham Forest VS West Ham,False
+18,494,Football,2022-08-14,1–0,Nott ham Forest VS West Ham,False
 19,495,Football,2022-08-14,2–2,Chelsea VS Tottenham,False
 20,496,Football,2022-08-15,1–1,Liverpool VS Crystal Palace,False
 22,497,Football,2022-08-20,1–0,Tottenham VS Wolves,False
 23,498,Football,2022-08-20,1–2,Leicester City VS Southampton,False
-24,499,Football,2022-08-20,1–1,Everton VS Nott'ham Forest,False
+24,499,Football,2022-08-20,1–1,Everton VS Nott ham Forest,False
 25,500,Football,2022-08-20,3–1,Crystal Palace VS Aston Villa,False
 26,501,Football,2022-08-20,3–2,Fulham VS Brentford,False
 27,502,Football,2022-08-20,0–3,Bournemouth VS Arsenal,False
@@ -515,19 +515,19 @@
 39,513,Football,2022-08-27,2–1,Arsenal VS Fulham,False
 40,514,Football,2022-08-28,1–1,Wolves VS Newcastle Utd,False
 41,515,Football,2022-08-28,0–1,Aston Villa VS West Ham,False
-42,516,Football,2022-08-28,0–2,Nott'ham Forest VS Tottenham,False
+42,516,Football,2022-08-28,0–2,Nott ham Forest VS Tottenham,False
 44,517,Football,2022-08-30,2–1,Fulham VS Brighton,False
 45,518,Football,2022-08-30,1–1,Crystal Palace VS Brentford,False
 46,519,Football,2022-08-30,2–1,Southampton VS Chelsea,False
 47,520,Football,2022-08-30,1–1,Leeds United VS Everton,False
 48,521,Football,2022-08-31,0–0,Bournemouth VS Wolves,False
-49,522,Football,2022-08-31,6–0,Manchester City VS Nott'ham Forest,False
+49,522,Football,2022-08-31,6–0,Manchester City VS Nott ham Forest,False
 50,523,Football,2022-08-31,2–1,Arsenal VS Aston Villa,False
 51,524,Football,2022-08-31,1–1,West Ham VS Tottenham,False
 52,525,Football,2022-08-31,2–1,Liverpool VS Newcastle Utd,False
 53,526,Football,2022-09-01,0–1,Leicester City VS Manchester Utd,False
 55,527,Football,2022-09-03,0–0,Everton VS Liverpool,False
-56,528,Football,2022-09-03,2–3,Nott'ham Forest VS Bournemouth,False
+56,528,Football,2022-09-03,2–3,Nott ham Forest VS Bournemouth,False
 57,529,Football,2022-09-03,1–0,Wolves VS Southampton,False
 58,530,Football,2022-09-03,0–0,Newcastle Utd VS Crystal Palace,False
 59,531,Football,2022-09-03,5–2,Brentford VS Leeds United,False
@@ -543,9 +543,9 @@
 70,541,Football,2022-09-11,,West Ham VS Newcastle Utd,False
 71,542,Football,2022-09-11,,Arsenal VS Everton,False
 72,543,Football,2022-09-11,,Crystal Palace VS Manchester Utd,False
-73,544,Football,2022-09-12,,Leeds United VS Nott'ham Forest,False
+73,544,Football,2022-09-12,,Leeds United VS Nott ham Forest,False
 75,545,Football,2022-09-16,1–0,Aston Villa VS Southampton,False
-76,546,Football,2022-09-16,2–3,Nott'ham Forest VS Fulham,False
+76,546,Football,2022-09-16,2–3,Nott ham Forest VS Fulham,False
 77,547,Football,2022-09-17,0–3,Wolves VS Manchester City,False
 78,548,Football,2022-09-17,1–1,Newcastle Utd VS Bournemouth,False
 79,549,Football,2022-09-17,,Brighton VS Crystal Palace,False
@@ -563,7 +563,7 @@
 92,561,Football,2022-10-01,2–0,West Ham VS Wolves,False
 93,562,Football,2022-10-02,6–3,Manchester City VS Manchester Utd,False
 94,563,Football,2022-10-02,0–0,Leeds United VS Aston Villa,False
-95,564,Football,2022-10-03,4–0,Leicester City VS Nott'ham Forest,False
+95,564,Football,2022-10-03,4–0,Leicester City VS Nott ham Forest,False
 97,565,Football,2022-10-08,2–1,Bournemouth VS Leicester City,False
 98,566,Football,2022-10-08,5–1,Newcastle Utd VS Brentford,False
 99,567,Football,2022-10-08,4–0,Manchester City VS Southampton,False
@@ -573,18 +573,18 @@
 103,571,Football,2022-10-09,2–1,Crystal Palace VS Leeds United,False
 104,572,Football,2022-10-09,3–2,Arsenal VS Liverpool,False
 105,573,Football,2022-10-09,1–2,Everton VS Manchester Utd,False
-106,574,Football,2022-10-10,1–1,Nott'ham Forest VS Aston Villa,False
+106,574,Football,2022-10-10,1–1,Nott ham Forest VS Aston Villa,False
 108,575,Football,2022-10-14,2–0,Brentford VS Brighton,False
 109,576,Football,2022-10-15,0–0,Leicester City VS Crystal Palace,False
 110,577,Football,2022-10-15,2–2,Fulham VS Bournemouth,False
-111,578,Football,2022-10-15,1–0,Wolves VS Nott'ham Forest,False
+111,578,Football,2022-10-15,1–0,Wolves VS Nott ham Forest,False
 112,579,Football,2022-10-15,2–0,Tottenham VS Everton,False
 113,580,Football,2022-10-16,1–1,Southampton VS West Ham,False
 114,581,Football,2022-10-16,0–2,Aston Villa VS Chelsea,False
 115,582,Football,2022-10-16,0–1,Leeds United VS Arsenal,False
 116,583,Football,2022-10-16,0–0,Manchester Utd VS Newcastle Utd,False
 117,584,Football,2022-10-16,1–0,Liverpool VS Manchester City,False
-119,585,Football,2022-10-18,0–0,Brighton VS Nott'ham Forest,False
+119,585,Football,2022-10-18,0–0,Brighton VS Nott ham Forest,False
 120,586,Football,2022-10-18,2–1,Crystal Palace VS Wolves,False
 121,587,Football,2022-10-19,0–1,Bournemouth VS Southampton,False
 122,588,Football,2022-10-19,0–0,Brentford VS Chelsea,False
@@ -593,7 +593,7 @@
 125,591,Football,2022-10-19,2–0,Manchester Utd VS Tottenham,False
 126,592,Football,2022-10-20,3–0,Fulham VS Aston Villa,False
 127,593,Football,2022-10-20,2–0,Leicester City VS Leeds United,False
-129,594,Football,2022-10-22,1–0,Nott'ham Forest VS Liverpool,False
+129,594,Football,2022-10-22,1–0,Nott ham Forest VS Liverpool,False
 130,595,Football,2022-10-22,3–0,Everton VS Crystal Palace,False
 131,596,Football,2022-10-22,3–1,Manchester City VS Brighton,False
 132,597,Football,2022-10-22,1–1,Chelsea VS Manchester Utd,False
@@ -611,9 +611,9 @@
 145,609,Football,2022-10-29,2–3,Bournemouth VS Tottenham,False
 146,610,Football,2022-10-29,0–0,Fulham VS Everton,False
 147,611,Football,2022-10-29,1–2,Liverpool VS Leeds United,False
-148,612,Football,2022-10-30,5–0,Arsenal VS Nott'ham Forest,False
+148,612,Football,2022-10-30,5–0,Arsenal VS Nott ham Forest,False
 149,613,Football,2022-10-30,1–0,Manchester Utd VS West Ham,False
-151,614,Football,2022-11-05,2–2,Nott'ham Forest VS Brentford,False
+151,614,Football,2022-11-05,2–2,Nott ham Forest VS Brentford,False
 152,615,Football,2022-11-05,4–3,Leeds United VS Bournemouth,False
 153,616,Football,2022-11-05,2–1,Manchester City VS Fulham,False
 154,617,Football,2022-11-05,2–3,Wolves VS Brighton,False
@@ -628,7 +628,7 @@
 164,626,Football,2022-11-12,3–1,Liverpool VS Southampton,False
 165,627,Football,2022-11-12,3–0,Bournemouth VS Everton,False
 166,628,Football,2022-11-12,0–2,West Ham VS Leicester City,False
-167,629,Football,2022-11-12,1–0,Nott'ham Forest VS Crystal Palace,False
+167,629,Football,2022-11-12,1–0,Nott ham Forest VS Crystal Palace,False
 168,630,Football,2022-11-12,1–0,Newcastle Utd VS Chelsea,False
 169,631,Football,2022-11-12,0–2,Wolves VS Arsenal,False
 170,632,Football,2022-11-13,1–2,Brighton VS Aston Villa,False
@@ -641,7 +641,7 @@
 178,639,Football,2022-12-26,,Aston Villa VS Liverpool,True
 179,640,Football,2022-12-26,,Arsenal VS West Ham,True
 180,641,Football,2022-12-27,,Chelsea VS Bournemouth,True
-181,642,Football,2022-12-27,,Manchester Utd VS Nott'ham Forest,True
+181,642,Football,2022-12-27,,Manchester Utd VS Nott ham Forest,True
 182,643,Football,2022-12-28,,Leeds United VS Manchester City,True
 184,644,Football,2022-12-30,,West Ham VS Brentford,True
 185,645,Football,2022-12-30,,Liverpool VS Leicester City,True
@@ -652,13 +652,13 @@
 190,650,Football,2022-12-31,,Bournemouth VS Crystal Palace,True
 191,651,Football,2022-12-31,,Brighton VS Arsenal,True
 192,652,Football,2023-01-01,,Tottenham VS Aston Villa,True
-193,653,Football,2023-01-01,,Nott'ham Forest VS Chelsea,True
+193,653,Football,2023-01-01,,Nott ham Forest VS Chelsea,True
 195,654,Football,2023-01-02,,Brentford VS Liverpool,True
 196,655,Football,2023-01-03,,Leicester City VS Fulham,True
 197,656,Football,2023-01-03,,Everton VS Brighton,True
 198,657,Football,2023-01-03,,Arsenal VS Newcastle Utd,True
 199,658,Football,2023-01-03,,Manchester Utd VS Bournemouth,True
-200,659,Football,2023-01-04,,Southampton VS Nott'ham Forest,True
+200,659,Football,2023-01-04,,Southampton VS Nott ham Forest,True
 201,660,Football,2023-01-04,,Leeds United VS West Ham,True
 202,661,Football,2023-01-04,,Aston Villa VS Wolves,True
 203,662,Football,2023-01-04,,Crystal Palace VS Tottenham,True
@@ -668,7 +668,7 @@
 209,666,Football,2023-01-14,,Manchester Utd VS Manchester City,True
 210,667,Football,2023-01-14,,Everton VS Southampton,True
 211,668,Football,2023-01-14,,Wolves VS West Ham,True
-212,669,Football,2023-01-14,,Nott'ham Forest VS Leicester City,True
+212,669,Football,2023-01-14,,Nott ham Forest VS Leicester City,True
 213,670,Football,2023-01-14,,Brighton VS Liverpool,True
 214,671,Football,2023-01-14,,Brentford VS Bournemouth,True
 215,672,Football,2023-01-15,,Chelsea VS Crystal Palace,True
@@ -676,7 +676,7 @@
 217,674,Football,2023-01-15,,Tottenham VS Arsenal,True
 219,675,Football,2023-01-19,,Manchester City VS Tottenham,True
 221,676,Football,2023-01-21,,Liverpool VS Chelsea,True
-222,677,Football,2023-01-21,,Bournemouth VS Nott'ham Forest,True
+222,677,Football,2023-01-21,,Bournemouth VS Nott ham Forest,True
 223,678,Football,2023-01-21,,Southampton VS Aston Villa,True
 224,679,Football,2023-01-21,,Leicester City VS Brighton,True
 225,680,Football,2023-01-21,,West Ham VS Everton,True
@@ -693,14 +693,14 @@
 237,691,Football,2023-02-04,,Brighton VS Bournemouth,True
 238,692,Football,2023-02-04,,Brentford VS Southampton,True
 239,693,Football,2023-02-04,,Newcastle Utd VS West Ham,True
-240,694,Football,2023-02-05,,Nott'ham Forest VS Leeds United,True
+240,694,Football,2023-02-05,,Nott ham Forest VS Leeds United,True
 241,695,Football,2023-02-05,,Tottenham VS Manchester City,True
 243,696,Football,2023-02-11,,West Ham VS Chelsea,True
 244,697,Football,2023-02-11,,Leicester City VS Tottenham,True
 245,698,Football,2023-02-11,,Crystal Palace VS Brighton,True
 246,699,Football,2023-02-11,,Arsenal VS Brentford,True
 247,700,Football,2023-02-11,,Southampton VS Wolves,True
-248,701,Football,2023-02-11,,Fulham VS Nott'ham Forest,True
+248,701,Football,2023-02-11,,Fulham VS Nott ham Forest,True
 249,702,Football,2023-02-11,,Bournemouth VS Newcastle Utd,True
 250,703,Football,2023-02-12,,Leeds United VS Manchester Utd,True
 251,704,Football,2023-02-12,,Manchester City VS Aston Villa,True
@@ -708,7 +708,7 @@
 254,706,Football,2023-02-15,,Arsenal VS Manchester City,True
 256,707,Football,2023-02-18,,Aston Villa VS Arsenal,True
 257,708,Football,2023-02-18,,Brighton VS Fulham,True
-258,709,Football,2023-02-18,,Nott'ham Forest VS Manchester City,True
+258,709,Football,2023-02-18,,Nott ham Forest VS Manchester City,True
 259,710,Football,2023-02-18,,Chelsea VS Southampton,True
 260,711,Football,2023-02-18,,Everton VS Leeds United,True
 261,712,Football,2023-02-18,,Wolves VS Bournemouth,True
@@ -720,7 +720,7 @@
 268,718,Football,2023-02-25,,Newcastle Utd VS Brighton,True
 269,719,Football,2023-02-25,,Leicester City VS Arsenal,True
 270,720,Football,2023-02-25,,Everton VS Aston Villa,True
-271,721,Football,2023-02-25,,West Ham VS Nott'ham Forest,True
+271,721,Football,2023-02-25,,West Ham VS Nott ham Forest,True
 272,722,Football,2023-02-25,,Leeds United VS Southampton,True
 273,723,Football,2023-02-25,,Bournemouth VS Manchester City,True
 274,724,Football,2023-02-25,,Crystal Palace VS Liverpool,True
@@ -735,13 +735,13 @@
 284,733,Football,2023-03-04,,Manchester City VS Newcastle Utd,True
 285,734,Football,2023-03-04,,Brighton VS West Ham,True
 286,735,Football,2023-03-04,,Wolves VS Tottenham,True
-287,736,Football,2023-03-04,,Nott'ham Forest VS Everton,True
+287,736,Football,2023-03-04,,Nott ham Forest VS Everton,True
 289,737,Football,2023-03-11,,Leeds United VS Brighton,True
 290,738,Football,2023-03-11,,Everton VS Brentford,True
 291,739,Football,2023-03-11,,Manchester Utd VS Southampton,True
 292,740,Football,2023-03-11,,Leicester City VS Chelsea,True
 293,741,Football,2023-03-11,,Newcastle Utd VS Wolves,True
-294,742,Football,2023-03-11,,Tottenham VS Nott'ham Forest,True
+294,742,Football,2023-03-11,,Tottenham VS Nott ham Forest,True
 295,743,Football,2023-03-11,,Fulham VS Arsenal,True
 296,744,Football,2023-03-11,,Crystal Palace VS Manchester City,True
 297,745,Football,2023-03-11,,Bournemouth VS Liverpool,True
@@ -749,7 +749,7 @@
 300,747,Football,2023-03-18,,Brighton VS Manchester Utd,True
 301,748,Football,2023-03-18,,Liverpool VS Fulham,True
 302,749,Football,2023-03-18,,Wolves VS Leeds United,True
-303,750,Football,2023-03-18,,Nott'ham Forest VS Newcastle Utd,True
+303,750,Football,2023-03-18,,Nott ham Forest VS Newcastle Utd,True
 304,751,Football,2023-03-18,,Brentford VS Leicester City,True
 305,752,Football,2023-03-18,,Aston Villa VS Bournemouth,True
 306,753,Football,2023-03-18,,Chelsea VS Everton,True
@@ -762,12 +762,12 @@
 314,760,Football,2023-04-01,,West Ham VS Southampton,True
 315,761,Football,2023-04-01,,Chelsea VS Aston Villa,True
 316,762,Football,2023-04-01,,Everton VS Tottenham,True
-317,763,Football,2023-04-01,,Nott'ham Forest VS Wolves,True
+317,763,Football,2023-04-01,,Nott ham Forest VS Wolves,True
 318,764,Football,2023-04-01,,Brighton VS Brentford,True
 319,765,Football,2023-04-01,,Crystal Palace VS Leicester City,True
 320,766,Football,2023-04-01,,Bournemouth VS Fulham,True
 322,767,Football,2023-04-08,,Fulham VS West Ham,True
-323,768,Football,2023-04-08,,Aston Villa VS Nott'ham Forest,True
+323,768,Football,2023-04-08,,Aston Villa VS Nott ham Forest,True
 324,769,Football,2023-04-08,,Leicester City VS Bournemouth,True
 325,770,Football,2023-04-08,,Leeds United VS Crystal Palace,True
 326,771,Football,2023-04-08,,Brentford VS Newcastle Utd,True
@@ -1048,7 +1048,7 @@
 295,1046,Football,2023-04-02,,Athletic Club VS Getafe,True
 0,1047,Football,2022-08-05,2–1,Lyon VS Ajaccio,False
 1,1048,Football,2022-08-06,1–2,Strasbourg VS Monaco,False
-2,1049,Football,2022-08-06,0–5,Clermont Foot VS Paris S-G,False
+2,1049,Football,2022-08-06,0–5,Clermont Foot VS Paris S G,False
 3,1050,Football,2022-08-07,1–1,Toulouse VS Nice,False
 4,1051,Football,2022-08-07,3–2,Lens VS Brest,False
 5,1052,Football,2022-08-07,0–0,Angers VS Nantes,False
@@ -1058,7 +1058,7 @@
 9,1056,Football,2022-08-07,4–1,Marseille VS Reims,False
 11,1057,Football,2022-08-12,1–1,Nantes VS Lille,False
 12,1058,Football,2022-08-13,1–1,Monaco VS Rennes,False
-13,1059,Football,2022-08-13,5–2,Paris S-G VS Montpellier,False
+13,1059,Football,2022-08-13,5–2,Paris S G VS Montpellier,False
 14,1060,Football,2022-08-14,0–0,Ajaccio VS Lens,False
 15,1061,Football,2022-08-14,2–4,Reims VS Clermont Foot,False
 16,1062,Football,2022-08-14,2–2,Auxerre VS Angers,False
@@ -1074,7 +1074,7 @@
 27,1072,Football,2022-08-21,1–3,Angers VS Brest,False
 28,1073,Football,2022-08-21,2–2,Toulouse VS Lorient,False
 29,1074,Football,2022-08-21,2–1,Rennes VS Ajaccio,False
-30,1075,Football,2022-08-21,1–7,Lille VS Paris S-G,False
+30,1075,Football,2022-08-21,1–7,Lille VS Paris S G,False
 32,1076,Football,2022-08-26,1–3,Ajaccio VS Lille,False
 33,1077,Football,2022-08-27,1–0,Auxerre VS Strasbourg,False
 34,1078,Football,2022-08-27,2–1,Lens VS Rennes,False
@@ -1084,20 +1084,20 @@
 38,1082,Football,2022-08-28,0–3,Nice VS Marseille,False
 39,1083,Football,2022-08-28,3–1,Troyes VS Angers,False
 40,1084,Football,2022-08-28,1–1,Reims VS Lyon,False
-41,1085,Football,2022-08-28,1–1,Paris S-G VS Monaco,False
+41,1085,Football,2022-08-28,1–1,Paris S G VS Monaco,False
 43,1086,Football,2022-08-31,1–1,Strasbourg VS Nantes,False
 44,1087,Football,2022-08-31,2–4,Monaco VS Troyes,False
 45,1088,Football,2022-08-31,2–1,Lyon VS Auxerre,False
 46,1089,Football,2022-08-31,2–4,Angers VS Reims,False
 47,1090,Football,2022-08-31,2–0,Montpellier VS Ajaccio,False
-48,1091,Football,2022-08-31,0–3,Toulouse VS Paris S-G,False
+48,1091,Football,2022-08-31,0–3,Toulouse VS Paris S G,False
 49,1092,Football,2022-08-31,1–2,Lille VS Nice,False
 50,1093,Football,2022-08-31,3–1,Rennes VS Brest,False
 51,1094,Football,2022-08-31,1–0,Marseille VS Clermont Foot,False
 52,1095,Football,2022-08-31,5–2,Lens VS Lorient,False
 54,1096,Football,2022-09-03,0–2,Auxerre VS Marseille,False
 55,1097,Football,2022-09-03,5–0,Lyon VS Angers,False
-56,1098,Football,2022-09-03,0–3,Nantes VS Paris S-G,False
+56,1098,Football,2022-09-03,0–3,Nantes VS Paris S G,False
 57,1099,Football,2022-09-04,1–3,Montpellier VS Lille,False
 58,1100,Football,2022-09-04,2–0,Clermont Foot VS Toulouse,False
 59,1101,Football,2022-09-04,1–1,Reims VS Lens,False
@@ -1107,7 +1107,7 @@
 63,1105,Football,2022-09-04,0–1,Nice VS Monaco,False
 65,1106,Football,2022-09-07,3–1,Lorient VS Lyon,False
 67,1107,Football,2022-09-09,1–0,Lens VS Troyes,False
-68,1108,Football,2022-09-10,1–0,Paris S-G VS Brest,False
+68,1108,Football,2022-09-10,1–0,Paris S G VS Brest,False
 69,1109,Football,2022-09-10,2–1,Marseille VS Lille,False
 70,1110,Football,2022-09-11,0–0,Strasbourg VS Clermont Foot,False
 71,1111,Football,2022-09-11,2–1,Angers VS Montpellier,False
@@ -1125,10 +1125,10 @@
 84,1123,Football,2022-09-18,0–1,Nice VS Angers,False
 85,1124,Football,2022-09-18,1–1,Marseille VS Rennes,False
 86,1125,Football,2022-09-18,0–0,Nantes VS Lens,False
-87,1126,Football,2022-09-18,0–1,Lyon VS Paris S-G,False
+87,1126,Football,2022-09-18,0–1,Lyon VS Paris S G,False
 89,1127,Football,2022-09-30,0–3,Angers VS Marseille,False
 90,1128,Football,2022-10-01,1–3,Strasbourg VS Rennes,False
-91,1129,Football,2022-10-01,2–1,Paris S-G VS Nice,False
+91,1129,Football,2022-10-01,2–1,Paris S G VS Nice,False
 92,1130,Football,2022-10-02,2–1,Lorient VS Lille,False
 93,1131,Football,2022-10-02,1–1,Auxerre VS Brest,False
 94,1132,Football,2022-10-02,2–2,Troyes VS Reims,False
@@ -1138,7 +1138,7 @@
 98,1136,Football,2022-10-02,1–0,Lens VS Lyon,False
 100,1137,Football,2022-10-07,1–1,Lyon VS Toulouse,False
 101,1138,Football,2022-10-08,1–2,Marseille VS Ajaccio,False
-102,1139,Football,2022-10-08,0–0,Reims VS Paris S-G,False
+102,1139,Football,2022-10-08,0–0,Reims VS Paris S G,False
 103,1140,Football,2022-10-09,0–2,Montpellier VS Monaco,False
 104,1141,Football,2022-10-09,1–2,Brest VS Lorient,False
 105,1142,Football,2022-10-09,2–3,Angers VS Strasbourg,False
@@ -1155,8 +1155,8 @@
 117,1153,Football,2022-10-16,1–1,Auxerre VS Nice,False
 118,1154,Football,2022-10-16,4–1,Nantes VS Brest,False
 119,1155,Football,2022-10-16,1–1,Monaco VS Clermont Foot,False
-120,1156,Football,2022-10-16,1–0,Paris S-G VS Marseille,False
-122,1157,Football,2022-10-21,0–3,Ajaccio VS Paris S-G,False
+120,1156,Football,2022-10-16,1–0,Paris S G VS Marseille,False
+122,1157,Football,2022-10-21,0–3,Ajaccio VS Paris S G,False
 123,1158,Football,2022-10-22,1–2,Montpellier VS Lyon,False
 124,1159,Football,2022-10-22,0–1,Marseille VS Lens,False
 125,1160,Football,2022-10-23,1–2,Angers VS Rennes,False
@@ -1167,7 +1167,7 @@
 130,1165,Football,2022-10-23,1–1,Nice VS Nantes,False
 131,1166,Football,2022-10-23,4–3,Lille VS Monaco,False
 133,1167,Football,2022-10-28,3–0,Lens VS Toulouse,False
-134,1168,Football,2022-10-29,4–3,Paris S-G VS Troyes,False
+134,1168,Football,2022-10-29,4–3,Paris S G VS Troyes,False
 135,1169,Football,2022-10-29,2–2,Strasbourg VS Marseille,False
 136,1170,Football,2022-10-30,1–0,Auxerre VS Ajaccio,False
 137,1171,Football,2022-10-30,3–0,Rennes VS Montpellier,False
@@ -1179,7 +1179,7 @@
 144,1177,Football,2022-11-04,1–1,Troyes VS Auxerre,False
 145,1178,Football,2022-11-05,4–2,Ajaccio VS Strasbourg,False
 146,1179,Football,2022-11-05,1–2,Angers VS Lens,False
-147,1180,Football,2022-11-06,1–2,Lorient VS Paris S-G,False
+147,1180,Football,2022-11-06,1–2,Lorient VS Paris S G,False
 148,1181,Football,2022-11-06,0–2,Toulouse VS Monaco,False
 149,1182,Football,2022-11-06,1–0,Reims VS Nantes,False
 150,1183,Football,2022-11-06,1–0,Nice VS Brest,False
@@ -1189,7 +1189,7 @@
 155,1187,Football,2022-11-11,1–1,Lyon VS Nice,False
 156,1188,Football,2022-11-12,2–1,Lens VS Clermont Foot,False
 157,1189,Football,2022-11-12,2–1,Rennes VS Toulouse,False
-158,1190,Football,2022-11-13,5–0,Paris S-G VS Auxerre,False
+158,1190,Football,2022-11-13,5–0,Paris S G VS Auxerre,False
 159,1191,Football,2022-11-13,1–0,Lille VS Angers,False
 160,1192,Football,2022-11-13,1–1,Montpellier VS Reims,False
 161,1193,Football,2022-11-13,2–1,Brest VS Troyes,False
@@ -1201,7 +1201,7 @@
 168,1199,Football,2022-12-28,,Auxerre VS Monaco,True
 169,1200,Football,2022-12-28,,Clermont Foot VS Lille,True
 170,1201,Football,2022-12-28,,Brest VS Lyon,True
-171,1202,Football,2022-12-28,,Paris S-G VS Strasbourg,True
+171,1202,Football,2022-12-28,,Paris S G VS Strasbourg,True
 172,1203,Football,2022-12-29,,Lorient VS Montpellier,True
 173,1204,Football,2022-12-29,,Reims VS Rennes,True
 174,1205,Football,2022-12-29,,Marseille VS Toulouse,True
@@ -1211,7 +1211,7 @@
 179,1209,Football,2023-01-01,,Angers VS Lorient,True
 180,1210,Football,2023-01-01,,Nantes VS Auxerre,True
 181,1211,Football,2023-01-01,,Lyon VS Clermont Foot,True
-182,1212,Football,2023-01-01,,Lens VS Paris S-G,True
+182,1212,Football,2023-01-01,,Lens VS Paris S G,True
 183,1213,Football,2023-01-02,,Strasbourg VS Troyes,True
 184,1214,Football,2023-01-02,,Lille VS Reims,True
 185,1215,Football,2023-01-02,,Montpellier VS Marseille,True
@@ -1221,7 +1221,7 @@
 190,1219,Football,2023-01-11,,Clermont Foot VS Rennes,True
 191,1220,Football,2023-01-11,,Ajaccio VS Reims,True
 192,1221,Football,2023-01-11,,Auxerre VS Toulouse,True
-193,1222,Football,2023-01-11,,Paris S-G VS Angers,True
+193,1222,Football,2023-01-11,,Paris S G VS Angers,True
 194,1223,Football,2023-01-11,,Brest VS Lille,True
 195,1224,Football,2023-01-11,,Lorient VS Monaco,True
 196,1225,Football,2023-01-11,,Nantes VS Lyon,True
@@ -1232,7 +1232,7 @@
 202,1230,Football,2023-01-15,,Lyon VS Strasbourg,True
 203,1231,Football,2023-01-15,,Monaco VS Ajaccio,True
 204,1232,Football,2023-01-15,,Lens VS Auxerre,True
-205,1233,Football,2023-01-15,,Rennes VS Paris S-G,True
+205,1233,Football,2023-01-15,,Rennes VS Paris S G,True
 206,1234,Football,2023-01-15,,Reims VS Nice,True
 207,1235,Football,2023-01-15,,Angers VS Clermont Foot,True
 208,1236,Football,2023-01-15,,Marseille VS Lorient,True
@@ -1242,7 +1242,7 @@
 213,1240,Football,2023-01-29,,Brest VS Angers,True
 214,1241,Football,2023-01-29,,Auxerre VS Montpellier,True
 215,1242,Football,2023-01-29,,Strasbourg VS Toulouse,True
-216,1243,Football,2023-01-29,,Paris S-G VS Reims,True
+216,1243,Football,2023-01-29,,Paris S G VS Reims,True
 217,1244,Football,2023-01-29,,Lorient VS Rennes,True
 218,1245,Football,2023-01-29,,Nice VS Lille,True
 219,1246,Football,2023-01-29,,Troyes VS Lens,True
@@ -1252,13 +1252,13 @@
 224,1250,Football,2023-02-01,,Toulouse VS Troyes,True
 225,1251,Football,2023-02-01,,Angers VS Ajaccio,True
 226,1252,Football,2023-02-01,,Monaco VS Auxerre,True
-227,1253,Football,2023-02-01,,Montpellier VS Paris S-G,True
+227,1253,Football,2023-02-01,,Montpellier VS Paris S G,True
 228,1254,Football,2023-02-01,,Lens VS Nice,True
 229,1255,Football,2023-02-01,,Rennes VS Strasbourg,True
 230,1256,Football,2023-02-01,,Reims VS Lorient,True
 232,1257,Football,2023-02-05,,Strasbourg VS Montpellier,True
 233,1258,Football,2023-02-05,,Ajaccio VS Nantes,True
-234,1259,Football,2023-02-05,,Paris S-G VS Toulouse,True
+234,1259,Football,2023-02-05,,Paris S G VS Toulouse,True
 235,1260,Football,2023-02-05,,Auxerre VS Reims,True
 236,1261,Football,2023-02-05,,Clermont Foot VS Monaco,True
 237,1262,Football,2023-02-05,,Lorient VS Angers,True
@@ -1271,12 +1271,12 @@
 245,1269,Football,2023-02-12,,Lille VS Strasbourg,True
 246,1270,Football,2023-02-12,,Toulouse VS Rennes,True
 247,1271,Football,2023-02-12,,Clermont Foot VS Marseille,True
-248,1272,Football,2023-02-12,,Monaco VS Paris S-G,True
+248,1272,Football,2023-02-12,,Monaco VS Paris S G,True
 249,1273,Football,2023-02-12,,Montpellier VS Brest,True
 250,1274,Football,2023-02-12,,Reims VS Troyes,True
 251,1275,Football,2023-02-12,,Lyon VS Lens,True
 252,1276,Football,2023-02-12,,Nantes VS Lorient,True
-254,1277,Football,2023-02-19,,Paris S-G VS Lille,True
+254,1277,Football,2023-02-19,,Paris S G VS Lille,True
 255,1278,Football,2023-02-19,,Lens VS Nantes,True
 256,1279,Football,2023-02-19,,Troyes VS Montpellier,True
 257,1280,Football,2023-02-19,,Strasbourg VS Angers,True
@@ -1295,10 +1295,10 @@
 271,1293,Football,2023-02-26,,Angers VS Lyon,True
 272,1294,Football,2023-02-26,,Lorient VS Auxerre,True
 273,1295,Football,2023-02-26,,Nantes VS Rennes,True
-274,1296,Football,2023-02-26,,Marseille VS Paris S-G,True
+274,1296,Football,2023-02-26,,Marseille VS Paris S G,True
 276,1297,Football,2023-03-05,,Montpellier VS Angers,True
 277,1298,Football,2023-03-05,,Lyon VS Lorient,True
-278,1299,Football,2023-03-05,,Paris S-G VS Nantes,True
+278,1299,Football,2023-03-05,,Paris S G VS Nantes,True
 279,1300,Football,2023-03-05,,Toulouse VS Clermont Foot,True
 280,1301,Football,2023-03-05,,Lens VS Lille,True
 281,1302,Football,2023-03-05,,Rennes VS Marseille,True
@@ -1314,7 +1314,7 @@
 292,1312,Football,2023-03-12,,Monaco VS Reims,True
 293,1313,Football,2023-03-12,,Nantes VS Nice,True
 294,1314,Football,2023-03-12,,Angers VS Toulouse,True
-295,1315,Football,2023-03-12,,Brest VS Paris S-G,True
+295,1315,Football,2023-03-12,,Brest VS Paris S G,True
 296,1316,Football,2023-03-12,,Auxerre VS Rennes,True
 298,1317,Football,2023-03-19,,Reims VS Marseille,True
 299,1318,Football,2023-03-19,,Toulouse VS Lille,True
@@ -1322,14 +1322,14 @@
 301,1320,Football,2023-03-19,,Strasbourg VS Auxerre,True
 302,1321,Football,2023-03-19,,Lens VS Angers,True
 303,1322,Football,2023-03-19,,Ajaccio VS Monaco,True
-304,1323,Football,2023-03-19,,Paris S-G VS Rennes,True
+304,1323,Football,2023-03-19,,Paris S G VS Rennes,True
 305,1324,Football,2023-03-19,,Troyes VS Brest,True
 306,1325,Football,2023-03-19,,Lyon VS Nantes,True
 307,1326,Football,2023-03-19,,Montpellier VS Clermont Foot,True
 309,1327,Football,2023-04-02,,Marseille VS Montpellier,True
 310,1328,Football,2023-04-02,,Rennes VS Lens,True
 311,1329,Football,2023-04-02,,Brest VS Toulouse,True
-312,1330,Football,2023-04-02,,Paris S-G VS Lyon,True
+312,1330,Football,2023-04-02,,Paris S G VS Lyon,True
 313,1331,Football,2023-04-02,,Angers VS Nice,True
 314,1332,Football,2023-04-02,,Clermont Foot VS Ajaccio,True
 315,1333,Football,2023-04-02,,Nantes VS Reims,True
@@ -1626,3 +1626,286 @@
 315,1624,Football,2023-04-08,,Sampdoria VS Cremonese,True
 316,1625,Football,2023-04-08,,Salernitana VS Inter,True
 317,1626,Football,2023-04-08,,Lecce VS Napoli,True
+0,1627,Football,2022-11-20,0–2,Qatar VS Ecuador,False
+1,1628,Football,2022-11-21,6–2,England VS IR Iran,False
+2,1629,Football,2022-11-21,0–2,Senegal VS Netherlands,False
+3,1630,Football,2022-11-21,1–1,United States VS Wales,False
+4,1631,Football,2022-11-22,1–2,Argentina VS Saudi Arabia,False
+5,1632,Football,2022-11-22,0–0,Denmark VS Tunisia,False
+6,1633,Football,2022-11-22,0–0,Mexico VS Poland,False
+7,1634,Football,2022-11-22,4–1,France VS Australia,False
+8,1635,Football,2022-11-23,0–0,Morocco VS Croatia,False
+9,1636,Football,2022-11-23,1–2,Germany VS Japan,False
+10,1637,Football,2022-11-23,7–0,Spain VS Costa Rica,False
+11,1638,Football,2022-11-23,1–0,Belgium VS Canada,False
+12,1639,Football,2022-11-24,1–0,Switzerland VS Cameroon,False
+13,1640,Football,2022-11-24,0–0,Uruguay VS Korea Republic,False
+14,1641,Football,2022-11-24,3–2,Portugal VS Ghana,False
+15,1642,Football,2022-11-24,2–0,Brazil VS Serbia,False
+17,1643,Football,2022-11-25,0–2,Wales VS IR Iran,False
+18,1644,Football,2022-11-25,1–3,Qatar VS Senegal,False
+19,1645,Football,2022-11-25,1–1,Netherlands VS Ecuador,False
+20,1646,Football,2022-11-25,0–0,England VS United States,False
+21,1647,Football,2022-11-26,0–1,Tunisia VS Australia,False
+22,1648,Football,2022-11-26,2–0,Poland VS Saudi Arabia,False
+23,1649,Football,2022-11-26,2–1,France VS Denmark,False
+24,1650,Football,2022-11-26,2–0,Argentina VS Mexico,False
+25,1651,Football,2022-11-27,0–1,Japan VS Costa Rica,False
+26,1652,Football,2022-11-27,0–2,Belgium VS Morocco,False
+27,1653,Football,2022-11-27,4–1,Croatia VS Canada,False
+28,1654,Football,2022-11-27,1–1,Spain VS Germany,False
+29,1655,Football,2022-11-28,3–3,Cameroon VS Serbia,False
+30,1656,Football,2022-11-28,2–3,Korea Republic VS Ghana,False
+31,1657,Football,2022-11-28,1–0,Brazil VS Switzerland,False
+32,1658,Football,2022-11-28,2–0,Portugal VS Uruguay,False
+34,1659,Football,2022-11-29,1–2,Ecuador VS Senegal,False
+35,1660,Football,2022-11-29,2–0,Netherlands VS Qatar,False
+36,1661,Football,2022-11-29,0–3,Wales VS England,False
+37,1662,Football,2022-11-29,0–1,IR Iran VS United States,False
+38,1663,Football,2022-11-30,1–0,Australia VS Denmark,False
+39,1664,Football,2022-11-30,1–0,Tunisia VS France,False
+40,1665,Football,2022-11-30,0–2,Poland VS Argentina,False
+41,1666,Football,2022-11-30,1–2,Saudi Arabia VS Mexico,False
+42,1667,Football,2022-12-01,0–0,Croatia VS Belgium,False
+43,1668,Football,2022-12-01,1–2,Canada VS Morocco,False
+44,1669,Football,2022-12-01,2–1,Japan VS Spain,False
+45,1670,Football,2022-12-01,2–4,Costa Rica VS Germany,False
+46,1671,Football,2022-12-02,2–1,Korea Republic VS Portugal,False
+47,1672,Football,2022-12-02,0–2,Ghana VS Uruguay,False
+48,1673,Football,2022-12-02,2–3,Serbia VS Switzerland,False
+49,1674,Football,2022-12-02,1–0,Cameroon VS Brazil,False
+51,1675,Football,2022-12-03,3–1,Netherlands VS United States,False
+52,1676,Football,2022-12-03,2–1,Argentina VS Australia,False
+53,1677,Football,2022-12-04,3–1,France VS Poland,False
+54,1678,Football,2022-12-04,3–0,England VS Senegal,False
+55,1679,Football,2022-12-05,(1) 1–1 (3),Japan VS Croatia,False
+56,1680,Football,2022-12-05,4–1,Brazil VS Korea Republic,False
+57,1681,Football,2022-12-06,(3) 0–0 (0),Morocco VS Spain,False
+58,1682,Football,2022-12-06,6–1,Portugal VS Switzerland,False
+59,1683,Football,2022-12-09,,Croatia VS Brazil,True
+60,1684,Football,2022-12-09,,Netherlands VS Argentina,True
+61,1685,Football,2022-12-10,,Morocco VS Portugal,True
+62,1686,Football,2022-12-10,,England VS France,True
+0,1687,Football,2022-09-06,1–0,Dinamo Zagreb VS Chelsea,False
+1,1688,Football,2022-09-06,3–0,Dortmund VS FC Copenhagen,False
+2,1689,Football,2022-09-06,0–3,Celtic VS Real Madrid,False
+3,1690,Football,2022-09-06,2–0,Benfica VS Maccabi Haifa,False
+4,1691,Football,2022-09-06,1–1,RB Salzburg VS Milan,False
+5,1692,Football,2022-09-06,0–4,Sevilla VS Manchester City,False
+6,1693,Football,2022-09-06,1–4,RB Leipzig VS Shakhtar,False
+7,1694,Football,2022-09-06,2–1,Paris S G VS Juventus,False
+8,1695,Football,2022-09-07,4–0,Ajax VS Rangers,False
+9,1696,Football,2022-09-07,0–3,Eint Frankfurt VS Sporting CP,False
+10,1697,Football,2022-09-07,2–0,Tottenham VS Marseille,False
+11,1698,Football,2022-09-07,4–1,Napoli VS Liverpool,False
+12,1699,Football,2022-09-07,2–1,Atlético Madrid VS Porto,False
+13,1700,Football,2022-09-07,5–1,Barcelona VS Viktoria Plzeň,False
+14,1701,Football,2022-09-07,0–2,Inter VS Bayern Munich,False
+15,1702,Football,2022-09-07,1–0,Club Brugge VS Leverkusen,False
+17,1703,Football,2022-09-13,2–0,Sporting CP VS Tottenham,False
+18,1704,Football,2022-09-13,0–2,Viktoria Plzeň VS Inter,False
+19,1705,Football,2022-09-13,2–1,Liverpool VS Ajax,False
+20,1706,Football,2022-09-13,0–4,Porto VS Club Brugge,False
+21,1707,Football,2022-09-13,2–0,Leverkusen VS Atlético Madrid,False
+22,1708,Football,2022-09-13,0–1,Marseille VS Eint Frankfurt,False
+23,1709,Football,2022-09-13,2–0,Bayern Munich VS Barcelona,False
+24,1710,Football,2022-09-14,3–1,Milan VS Dinamo Zagreb,False
+25,1711,Football,2022-09-14,1–1,Shakhtar VS Celtic,False
+26,1712,Football,2022-09-14,0–3,Rangers VS Napoli,False
+27,1713,Football,2022-09-14,1–1,Chelsea VS RB Salzburg,False
+28,1714,Football,2022-09-14,2–1,Manchester City VS Dortmund,False
+29,1715,Football,2022-09-14,0–0,FC Copenhagen VS Sevilla,False
+30,1716,Football,2022-09-14,1–2,Juventus VS Benfica,False
+31,1717,Football,2022-09-14,2–0,Real Madrid VS RB Leipzig,False
+32,1718,Football,2022-09-14,1–3,Maccabi Haifa VS Paris S G,False
+34,1719,Football,2022-10-04,5–0,Bayern Munich VS Viktoria Plzeň,False
+35,1720,Football,2022-10-04,4–1,Marseille VS Sporting CP,False
+36,1721,Football,2022-10-04,2–0,Liverpool VS Rangers,False
+37,1722,Football,2022-10-04,2–0,Porto VS Leverkusen,False
+38,1723,Football,2022-10-04,0–0,Eint Frankfurt VS Tottenham,False
+39,1724,Football,2022-10-04,1–0,Inter VS Barcelona,False
+40,1725,Football,2022-10-04,1–6,Ajax VS Napoli,False
+41,1726,Football,2022-10-04,2–0,Club Brugge VS Atlético Madrid,False
+42,1727,Football,2022-10-05,3–1,RB Leipzig VS Celtic,False
+43,1728,Football,2022-10-05,1–0,RB Salzburg VS Dinamo Zagreb,False
+44,1729,Football,2022-10-05,3–0,Chelsea VS Milan,False
+45,1730,Football,2022-10-05,1–1,Benfica VS Paris S G,False
+46,1731,Football,2022-10-05,5–0,Manchester City VS FC Copenhagen,False
+47,1732,Football,2022-10-05,2–1,Real Madrid VS Shakhtar,False
+48,1733,Football,2022-10-05,1–4,Sevilla VS Dortmund,False
+49,1734,Football,2022-10-05,3–1,Juventus VS Maccabi Haifa,False
+51,1735,Football,2022-10-11,0–0,FC Copenhagen VS Manchester City,False
+52,1736,Football,2022-10-11,2–0,Maccabi Haifa VS Juventus,False
+53,1737,Football,2022-10-11,0–2,Celtic VS RB Leipzig,False
+54,1738,Football,2022-10-11,1–1,Dortmund VS Sevilla,False
+55,1739,Football,2022-10-11,1–1,Paris S G VS Benfica,False
+56,1740,Football,2022-10-11,0–2,Milan VS Chelsea,False
+57,1741,Football,2022-10-11,1–1,Dinamo Zagreb VS RB Salzburg,False
+58,1742,Football,2022-10-11,1–1,Shakhtar VS Real Madrid,False
+59,1743,Football,2022-10-12,4–2,Napoli VS Ajax,False
+60,1744,Football,2022-10-12,0–0,Atlético Madrid VS Club Brugge,False
+61,1745,Football,2022-10-12,0–2,Sporting CP VS Marseille,False
+62,1746,Football,2022-10-12,1–7,Rangers VS Liverpool,False
+63,1747,Football,2022-10-12,3–2,Tottenham VS Eint Frankfurt,False
+64,1748,Football,2022-10-12,2–4,Viktoria Plzeň VS Bayern Munich,False
+65,1749,Football,2022-10-12,0–3,Leverkusen VS Porto,False
+66,1750,Football,2022-10-12,3–3,Barcelona VS Inter,False
+68,1751,Football,2022-10-25,3–0,Sevilla VS FC Copenhagen,False
+69,1752,Football,2022-10-25,1–2,RB Salzburg VS Chelsea,False
+70,1753,Football,2022-10-25,4–3,Benfica VS Juventus,False
+71,1754,Football,2022-10-25,1–1,Celtic VS Shakhtar,False
+72,1755,Football,2022-10-25,7–2,Paris S G VS Maccabi Haifa,False
+73,1756,Football,2022-10-25,0–0,Dortmund VS Manchester City,False
+74,1757,Football,2022-10-25,3–2,RB Leipzig VS Real Madrid,False
+75,1758,Football,2022-10-25,0–4,Dinamo Zagreb VS Milan,False
+76,1759,Football,2022-10-26,0–4,Club Brugge VS Porto,False
+77,1760,Football,2022-10-26,4–0,Inter VS Viktoria Plzeň,False
+78,1761,Football,2022-10-26,1–1,Tottenham VS Sporting CP,False
+79,1762,Football,2022-10-26,2–1,Eint Frankfurt VS Marseille,False
+80,1763,Football,2022-10-26,2–2,Atlético Madrid VS Leverkusen,False
+81,1764,Football,2022-10-26,0–3,Barcelona VS Bayern Munich,False
+82,1765,Football,2022-10-26,0–3,Ajax VS Liverpool,False
+83,1766,Football,2022-10-26,3–0,Napoli VS Rangers,False
+85,1767,Football,2022-11-01,2–1,Porto VS Atlético Madrid,False
+86,1768,Football,2022-11-01,0–0,Leverkusen VS Club Brugge,False
+87,1769,Football,2022-11-01,2–0,Liverpool VS Napoli,False
+88,1770,Football,2022-11-01,1–3,Rangers VS Ajax,False
+89,1771,Football,2022-11-01,1–2,Sporting CP VS Eint Frankfurt,False
+90,1772,Football,2022-11-01,1–2,Marseille VS Tottenham,False
+91,1773,Football,2022-11-01,2–0,Bayern Munich VS Inter,False
+92,1774,Football,2022-11-01,2–4,Viktoria Plzeň VS Barcelona,False
+93,1775,Football,2022-11-02,5–1,Real Madrid VS Celtic,False
+94,1776,Football,2022-11-02,0–4,Shakhtar VS RB Leipzig,False
+95,1777,Football,2022-11-02,3–1,Manchester City VS Sevilla,False
+96,1778,Football,2022-11-02,2–1,Chelsea VS Dinamo Zagreb,False
+97,1779,Football,2022-11-02,1–1,FC Copenhagen VS Dortmund,False
+98,1780,Football,2022-11-02,1–2,Juventus VS Paris S G,False
+99,1781,Football,2022-11-02,4–0,Milan VS RB Salzburg,False
+100,1782,Football,2022-11-02,1–6,Maccabi Haifa VS Benfica,False
+102,1783,Football,2023-02-14,,Paris S G VS Bayern Munich,True
+103,1784,Football,2023-02-14,,Milan VS Tottenham,True
+104,1785,Football,2023-02-15,,Dortmund VS Chelsea,True
+105,1786,Football,2023-02-15,,Club Brugge VS Benfica,True
+106,1787,Football,2023-02-21,,Liverpool VS Real Madrid,True
+107,1788,Football,2023-02-21,,Eint Frankfurt VS Napoli,True
+108,1789,Football,2023-02-22,,RB Leipzig VS Manchester City,True
+109,1790,Football,2023-02-22,,Inter VS Porto,True
+110,1791,Football,2023-03-07,,Chelsea VS Dortmund,True
+111,1792,Football,2023-03-07,,Benfica VS Club Brugge,True
+112,1793,Football,2023-03-08,,Tottenham VS Milan,True
+113,1794,Football,2023-03-08,,Bayern Munich VS Paris S G,True
+114,1795,Football,2023-03-14,,Porto VS Inter,True
+115,1796,Football,2023-03-14,,Manchester City VS RB Leipzig,True
+116,1797,Football,2023-03-15,,Napoli VS Eint Frankfurt,True
+117,1798,Football,2023-03-15,,Real Madrid VS Liverpool,True
+0,1799,Football,2022-09-08,0–2,Malmö VS Braga,False
+1,1800,Football,2022-09-08,0–1,Union Berlin VS Union SG,False
+2,1801,Football,2022-09-08,1–2,Zürich VS Arsenal,False
+3,1802,Football,2022-09-08,1–1,PSV Eindhoven VS Bodø/Glimt,False
+4,1803,Football,2022-09-08,2–1,Ludogorets VS Roma,False
+5,1804,Football,2022-09-08,2–1,Fenerbahçe VS Dynamo Kyiv,False
+6,1805,Football,2022-09-08,0–2,HJK VS Betis,False
+7,1806,Football,2022-09-08,1–2,AÉK Lárnaka VS Rennes,False
+8,1807,Football,2022-09-08,0–1,Manchester Utd VS Real Sociedad,False
+9,1808,Football,2022-09-08,1–0,Sturm Graz VS Midtjylland,False
+10,1809,Football,2022-09-08,2–1,Freiburg VS Qarabağ Ağdam,False
+11,1810,Football,2022-09-08,3–2,Ferencváros VS Trabzonspor,False
+12,1811,Football,2022-09-08,0–1,Red Star VS Monaco,False
+13,1812,Football,2022-09-08,4–2,Lazio VS Feyenoord,False
+14,1813,Football,2022-09-08,2–1,Nantes VS Olympiacos,False
+15,1814,Football,2022-09-08,0–3,AC Omonia VS Sheriff Tiraspol,False
+17,1815,Football,2022-09-15,2–1,Real Sociedad VS AC Omonia,False
+18,1816,Football,2022-09-15,5–1,Midtjylland VS Lazio,False
+19,1817,Football,2022-09-15,6–0,Feyenoord VS Sturm Graz,False
+20,1818,Football,2022-09-15,0–1,Monaco VS Ferencváros,False
+21,1819,Football,2022-09-15,2–1,Trabzonspor VS Red Star,False
+22,1820,Football,2022-09-15,0–3,Olympiacos VS Freiburg,False
+23,1821,Football,2022-09-15,0–2,Sheriff Tiraspol VS Manchester Utd,False
+24,1822,Football,2022-09-15,1–0,Braga VS Union Berlin,False
+25,1823,Football,2022-09-15,3–0,Qarabağ Ağdam VS Nantes,False
+26,1824,Football,2022-09-15,3–2,Union SG VS Malmö,False
+27,1825,Football,2022-09-15,2–2,Rennes VS Fenerbahçe,False
+28,1826,Football,2022-09-15,0–1,Dynamo Kyiv VS AÉK Lárnaka,False
+29,1827,Football,2022-09-15,3–0,Roma VS HJK,False
+30,1828,Football,2022-09-15,2–1,Bodø/Glimt VS Zürich,False
+31,1829,Football,2022-09-15,3–2,Betis VS Ludogorets,False
+33,1830,Football,2022-10-06,1–5,Zürich VS PSV Eindhoven,False
+34,1831,Football,2022-10-06,0–1,Malmö VS Union Berlin,False
+35,1832,Football,2022-10-06,3–1,Monaco VS Trabzonspor,False
+36,1833,Football,2022-10-06,4–1,Red Star VS Ferencváros,False
+37,1834,Football,2022-10-06,0–0,Sturm Graz VS Lazio,False
+38,1835,Football,2022-10-06,1–1,HJK VS Ludogorets,False
+39,1836,Football,2022-10-06,2–3,AC Omonia VS Manchester Utd,False
+40,1837,Football,2022-10-06,0–2,Sheriff Tiraspol VS Real Sociedad,False
+41,1838,Football,2022-10-06,3–0,Arsenal VS Bodø/Glimt,False
+42,1839,Football,2022-10-06,1–2,Braga VS Union SG,False
+43,1840,Football,2022-10-06,1–2,Roma VS Betis,False
+44,1841,Football,2022-10-06,2–0,Freiburg VS Nantes,False
+45,1842,Football,2022-10-06,2–2,Midtjylland VS Feyenoord,False
+46,1843,Football,2022-10-06,2–1,Rennes VS Dynamo Kyiv,False
+47,1844,Football,2022-10-06,0–3,Olympiacos VS Qarabağ Ağdam,False
+48,1845,Football,2022-10-06,2–0,Fenerbahçe VS AÉK Lárnaka,False
+50,1846,Football,2022-10-13,3–3,Union SG VS Braga,False
+51,1847,Football,2022-10-13,0–1,Bodø/Glimt VS Arsenal,False
+52,1848,Football,2022-10-13,0–4,Nantes VS Freiburg,False
+53,1849,Football,2022-10-13,1–1,Betis VS Roma,False
+54,1850,Football,2022-10-13,2–2,Feyenoord VS Midtjylland,False
+55,1851,Football,2022-10-13,0–1,Dynamo Kyiv VS Rennes,False
+56,1852,Football,2022-10-13,1–2,AÉK Lárnaka VS Fenerbahçe,False
+57,1853,Football,2022-10-13,1–0,Manchester Utd VS AC Omonia,False
+58,1854,Football,2022-10-13,0–0,Qarabağ Ağdam VS Olympiacos,False
+59,1855,Football,2022-10-13,3–0,Real Sociedad VS Sheriff Tiraspol,False
+60,1856,Football,2022-10-13,5–0,PSV Eindhoven VS Zürich,False
+61,1857,Football,2022-10-13,1–0,Union Berlin VS Malmö,False
+62,1858,Football,2022-10-13,2–1,Ferencváros VS Red Star,False
+63,1859,Football,2022-10-13,2–2,Lazio VS Sturm Graz,False
+64,1860,Football,2022-10-13,2–0,Ludogorets VS HJK,False
+65,1861,Football,2022-10-13,4–0,Trabzonspor VS Monaco,False
+67,1862,Football,2022-10-20,1–0,Arsenal VS PSV Eindhoven,False
+69,1863,Football,2022-10-27,2–1,Lazio VS Midtjylland,False
+70,1864,Football,2022-10-27,1–0,Union Berlin VS Braga,False
+71,1865,Football,2022-10-27,2–0,PSV Eindhoven VS Arsenal,False
+72,1866,Football,2022-10-27,0–2,Malmö VS Union SG,False
+73,1867,Football,2022-10-27,2–1,Zürich VS Bodø/Glimt,False
+74,1868,Football,2022-10-27,3–3,AÉK Lárnaka VS Dynamo Kyiv,False
+75,1869,Football,2022-10-27,0–1,Ludogorets VS Betis,False
+76,1870,Football,2022-10-27,3–3,Fenerbahçe VS Rennes,False
+77,1871,Football,2022-10-27,3–0,Manchester Utd VS Sheriff Tiraspol,False
+78,1872,Football,2022-10-27,2–1,Red Star VS Trabzonspor,False
+79,1873,Football,2022-10-27,1–1,Freiburg VS Olympiacos,False
+80,1874,Football,2022-10-27,1–0,Sturm Graz VS Feyenoord,False
+81,1875,Football,2022-10-27,1–1,Ferencváros VS Monaco,False
+82,1876,Football,2022-10-27,2–1,Nantes VS Qarabağ Ağdam,False
+83,1877,Football,2022-10-27,0–2,AC Omonia VS Real Sociedad,False
+84,1878,Football,2022-10-27,1–2,HJK VS Roma,False
+86,1879,Football,2022-11-03,2–0,Midtjylland VS Sturm Graz,False
+87,1880,Football,2022-11-03,0–1,Real Sociedad VS Manchester Utd,False
+88,1881,Football,2022-11-03,1–0,Feyenoord VS Lazio,False
+89,1882,Football,2022-11-03,4–1,Monaco VS Red Star,False
+90,1883,Football,2022-11-03,1–0,Sheriff Tiraspol VS AC Omonia,False
+91,1884,Football,2022-11-03,0–2,Olympiacos VS Nantes,False
+92,1885,Football,2022-11-03,1–0,Arsenal VS Zürich,False
+93,1886,Football,2022-11-03,2–1,Braga VS Malmö,False
+94,1887,Football,2022-11-03,1–0,Trabzonspor VS Ferencváros,False
+95,1888,Football,2022-11-03,0–2,Dynamo Kyiv VS Fenerbahçe,False
+96,1889,Football,2022-11-03,1–1,Rennes VS AÉK Lárnaka,False
+97,1890,Football,2022-11-03,1–2,Bodø/Glimt VS PSV Eindhoven,False
+98,1891,Football,2022-11-03,3–1,Roma VS Ludogorets,False
+99,1892,Football,2022-11-03,0–1,Union SG VS Union Berlin,False
+100,1893,Football,2022-11-03,3–0,Betis VS HJK,False
+101,1894,Football,2022-11-03,1–1,Qarabağ Ağdam VS Freiburg,False
+103,1895,Football,2023-02-16,,Ajax VS Union Berlin,True
+104,1896,Football,2023-02-16,,Barcelona VS Manchester Utd,True
+105,1897,Football,2023-02-16,,RB Salzburg VS Roma,True
+106,1898,Football,2023-02-16,,Shakhtar VS Rennes,True
+107,1899,Football,2023-02-16,,Sporting CP VS Midtjylland,True
+108,1900,Football,2023-02-16,,Juventus VS Nantes,True
+109,1901,Football,2023-02-16,,Leverkusen VS Monaco,True
+110,1902,Football,2023-02-16,,Sevilla VS PSV Eindhoven,True
+112,1903,Football,2023-02-23,,Midtjylland VS Sporting CP,True
+113,1904,Football,2023-02-23,,PSV Eindhoven VS Sevilla,True
+114,1905,Football,2023-02-23,,Nantes VS Juventus,True
+115,1906,Football,2023-02-23,,Manchester Utd VS Barcelona,True
+116,1907,Football,2023-02-23,,Roma VS RB Salzburg,True
+117,1908,Football,2023-02-23,,Rennes VS Shakhtar,True
+118,1909,Football,2023-02-23,,Union Berlin VS Ajax,True
