@@ -1,0 +1,273 @@
+,ID,Category,Date,Score,Name,Active
+0,0,American Football,2022-09-08,31 - 10,Buffalo Bills - Los Angeles Rams,False
+1,1,American Football,2022-09-11,27 - 26,New Orleans Saints - Atlanta Falcons,False
+2,2,American Football,2022-09-11,26 - 24,Cleveland Browns - Carolina Panthers,False
+3,3,American Football,2022-09-11,19 - 10,Chicago Bears - San Francisco 49ers,False
+4,4,American Football,2022-09-11,23 - 20,Pittsburgh Steelers - Cincinnati Bengals,False
+5,5,American Football,2022-09-11,20 - 20,Houston Texans - Indianapolis Colts,False
+6,6,American Football,2022-09-11,38 - 35,Philadelphia Eagles - Detroit Lions,False
+7,7,American Football,2022-09-11,28 - 22,Washington Commanders - Jacksonville Jaguars,False
+8,8,American Football,2022-09-11,20 - 7,Miami Dolphins - New England Patriots,False
+9,9,American Football,2022-09-11,24 - 9,Baltimore Ravens - New York Jets,False
+10,10,American Football,2022-09-11,44 - 21,Kansas City Chiefs - Arizona Cardinals,False
+11,11,American Football,2022-09-11,23 - 7,Minnesota Vikings - Green Bay Packers,False
+12,12,American Football,2022-09-11,21 - 20,New York Giants - Tennessee Titans,False
+13,13,American Football,2022-09-11,24 - 19,Los Angeles Chargers - Las Vegas Raiders,False
+14,14,American Football,2022-09-11,19 - 3,Tampa Bay Buccaneers - Dallas Cowboys,False
+15,15,American Football,2022-09-12,17 - 16,Seattle Seahawks - Denver Broncos,False
+16,16,American Football,2022-09-15,27 - 24,Kansas City Chiefs - Los Angeles Chargers,False
+17,17,American Football,2022-09-18,19 - 16,New York Giants - Carolina Panthers,False
+18,18,American Football,2022-09-18,31 - 30,New York Jets - Cleveland Browns,False
+19,19,American Football,2022-09-18,24 - 0,Jacksonville Jaguars - Indianapolis Colts,False
+20,20,American Football,2022-09-18,36 - 27,Detroit Lions - Washington Commanders,False
+21,21,American Football,2022-09-18,42 - 38,Miami Dolphins - Baltimore Ravens,False
+22,22,American Football,2022-09-18,20 - 10,Tampa Bay Buccaneers - New Orleans Saints,False
+23,23,American Football,2022-09-18,17 - 14,New England Patriots - Pittsburgh Steelers,False
+24,24,American Football,2022-09-18,31 - 27,Los Angeles Rams - Atlanta Falcons,False
+25,25,American Football,2022-09-18,27 - 7,San Francisco 49ers - Seattle Seahawks,False
+26,26,American Football,2022-09-18,20 - 17,Dallas Cowboys - Cincinnati Bengals,False
+27,27,American Football,2022-09-18,29 - 23,Arizona Cardinals - Las Vegas Raiders,False
+28,28,American Football,2022-09-18,16 - 9,Denver Broncos - Houston Texans,False
+29,29,American Football,2022-09-18,27 - 10,Green Bay Packers - Chicago Bears,False
+30,30,American Football,2022-09-19,41 - 7,Buffalo Bills - Tennessee Titans,False
+31,31,American Football,2022-09-19,24 - 7,Philadelphia Eagles - Minnesota Vikings,False
+32,32,American Football,2022-09-22,29 - 17,Cleveland Browns - Pittsburgh Steelers,False
+33,33,American Football,2022-09-25,21 - 19,Miami Dolphins - Buffalo Bills,False
+34,34,American Football,2022-09-25,22 - 14,Carolina Panthers - New Orleans Saints,False
+35,35,American Football,2022-09-25,23 - 20,Chicago Bears - Houston Texans,False
+36,36,American Football,2022-09-25,27 - 12,Cincinnati Bengals - New York Jets,False
+37,37,American Football,2022-09-25,20 - 17,Indianapolis Colts - Kansas City Chiefs,False
+38,38,American Football,2022-09-25,28 - 24,Minnesota Vikings - Detroit Lions,False
+39,39,American Football,2022-09-25,37 - 26,Baltimore Ravens - New England Patriots,False
+40,40,American Football,2022-09-25,24 - 22,Tennessee Titans - Las Vegas Raiders,False
+41,41,American Football,2022-09-25,24 - 8,Philadelphia Eagles - Washington Commanders,False
+42,42,American Football,2022-09-25,38 - 10,Jacksonville Jaguars - Los Angeles Chargers,False
+43,43,American Football,2022-09-25,27 - 23,Atlanta Falcons - Seattle Seahawks,False
+44,44,American Football,2022-09-25,20 - 12,Los Angeles Rams - Arizona Cardinals,False
+45,45,American Football,2022-09-25,14 - 12,Green Bay Packers - Tampa Bay Buccaneers,False
+46,46,American Football,2022-09-25,11 - 10,Denver Broncos - San Francisco 49ers,False
+47,47,American Football,2022-09-26,23 - 16,Dallas Cowboys - New York Giants,False
+48,48,American Football,2022-09-29,27 - 15,Cincinnati Bengals - Miami Dolphins,False
+49,49,American Football,2022-10-02,28 - 25,Minnesota Vikings - New Orleans Saints,False
+50,50,American Football,2022-10-02,23 - 20,Atlanta Falcons - Cleveland Browns,False
+51,51,American Football,2022-10-02,23 - 20,Buffalo Bills - Baltimore Ravens,False
+52,52,American Football,2022-10-02,20 - 12,New York Giants - Chicago Bears,False
+53,53,American Football,2022-10-02,24 - 17,Tennessee Titans - Indianapolis Colts,False
+54,54,American Football,2022-10-02,25 - 10,Dallas Cowboys - Washington Commanders,False
+55,55,American Football,2022-10-02,48 - 45,Seattle Seahawks - Detroit Lions,False
+56,56,American Football,2022-10-02,34 - 24,Los Angeles Chargers - Houston Texans,False
+57,57,American Football,2022-10-02,29 - 21,Philadelphia Eagles - Jacksonville Jaguars,False
+58,58,American Football,2022-10-02,24 - 20,New York Jets - Pittsburgh Steelers,False
+59,59,American Football,2022-10-02,26 - 16,Arizona Cardinals - Carolina Panthers,False
+60,60,American Football,2022-10-02,32 - 23,Las Vegas Raiders - Denver Broncos,False
+61,61,American Football,2022-10-02,27 - 24,Green Bay Packers - New England Patriots,False
+62,62,American Football,2022-10-02,41 - 31,Kansas City Chiefs - Tampa Bay Buccaneers,False
+63,63,American Football,2022-10-03,24 - 9,San Francisco 49ers - Los Angeles Rams,False
+64,64,American Football,2022-10-06,12 - 9,Indianapolis Colts - Denver Broncos,False
+65,65,American Football,2022-10-09,27 - 22,New York Giants - Green Bay Packers,False
+66,66,American Football,2022-10-09,21 - 15,Tampa Bay Buccaneers - Atlanta Falcons,False
+67,67,American Football,2022-10-09,38 - 3,Buffalo Bills - Pittsburgh Steelers,False
+68,68,American Football,2022-10-09,29 - 22,Minnesota Vikings - Chicago Bears,False
+69,69,American Football,2022-10-09,30 - 28,Los Angeles Chargers - Cleveland Browns,False
+70,70,American Football,2022-10-09,29 - 0,New England Patriots - Detroit Lions,False
+71,71,American Football,2022-10-09,13 - 6,Houston Texans - Jacksonville Jaguars,False
+72,72,American Football,2022-10-09,40 - 17,New York Jets - Miami Dolphins,False
+73,73,American Football,2022-10-09,39 - 32,New Orleans Saints - Seattle Seahawks,False
+74,74,American Football,2022-10-09,21 - 17,Tennessee Titans - Washington Commanders,False
+75,75,American Football,2022-10-09,37 - 15,San Francisco 49ers - Carolina Panthers,False
+76,76,American Football,2022-10-09,20 - 17,Philadelphia Eagles - Arizona Cardinals,False
+77,77,American Football,2022-10-09,22 - 10,Dallas Cowboys - Los Angeles Rams,False
+78,78,American Football,2022-10-09,19 - 17,Baltimore Ravens - Cincinnati Bengals,False
+79,79,American Football,2022-10-10,30 - 29,Kansas City Chiefs - Las Vegas Raiders,False
+80,80,American Football,2022-10-13,12 - 7,Washington Commanders - Chicago Bears,False
+81,81,American Football,2022-10-16,28 - 14,Atlanta Falcons - San Francisco 49ers,False
+82,82,American Football,2022-10-16,30 - 26,Cincinnati Bengals - New Orleans Saints,False
+83,83,American Football,2022-10-16,38 - 15,New England Patriots - Cleveland Browns,False
+84,84,American Football,2022-10-16,34 - 27,Indianapolis Colts - Jacksonville Jaguars,False
+85,85,American Football,2022-10-16,27 - 10,New York Jets - Green Bay Packers,False
+86,86,American Football,2022-10-16,24 - 16,Minnesota Vikings - Miami Dolphins,False
+87,87,American Football,2022-10-16,24 - 20,New York Giants - Baltimore Ravens,False
+88,88,American Football,2022-10-16,20 - 18,Pittsburgh Steelers - Tampa Bay Buccaneers,False
+89,89,American Football,2022-10-16,24 - 10,Los Angeles Rams - Carolina Panthers,False
+90,90,American Football,2022-10-16,19 - 9,Seattle Seahawks - Arizona Cardinals,False
+91,91,American Football,2022-10-16,24 - 20,Buffalo Bills - Kansas City Chiefs,False
+92,92,American Football,2022-10-16,26 - 17,Philadelphia Eagles - Dallas Cowboys,False
+93,93,American Football,2022-10-17,19 - 16,Los Angeles Chargers - Denver Broncos,False
+94,94,American Football,2022-10-20,42 - 34,Arizona Cardinals - New Orleans Saints,False
+95,95,American Football,2022-10-23,35 - 17,Cincinnati Bengals - Atlanta Falcons,False
+96,96,American Football,2022-10-23,21 - 3,Carolina Panthers - Tampa Bay Buccaneers,False
+97,97,American Football,2022-10-23,23 - 20,Baltimore Ravens - Cleveland Browns,False
+98,98,American Football,2022-10-23,19 - 10,Tennessee Titans - Indianapolis Colts,False
+99,99,American Football,2022-10-23,24 - 6,Dallas Cowboys - Detroit Lions,False
+100,100,American Football,2022-10-23,23 - 21,Washington Commanders - Green Bay Packers,False
+101,101,American Football,2022-10-23,23 - 17,New York Giants - Jacksonville Jaguars,False
+102,102,American Football,2022-10-23,38 - 20,Las Vegas Raiders - Houston Texans,False
+103,103,American Football,2022-10-23,16 - 9,New York Jets - Denver Broncos,False
+104,104,American Football,2022-10-23,44 - 23,Kansas City Chiefs - San Francisco 49ers,False
+105,105,American Football,2022-10-23,37 - 23,Seattle Seahawks - Los Angeles Chargers,False
+106,106,American Football,2022-10-23,16 - 10,Miami Dolphins - Pittsburgh Steelers,False
+107,107,American Football,2022-10-24,33 - 14,Chicago Bears - New England Patriots,False
+108,108,American Football,2022-10-27,27 - 22,Baltimore Ravens - Tampa Bay Buccaneers,False
+109,109,American Football,2022-10-30,21 - 17,Denver Broncos - Jacksonville Jaguars,False
+110,110,American Football,2022-10-30,31 - 27,Miami Dolphins - Detroit Lions,False
+111,111,American Football,2022-10-30,35 - 13,Philadelphia Eagles - Pittsburgh Steelers,False
+112,112,American Football,2022-10-30,37 - 34,Atlanta Falcons - Carolina Panthers,False
+113,113,American Football,2022-10-30,49 - 29,Dallas Cowboys - Chicago Bears,False
+114,114,American Football,2022-10-30,34 - 26,Minnesota Vikings - Arizona Cardinals,False
+115,115,American Football,2022-10-30,24 - 0,New Orleans Saints - Las Vegas Raiders,False
+116,116,American Football,2022-10-30,22 - 17,New England Patriots - New York Jets,False
+117,117,American Football,2022-10-30,17 - 10,Tennessee Titans - Houston Texans,False
+118,118,American Football,2022-10-30,31 - 14,San Francisco 49ers - Los Angeles Rams,False
+119,119,American Football,2022-10-30,17 - 16,Washington Commanders - Indianapolis Colts,False
+120,120,American Football,2022-10-30,27 - 13,Seattle Seahawks - New York Giants,False
+121,121,American Football,2022-10-30,27 - 17,Buffalo Bills - Green Bay Packers,False
+122,122,American Football,2022-10-31,32 - 13,Cleveland Browns - Cincinnati Bengals,False
+123,123,American Football,2022-11-03,29 - 17,Philadelphia Eagles - Houston Texans,False
+124,124,American Football,2022-11-06,20 - 17,New York Jets - Buffalo Bills,False
+125,125,American Football,2022-11-06,15 - 9,Detroit Lions - Green Bay Packers,False
+126,126,American Football,2022-11-06,20 - 17,Minnesota Vikings - Washington Commanders,False
+127,127,American Football,2022-11-06,20 - 17,Los Angeles Chargers - Atlanta Falcons,False
+128,128,American Football,2022-11-06,42 - 21,Cincinnati Bengals - Carolina Panthers,False
+129,129,American Football,2022-11-06,35 - 32,Miami Dolphins - Chicago Bears,False
+130,130,American Football,2022-11-06,26 - 3,New England Patriots - Indianapolis Colts,False
+131,131,American Football,2022-11-06,27 - 20,Jacksonville Jaguars - Las Vegas Raiders,False
+132,132,American Football,2022-11-06,31 - 21,Seattle Seahawks - Arizona Cardinals,False
+133,133,American Football,2022-11-06,16 - 13,Tampa Bay Buccaneers - Los Angeles Rams,False
+134,134,American Football,2022-11-06,20 - 17,Kansas City Chiefs - Tennessee Titans,False
+135,135,American Football,2022-11-07,27 - 13,Baltimore Ravens - New Orleans Saints,False
+136,136,American Football,2022-11-10,25 - 15,Carolina Panthers - Atlanta Falcons,False
+137,137,American Football,2022-11-13,21 - 16,Tampa Bay Buccaneers - Seattle Seahawks,False
+138,138,American Football,2022-11-13,33 - 30,Minnesota Vikings - Buffalo Bills,False
+139,139,American Football,2022-11-13,39 - 17,Miami Dolphins - Cleveland Browns,False
+140,140,American Football,2022-11-13,17 - 10,Tennessee Titans - Denver Broncos,False
+141,141,American Football,2022-11-13,24 - 16,New York Giants - Houston Texans,False
+142,142,American Football,2022-11-13,31 - 30,Detroit Lions - Chicago Bears,False
+143,143,American Football,2022-11-13,27 - 17,Kansas City Chiefs - Jacksonville Jaguars,False
+144,144,American Football,2022-11-13,20 - 10,Pittsburgh Steelers - New Orleans Saints,False
+145,145,American Football,2022-11-13,25 - 20,Indianapolis Colts - Las Vegas Raiders,False
+146,146,American Football,2022-11-13,31 - 28,Green Bay Packers - Dallas Cowboys,False
+147,147,American Football,2022-11-13,27 - 17,Arizona Cardinals - Los Angeles Rams,False
+148,148,American Football,2022-11-13,22 - 16,San Francisco 49ers - Los Angeles Chargers,False
+149,149,American Football,2022-11-14,32 - 21,Washington Commanders - Philadelphia Eagles,False
+150,150,American Football,2022-11-17,27 - 17,Tennessee Titans - Green Bay Packers,False
+151,151,American Football,2022-11-20,31 - 23,Buffalo Bills - Cleveland Browns,False
+152,152,American Football,2022-11-20,31 - 18,Detroit Lions - New York Giants,False
+153,153,American Football,2022-11-20,23 - 10,Washington Commanders - Houston Texans,False
+154,154,American Football,2022-11-20,10 - 3,New England Patriots - New York Jets,False
+155,155,American Football,2022-11-20,27 - 24,Atlanta Falcons - Chicago Bears,False
+156,156,American Football,2022-11-20,13 - 3,Baltimore Ravens - Carolina Panthers,False
+157,157,American Football,2022-11-20,17 - 16,Philadelphia Eagles - Indianapolis Colts,False
+158,158,American Football,2022-11-20,27 - 20,New Orleans Saints - Los Angeles Rams,False
+159,159,American Football,2022-11-20,22 - 16,Las Vegas Raiders - Denver Broncos,False
+160,160,American Football,2022-11-20,37 - 30,Cincinnati Bengals - Pittsburgh Steelers,False
+161,161,American Football,2022-11-20,40 - 3,Dallas Cowboys - Minnesota Vikings,False
+162,162,American Football,2022-11-20,30 - 27,Kansas City Chiefs - Los Angeles Chargers,False
+163,163,American Football,2022-11-21,38 - 10,San Francisco 49ers - Arizona Cardinals,False
+164,164,American Football,2022-11-24,28 - 25,Buffalo Bills - Detroit Lions,False
+165,165,American Football,2022-11-24,28 - 20,Dallas Cowboys - New York Giants,False
+166,166,American Football,2022-11-24,33 - 26,Minnesota Vikings - New England Patriots,False
+167,167,American Football,2022-11-27,20 - 16,Cincinnati Bengals - Tennessee Titans,False
+168,168,American Football,2022-11-27,23 - 17,Cleveland Browns - Tampa Bay Buccaneers,False
+169,169,American Football,2022-11-27,30 - 15,Miami Dolphins - Houston Texans,False
+170,170,American Football,2022-11-27,28 - 27,Jacksonville Jaguars - Baltimore Ravens,False
+171,171,American Football,2022-11-27,19 - 13,Washington Commanders - Atlanta Falcons,False
+172,172,American Football,2022-11-27,23 - 10,Carolina Panthers - Denver Broncos,False
+173,173,American Football,2022-11-27,31 - 10,New York Jets - Chicago Bears,False
+174,174,American Football,2022-11-27,40 - 34,Las Vegas Raiders - Seattle Seahawks,False
+175,175,American Football,2022-11-27,25 - 24,Los Angeles Chargers - Arizona Cardinals,False
+176,176,American Football,2022-11-27,26 - 10,Kansas City Chiefs - Los Angeles Rams,False
+177,177,American Football,2022-11-27,13 - 0,San Francisco 49ers - New Orleans Saints,False
+178,178,American Football,2022-11-27,40 - 33,Philadelphia Eagles - Green Bay Packers,False
+179,179,American Football,2022-11-28,24 - 17,Pittsburgh Steelers - Indianapolis Colts,False
+180,180,American Football,2022-12-01,24 - 10,Buffalo Bills - New England Patriots,False
+181,181,American Football,2022-12-04,27 - 14,Cleveland Browns - Houston Texans,False
+182,182,American Football,2022-12-04,10 - 9,Baltimore Ravens - Denver Broncos,False
+183,183,American Football,2022-12-04,40 - 14,Detroit Lions - Jacksonville Jaguars,False
+184,184,American Football,2022-12-04,27 - 22,Minnesota Vikings - New York Jets,False
+185,185,American Football,2022-12-04,20 - 20,Washington Commanders - New York Giants,False
+186,186,American Football,2022-12-04,35 - 10,Philadelphia Eagles - Tennessee Titans,False
+187,187,American Football,2022-12-04,19 - 16,Pittsburgh Steelers - Atlanta Falcons,False
+188,188,American Football,2022-12-04,28 - 19,Green Bay Packers - Chicago Bears,False
+189,189,American Football,2022-12-04,33 - 17,San Francisco 49ers - Miami Dolphins,False
+190,190,American Football,2022-12-04,27 - 23,Seattle Seahawks - Los Angeles Rams,False
+191,191,American Football,2022-12-04,27 - 24,Cincinnati Bengals - Kansas City Chiefs,False
+192,192,American Football,2022-12-04,27 - 20,Las Vegas Raiders - Los Angeles Chargers,False
+193,193,American Football,2022-12-04,54 - 19,Dallas Cowboys - Indianapolis Colts,False
+194,194,American Football,2022-12-05,17 - 16,Tampa Bay Buccaneers - New Orleans Saints,False
+195,195,American Football,2022-12-08,,Las Vegas Raiders - Los Angeles Rams,False
+196,196,American Football,2022-12-11,,Cleveland Browns - Cincinnati Bengals,True
+197,197,American Football,2022-12-11,,Philadelphia Eagles - New York Giants,True
+198,198,American Football,2022-12-11,,New York Jets - Buffalo Bills,True
+199,199,American Football,2022-12-11,,Houston Texans - Dallas Cowboys,True
+200,200,American Football,2022-12-11,,Jacksonville Jaguars - Tennessee Titans,True
+201,201,American Football,2022-12-11,,Baltimore Ravens - Pittsburgh Steelers,True
+202,202,American Football,2022-12-11,,Minnesota Vikings - Detroit Lions,True
+203,203,American Football,2022-12-11,,Miami Dolphins - Los Angeles Chargers,True
+204,204,American Football,2022-12-11,,Tampa Bay Buccaneers - San Francisco 49ers,True
+205,205,American Football,2022-12-11,,Carolina Panthers - Seattle Seahawks,True
+206,206,American Football,2022-12-11,,Kansas City Chiefs - Denver Broncos,True
+207,207,American Football,2022-12-12,,New England Patriots - Arizona Cardinals,True
+208,208,American Football,2022-12-15,,San Francisco 49ers - Seattle Seahawks,True
+209,209,American Football,2022-12-17,,Indianapolis Colts - Minnesota Vikings,True
+210,210,American Football,2022-12-17,,Baltimore Ravens - Cleveland Browns,True
+211,211,American Football,2022-12-17,,Miami Dolphins - Buffalo Bills,True
+212,212,American Football,2022-12-18,,Kansas City Chiefs - Houston Texans,True
+213,213,American Football,2022-12-18,,Philadelphia Eagles - Chicago Bears,True
+214,214,American Football,2022-12-18,,New York Giants - Washington Commanders,True
+215,215,American Football,2022-12-18,,Detroit Lions - New York Jets,True
+216,216,American Football,2022-12-18,,Dallas Cowboys - Jacksonville Jaguars,True
+217,217,American Football,2022-12-18,,Atlanta Falcons - New Orleans Saints,True
+218,218,American Football,2022-12-18,,Pittsburgh Steelers - Carolina Panthers,True
+219,219,American Football,2022-12-18,,Arizona Cardinals - Denver Broncos,True
+220,220,American Football,2022-12-18,,Tennessee Titans - Los Angeles Chargers,True
+221,221,American Football,2022-12-18,,Cincinnati Bengals - Tampa Bay Buccaneers,True
+222,222,American Football,2022-12-18,,New England Patriots - Las Vegas Raiders,True
+223,223,American Football,2022-12-19,,Los Angeles Rams - Green Bay Packers,True
+224,224,American Football,2022-12-22,,Jacksonville Jaguars - New York Jets,True
+225,225,American Football,2022-12-24,,Atlanta Falcons - Baltimore Ravens,True
+226,226,American Football,2022-12-24,,Buffalo Bills - Chicago Bears,True
+227,227,American Football,2022-12-24,,New Orleans Saints - Cleveland Browns,True
+228,228,American Football,2022-12-24,,Seattle Seahawks - Kansas City Chiefs,True
+229,229,American Football,2022-12-24,,Cincinnati Bengals - New England Patriots,True
+230,230,American Football,2022-12-24,,Houston Texans - Tennessee Titans,True
+231,231,American Football,2022-12-24,,New York Giants - Minnesota Vikings,True
+232,232,American Football,2022-12-24,,Detroit Lions - Carolina Panthers,True
+233,233,American Football,2022-12-24,,Washington Commanders - San Francisco 49ers,True
+234,234,American Football,2022-12-24,,Philadelphia Eagles - Dallas Cowboys,True
+235,235,American Football,2022-12-24,,Las Vegas Raiders - Pittsburgh Steelers,True
+236,236,American Football,2022-12-25,,Green Bay Packers - Miami Dolphins,True
+237,237,American Football,2022-12-25,,Denver Broncos - Los Angeles Rams,True
+238,238,American Football,2022-12-25,,Tampa Bay Buccaneers - Arizona Cardinals,True
+239,239,American Football,2022-12-26,,Los Angeles Chargers - Indianapolis Colts,True
+240,240,American Football,2022-12-29,,Dallas Cowboys - Tennessee Titans,True
+241,241,American Football,2023-01-01,,Denver Broncos - Kansas City Chiefs,True
+242,242,American Football,2023-01-01,,Arizona Cardinals - Atlanta Falcons,True
+243,243,American Football,2023-01-01,,Pittsburgh Steelers - Baltimore Ravens,True
+244,244,American Football,2023-01-01,,Indianapolis Colts - New York Giants,True
+245,245,American Football,2023-01-01,,Cleveland Browns - Washington Commanders,True
+246,246,American Football,2023-01-01,,Chicago Bears - Detroit Lions,True
+247,247,American Football,2023-01-01,,Carolina Panthers - Tampa Bay Buccaneers,True
+248,248,American Football,2023-01-01,,Jacksonville Jaguars - Houston Texans,True
+249,249,American Football,2023-01-01,,New Orleans Saints - Philadelphia Eagles,True
+250,250,American Football,2023-01-01,,Miami Dolphins - New England Patriots,True
+251,251,American Football,2023-01-01,,New York Jets - Seattle Seahawks,True
+252,252,American Football,2023-01-01,,San Francisco 49ers - Las Vegas Raiders,True
+253,253,American Football,2023-01-01,,Minnesota Vikings - Green Bay Packers,True
+254,254,American Football,2023-01-01,,Los Angeles Rams - Los Angeles Chargers,True
+255,255,American Football,2023-01-02,,Buffalo Bills - Cincinnati Bengals,True
+256,256,American Football,2023-01-08,,Arizona Cardinals - San Francisco 49ers,True
+257,257,American Football,2023-01-08,,Dallas Cowboys - Washington Commanders,True
+258,258,American Football,2023-01-08,,Tennessee Titans - Jacksonville Jaguars,True
+259,259,American Football,2023-01-08,,Los Angeles Rams - Seattle Seahawks,True
+260,260,American Football,2023-01-08,,Cleveland Browns - Pittsburgh Steelers,True
+261,261,American Football,2023-01-08,,New York Jets - Miami Dolphins,True
+262,262,American Football,2023-01-08,,Baltimore Ravens - Cincinnati Bengals,True
+263,263,American Football,2023-01-08,,New York Giants - Philadelphia Eagles,True
+264,264,American Football,2023-01-08,,Los Angeles Chargers - Denver Broncos,True
+265,265,American Football,2023-01-08,,Detroit Lions - Green Bay Packers,True
+266,266,American Football,2023-01-08,,Carolina Panthers - New Orleans Saints,True
+267,267,American Football,2023-01-08,,New England Patriots - Buffalo Bills,True
+268,268,American Football,2023-01-08,,Houston Texans - Indianapolis Colts,True
+269,269,American Football,2023-01-08,,Kansas City Chiefs - Las Vegas Raiders,True
+270,270,American Football,2023-01-08,,Tampa Bay Buccaneers - Atlanta Falcons,True
+271,271,American Football,2023-01-08,,Minnesota Vikings - Chicago Bears,True
