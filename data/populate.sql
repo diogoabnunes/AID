@@ -998,7 +998,6 @@ INSERT INTO "User" VALUES ('997','Bax Levick','17468 Kropf Court','nan','Gaotang
 INSERT INTO "User" VALUES ('998','Hermine Bowerbank','4100 Brown Avenue','32-060','Rzozów','1989-12-06','33','240-137-7616','Poland','False','True');
 INSERT INTO "User" VALUES ('999','Beaufort Caulier','72724 Rigney Hill','11320','Kandana','1999-02-13','23','961-971-2453','Sri Lanka','False','True');
 INSERT INTO "User" VALUES ('1000','Thadeus Bowdrey','82086 Rockefeller Court','781 81','Borlänge','1958-11-26','64','785-544-3130','Sweden','False','False');
-
 INSERT INTO "Event" VALUES ('0','Benfica VS Arouca','2022-08-05','Football','False','4-0');
 INSERT INTO "Event" VALUES ('1','Lyon VS Ajaccio','2022-08-05','Football','False','2-1');
 INSERT INTO "Event" VALUES ('2','Crystal Palace VS Arsenal','2022-08-05','Football','False','0-2');
@@ -5667,7 +5666,6 @@ INSERT INTO "Event" VALUES ('4664','Aston Villa VS Nott ham Forest','2023-04-08'
 INSERT INTO "Event" VALUES ('4665','Fulham VS West Ham','2023-04-08','Football','True','nan');
 INSERT INTO "Event" VALUES ('4666','Bochum VS Stuttgart','2023-04-08','Football','True','nan');
 INSERT INTO "Event" VALUES ('4667','Washington Capitals - Florida Panthers','2023-04-08','Hockey','True','nan');
-
 INSERT INTO "Market" VALUES ('0','Score','3236');
 INSERT INTO "Market" VALUES ('1','Score','1190');
 INSERT INTO "Market" VALUES ('2','Winner','1268');
@@ -8668,7 +8666,6 @@ INSERT INTO "Market" VALUES ('2996','Score','2018');
 INSERT INTO "Market" VALUES ('2997','Winner','2254');
 INSERT INTO "Market" VALUES ('2998','Winner','3734');
 INSERT INTO "Market" VALUES ('2999','Score','1137');
-
 INSERT INTO "Contract" VALUES ('0','Home','1919');
 INSERT INTO "Contract" VALUES ('1','Draw','342');
 INSERT INTO "Contract" VALUES ('2','Away','1581');
@@ -11669,7 +11666,6 @@ INSERT INTO "Contract" VALUES ('2996','Away','547');
 INSERT INTO "Contract" VALUES ('2997','Home','815');
 INSERT INTO "Contract" VALUES ('2998','Draw','2437');
 INSERT INTO "Contract" VALUES ('2999','Home','2146');
-
 INSERT INTO "Order" VALUES ('0','2','2820','69','1','Lost');
 INSERT INTO "Order" VALUES ('1','742','2007','74','32','Lost');
 INSERT INTO "Order" VALUES ('2','424','1933','61','41','Pending');
@@ -17670,7 +17666,6 @@ INSERT INTO "Order" VALUES ('5996','331','1657','91','0','Pending');
 INSERT INTO "Order" VALUES ('5997','796','2953','7','0','Pending');
 INSERT INTO "Order" VALUES ('5998','105','2953','24','0','Pending');
 INSERT INTO "Order" VALUES ('5999','726','2331','155','0','Lost');
-
 INSERT INTO "Deal" VALUES ('1022','3000','7','2022-08-03');
 INSERT INTO "Deal" VALUES ('2574','3001','45','2022-06-24');
 INSERT INTO "Deal" VALUES ('2041','3002','54','2022-07-30');
@@ -20671,4 +20666,3 @@ INSERT INTO "Deal" VALUES ('1572','5996','91','2023-01-07');
 INSERT INTO "Deal" VALUES ('70','5997','7','2022-05-13');
 INSERT INTO "Deal" VALUES ('327','5998','24','2022-07-25');
 INSERT INTO "Deal" VALUES ('308','5999','155','2022-06-27');
-
